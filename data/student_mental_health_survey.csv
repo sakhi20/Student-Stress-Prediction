@@ -1,0 +1,501 @@
+Age,Gender,University,Department,Academic Year,Current CGPA,Did you receive a waiver or scholarship at your university?,"In a semester, how often you felt nervous, anxious or on edge due to academic pressure?","In a semester, how often have you been unable to stop worrying about your academic affairs?","In a semester, how often have you had trouble relaxing due to academic pressure?","In a semester, how often have you been easily annoyed or irritated because of academic pressure?","In a semester, how often have you worried too much about academic affairs?","In a semester, how often have you been so restless due to academic pressure that it is hard to sit still?","In a semester, how often have you felt afraid, as if something awful might happen?",Anxiety Value,Anxiety Label,"In a semester, how often have you felt upset due to something that happened in your academic affairs?","In a semester, how often you felt as if you were unable to control important things in your academic affairs?","In a semester, how often you felt nervous and stressed because of academic pressure?","In a semester, how often you felt as if you could not cope with all the mandatory academic activities?","In a semester, how often you felt confident about your ability to handle your academic problems?","In a semester, how often you felt as if things in your academic life are going your way?","In a semester, how often are you able to control irritations in your academic affairs?","In a semester, how often you felt as if your academic performance was on top?","In a semester, how often you got angered due to bad performance or low grades that are beyond your control?","In a semester, how often you felt as if academic difficulties are piling up so high that you could not overcome them?",Stress Value,Stress Label,"In a semester, how often have you had little interest or pleasure in doing things?","In a semester, how often have you been feeling down, depressed or hopeless?","In a semester, how often have you had trouble falling or staying asleep, or sleeping too much?","In a semester, how often have you been feeling tired or having little energy?","In a semester, how often have you had poor appetite or overeating?","In a semester, how often have you been feeling bad about yourself - or that you are a failure or have let yourself or your family down?","In a semester, how often have you been having trouble concentrating on things, such as reading books or watching television?","In a semester, how often have you moved or spoke too slowly for other people to notice?","In a semester, how often have you had thoughts that you would be better off dead, or of hurting yourself?",Depression Value,Depression Label
+20,Female,NC State University,Business,2nd Year,3.53,Yes,2,1,0,1,0,2,1,7,Low,0,0,1,1,3,2,2,3,1,1,10,Low,1,0,1,0,1,2,1,0,0,6,Low
+21-23,Female,Duke University,Engineering,1st Year,3.91,No,0,1,0,0,0,0,0,1,Low,0,0,0,0,4,3,4,3,0,1,3,Low,0,0,0,1,0,0,0,0,0,1,Low
+21,Male,UNC Chapel Hill,Computer Science,4th Year,2.2-2.7,No,2,2,3,4,3,3,3,20,Medium,3,3,4,2,0,2,1,3,4,4,30,Medium,2,2,2,3,4,4,3,2,3,25,Medium
+21,Female,UNC Chapel Hill,Engineering,1st Year,2.88,Yes,2,1,2,2,0,1,2,10,Low,1,2,2,3,4,2,2,2,2,1,17,Low,1,2,2,1,2,1,3,1,1,14,Low
+19,Female,UNC Chapel Hill,Engineering,2nd Year,3.79,No,0,0,0,0,0,0,0,0,Low,1,0,0,1,3,3,4,4,1,0,5,Low,1,0,0,0,1,0,0,0,0,2,Low
+19,Male,UNC Chapel Hill,Engineering,4th Year,3.6-4.1,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,3,3,4,4,0,2,4,Low,0,0,0,0,0,1,0,2,0,3,Low
+18-20,Female,UNC Chapel Hill,Business,2nd Year,3.02,No,1,2,1,2,2,1,3,12,Low,1,1,2,0,3,2,3,4,2,4,14,Low,2,3,1,1,2,0,2,2,2,15,Low
+22,Female,UNC Chapel Hill,Business,4th Year,3.85,No,0,0,0,0,1,0,0,1,Low,0,0,0,2,3,4,3,4,0,0,4,Low,0,0,0,0,0,0,1,0,1,2,Low
+21,Female,NC State University,Business,1st Year,2.9-3.4,No,1,2,1,1,1,2,2,10,Low,0,3,0,3,4,4,3,1,2,0,12,Low,2,1,1,2,3,2,1,0,2,14,Low
+21,Female,Duke University,Psychology,2nd Year,3.45,Yes,1,1,0,2,0,1,0,5,Low,0,0,0,1,4,4,4,3,1,1,4,Low,0,1,0,0,2,1,3,0,0,7,Low
+18-20,Female,NC State University,Biology,1st Year,2.27,No,3,3,4,2,2,2,3,19,Medium,3,4,3,2,1,1,2,2,3,3,28,Medium,3,3,3,2,3,3,3,4,4,28,Medium
+21-23,Male,Wake Forest,Psychology,1st Year,2.6-3.1,Yes,1,2,1,2,1,3,2,12,Low,2,2,2,2,1,2,2,3,1,2,19,Medium,0,2,0,4,3,4,1,0,3,17,Low
+22,Female,Wake Forest,Arts,4th Year,2.56,No,2,3,1,3,3,4,2,18,Medium,3,2,3,2,1,3,1,0,3,3,27,Medium,1,4,2,1,4,1,3,2,2,20,Medium
+19,Female,NC State University,Computer Science,1st Year,3.7-4.2,No,0,0,0,0,0,0,0,0,Low,0,0,0,1,3,4,4,4,0,0,2,Low,0,0,0,1,0,1,0,1,0,3,Low
+19,Male,UNC Chapel Hill,Computer Science,3rd Year,3.8-4.3,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,0,0,0,2,1,0,0,0,3,Low
+19,Male,Wake Forest,Computer Science,2nd Year,3.66,No,1,1,0,0,0,2,0,4,Low,0,1,0,0,3,4,4,3,0,0,3,Low,2,0,0,1,0,2,0,0,0,5,Low
+19,Male,NC State University,Business,2nd Year,2.0-2.5,Yes,2,3,3,4,3,2,3,20,Medium,4,4,2,3,1,0,0,2,2,4,32,Medium,1,1,1,4,3,1,3,4,2,20,Medium
+20,Female,Duke University,Biology,4th Year,3.67,No,0,0,1,0,2,0,0,3,Low,1,0,0,1,3,4,3,4,0,1,5,Low,0,0,1,1,1,0,2,1,0,6,Low
+20,Female,Wake Forest,Computer Science,1st Year,2.29,Yes,2,3,3,3,2,3,3,19,Medium,3,4,3,4,1,0,2,1,4,3,33,Medium,3,1,4,3,3,4,3,3,3,27,Medium
+19,Male,NC State University,Arts,3rd Year,3.54,Yes,0,0,1,1,0,1,0,3,Low,0,0,0,2,3,4,2,3,1,1,8,Low,0,0,1,2,1,0,0,1,0,5,Low
+21,Female,UNC Chapel Hill,Computer Science,4th Year,3.53,Yes,1,1,2,1,0,1,2,8,Low,0,0,0,1,3,4,3,2,0,0,5,Low,0,0,1,0,2,0,2,0,0,5,Low
+18-20,Male,NC State University,Arts,3rd Year,3.23,No,1,1,1,1,1,1,2,8,Low,1,0,0,1,4,3,3,2,2,1,9,Low,0,1,1,1,1,1,0,2,1,8,Low
+19,Female,Wake Forest,Engineering,4th Year,2.9-3.4,Yes,2,0,1,1,1,0,2,7,Low,1,1,2,0,4,3,3,4,0,0,6,Low,0,1,2,1,0,1,1,1,0,7,Low
+20,Female,Wake Forest,Computer Science,1st Year,2.7-3.2,Yes,2,1,1,1,1,1,1,8,Low,2,1,1,2,2,3,4,2,2,1,14,Low,1,2,2,0,2,3,2,0,2,14,Low
+20,Female,Wake Forest,Engineering,2nd Year,2.13,Yes,2,3,3,4,3,2,2,19,Medium,4,4,3,3,2,1,0,0,3,4,34,Medium,4,3,4,3,3,3,4,3,4,31,Medium
+22,Male,Duke University,Engineering,2nd Year,2.22,Yes,3,4,3,3,3,3,4,23,Medium,3,2,4,3,0,1,2,0,4,3,32,Medium,3,2,1,3,4,2,4,2,4,25,Medium
+19,Male,UNC Chapel Hill,Engineering,3rd Year,3.90,No,0,0,0,0,1,0,0,1,Low,0,0,1,0,4,4,4,4,0,0,1,Low,1,0,0,0,0,0,0,0,1,2,Low
+20,Male,UNC Chapel Hill,Engineering,4th Year,3.7-4.2,No,1,0,0,0,0,0,0,1,Low,0,0,0,0,4,4,4,2,0,0,2,Low,0,2,1,2,1,0,0,0,0,6,Low
+21,Male,NC State University,Biology,2nd Year,2.60,No,1,4,4,2,2,3,3,19,Medium,2,0,2,3,3,3,3,3,1,3,15,Low,3,3,0,1,3,3,2,3,2,20,Medium
+18-20,Female,UNC Chapel Hill,Business,3rd Year,2.9-3.4,No,2,1,1,0,1,1,2,8,Low,0,3,2,2,2,2,4,4,1,2,14,Low,0,1,1,2,2,1,1,2,1,11,Low
+21,Female,NC State University,Engineering,1st Year,3.41,Yes,1,2,0,0,0,0,1,4,Low,0,0,0,1,1,3,3,3,2,1,10,Low,0,0,2,2,0,0,2,1,1,8,Low
+19,Female,Duke University,Business,3rd Year,2.1-2.6,No,4,3,3,2,4,3,4,23,Medium,2,1,3,4,1,0,1,0,2,1,27,Medium,4,2,3,3,4,2,2,3,2,25,Medium
+18-20,Female,NC State University,Psychology,2nd Year,2.59,No,2,3,3,2,2,2,3,17,Low,3,2,3,3,1,3,1,2,2,2,24,Medium,2,3,2,1,4,4,3,1,3,23,Medium
+21-23,Female,NC State University,Engineering,4th Year,2.5-3.0,Yes,3,3,2,2,2,1,1,14,Low,1,2,1,2,2,4,2,2,3,2,17,Low,4,3,2,1,1,2,2,0,1,16,Low
+21-23,Female,NC State University,Engineering,3rd Year,3.86,Yes,2,1,1,1,0,0,0,5,Low,0,0,1,0,4,4,2,3,1,0,5,Low,1,0,0,0,2,0,0,0,0,3,Low
+22,Female,UNC Chapel Hill,Computer Science,2nd Year,3.81,Yes,0,1,0,0,0,0,1,2,Low,0,1,0,0,4,4,4,4,0,0,1,Low,0,1,0,0,0,1,1,1,0,4,Low
+19,Female,NC State University,Computer Science,1st Year,2.95,Yes,0,2,0,1,0,3,0,6,Low,2,2,2,2,2,3,3,3,2,1,16,Low,1,2,1,1,1,0,2,1,1,10,Low
+18-20,Male,UNC Chapel Hill,Psychology,1st Year,3.2-3.7,No,0,0,0,0,0,1,0,1,Low,0,1,2,1,3,4,4,3,0,1,7,Low,0,1,2,0,1,0,0,0,0,4,Low
+21,Male,NC State University,Computer Science,1st Year,3.21,No,2,1,2,1,2,1,0,9,Low,2,1,2,2,1,2,3,3,2,0,16,Low,0,0,3,2,2,1,1,2,1,12,Low
+20,Male,NC State University,Business,2nd Year,3.30,Yes,0,1,0,2,1,0,1,5,Low,2,1,0,3,4,2,3,2,3,2,16,Low,0,1,1,2,2,0,0,1,0,7,Low
+18-20,Female,Duke University,Psychology,4th Year,3.6-4.1,Yes,0,1,0,0,0,0,0,1,Low,0,1,0,2,4,4,3,3,0,0,5,Low,0,0,0,1,0,0,1,1,1,4,Low
+20,Female,UNC Chapel Hill,Computer Science,3rd Year,2.90,No,2,2,2,1,2,2,1,12,Low,1,0,2,2,3,3,4,2,0,2,11,Low,0,2,1,2,2,2,0,3,1,13,Low
+18-20,Male,NC State University,Business,3rd Year,3.25,Yes,1,2,1,0,1,1,1,7,Low,2,1,2,0,2,2,3,3,0,2,13,Low,2,1,1,1,0,0,1,2,1,9,Low
+21-23,Female,Duke University,Engineering,1st Year,3.2-3.7,No,1,2,0,0,0,0,0,3,Low,0,1,0,2,4,4,3,3,1,0,6,Low,1,2,1,2,0,1,1,1,1,10,Low
+19,Female,UNC Chapel Hill,Arts,4th Year,3.3-3.8,No,1,0,0,1,1,0,2,5,Low,0,1,0,0,4,4,3,3,0,0,3,Low,0,0,0,0,0,0,0,0,0,0,Low
+21,Male,Duke University,Engineering,3rd Year,3.61,Yes,1,0,0,1,1,0,2,5,Low,0,0,1,0,3,4,4,4,1,0,3,Low,2,1,0,0,0,0,1,1,0,5,Low
+19,Male,NC State University,Biology,1st Year,3.04,Yes,1,1,2,2,3,1,0,10,Low,1,0,1,1,1,4,2,3,2,3,14,Low,2,3,2,2,2,3,0,2,1,17,Low
+20,Female,NC State University,Business,3rd Year,3.4-3.9,No,0,0,0,0,1,0,1,2,Low,0,0,0,0,3,4,4,3,0,0,2,Low,1,1,1,0,1,0,2,1,2,9,Low
+20,Female,UNC Chapel Hill,Computer Science,3rd Year,2.9-3.4,No,1,1,2,2,2,2,1,11,Low,1,1,3,2,3,2,1,1,1,2,19,Medium,0,2,1,4,0,0,2,2,0,11,Low
+19,Female,NC State University,Business,1st Year,2.2-2.7,No,3,4,0,2,2,3,3,17,Low,3,4,3,1,1,3,1,3,2,2,23,Medium,3,3,1,3,3,2,4,3,2,24,Medium
+21-23,Female,UNC Chapel Hill,Arts,2nd Year,2.11,No,4,4,3,4,2,3,3,23,Medium,4,2,3,2,0,0,2,1,3,4,31,Medium,4,4,4,3,2,2,4,4,2,29,Medium
+22,Female,Duke University,Business,2nd Year,2.64,Yes,3,2,1,2,2,4,2,16,Low,2,3,1,3,3,1,3,2,2,4,22,Medium,2,1,3,3,3,3,2,2,1,20,Medium
+21-23,Female,Wake Forest,Biology,1st Year,2.9-3.4,No,2,0,1,1,1,1,2,8,Low,2,3,1,2,3,4,4,3,2,2,14,Low,3,0,1,2,1,1,0,2,3,13,Low
+22,Female,UNC Chapel Hill,Biology,4th Year,2.5-3.0,No,1,1,2,2,1,1,2,10,Low,3,2,1,3,2,3,1,2,4,2,23,Medium,2,2,3,2,1,4,1,2,3,20,Medium
+21,Female,Wake Forest,Computer Science,4th Year,2.13,Yes,4,3,4,4,3,4,3,25,Medium,4,2,3,3,2,0,2,0,2,4,30,Medium,4,1,3,3,4,4,4,4,3,30,Medium
+21-23,Male,NC State University,Computer Science,3rd Year,2.01,No,4,2,2,4,4,4,2,22,Medium,4,3,4,3,1,0,1,1,2,4,33,Medium,4,4,4,2,3,3,4,4,3,31,Medium
+18-20,Male,UNC Chapel Hill,Business,2nd Year,3.3-3.8,Yes,1,1,0,0,1,1,0,4,Low,0,0,2,0,3,4,3,4,0,1,5,Low,1,2,1,0,0,1,0,1,1,7,Low
+19,Male,Duke University,Engineering,2nd Year,2.20,No,4,3,4,3,4,3,2,23,Medium,4,4,4,3,0,0,1,2,2,4,34,Medium,1,3,3,4,1,3,0,4,2,21,Medium
+18-20,Female,Duke University,Biology,3rd Year,2.54,Yes,1,4,4,4,3,3,2,21,Medium,3,2,2,4,1,0,1,1,2,3,29,Medium,3,2,2,3,3,2,2,2,3,22,Medium
+19,Female,Duke University,Biology,3rd Year,2.63,No,2,4,2,3,2,2,1,16,Low,2,4,3,0,2,2,3,4,3,2,19,Medium,2,2,1,3,3,2,2,2,1,18,Medium
+20,Female,UNC Chapel Hill,Engineering,1st Year,3.78,No,0,0,0,1,0,0,0,1,Low,2,0,0,0,4,4,4,3,1,1,5,Low,0,0,2,0,0,1,0,0,0,3,Low
+19,Male,Wake Forest,Computer Science,3rd Year,3.82,No,0,0,0,0,0,0,1,1,Low,1,0,0,0,4,4,4,4,0,0,1,Low,2,0,0,0,0,1,0,1,1,5,Low
+22,Male,UNC Chapel Hill,Psychology,4th Year,3.93,Yes,0,0,0,0,1,0,1,2,Low,0,1,0,0,4,4,4,3,0,0,2,Low,0,0,0,1,1,0,1,0,1,4,Low
+20,Male,Duke University,Engineering,2nd Year,3.2-3.7,No,1,2,1,1,1,2,1,9,Low,2,0,2,1,3,4,3,4,0,0,7,Low,0,0,0,2,0,2,2,2,1,9,Low
+19,Male,Duke University,Biology,1st Year,2.78,No,3,1,2,2,2,1,2,13,Low,2,2,2,2,2,1,2,4,2,2,19,Medium,2,3,1,3,1,3,2,1,1,17,Low
+20,Female,UNC Chapel Hill,Engineering,4th Year,3.41,No,1,0,2,0,0,0,2,5,Low,0,3,1,1,3,4,3,3,1,0,9,Low,0,1,1,1,3,1,0,0,0,7,Low
+18-20,Male,NC State University,Psychology,1st Year,2.3-2.8,No,3,2,1,2,4,2,3,17,Low,2,2,4,3,2,3,2,0,3,3,26,Medium,4,2,3,3,2,1,2,3,3,23,Medium
+22,Male,NC State University,Computer Science,2nd Year,3.33,No,0,1,1,0,0,0,1,3,Low,2,0,0,0,3,3,3,2,0,0,7,Low,0,2,2,4,2,3,3,1,0,17,Low
+18-20,Female,NC State University,Business,1st Year,3.52,No,0,1,2,1,0,0,0,4,Low,0,0,0,0,1,4,4,4,0,3,6,Low,1,0,1,1,1,2,1,1,2,10,Low
+23-25,Male,NC State University,Engineering,2nd Year,3.41,No,2,2,1,0,1,0,1,7,Low,0,1,0,3,3,4,4,3,0,2,8,Low,2,1,0,0,1,0,1,1,0,6,Low
+22,Female,NC State University,Business,4th Year,2.2-2.7,No,3,2,3,4,3,3,3,21,Medium,2,3,3,2,1,3,2,2,1,2,21,Medium,2,4,3,2,3,2,3,2,2,23,Medium
+19,Female,NC State University,Computer Science,3rd Year,3.29,No,1,0,1,1,2,1,0,6,Low,3,2,1,2,3,3,3,4,0,1,12,Low,1,0,1,2,1,2,1,1,0,9,Low
+18-20,Male,NC State University,Psychology,1st Year,2.6-3.1,No,1,2,1,1,3,2,2,12,Low,3,1,3,2,3,2,3,1,0,2,18,Medium,1,2,0,0,2,2,0,2,0,9,Low
+22,Female,NC State University,Biology,4th Year,3.00,No,0,1,3,1,2,2,1,10,Low,1,3,2,0,3,2,1,4,2,1,15,Low,4,2,2,2,1,1,1,1,0,14,Low
+21,Female,Wake Forest,Computer Science,4th Year,2.92,No,1,0,1,1,1,2,2,8,Low,2,2,1,0,2,2,1,3,1,2,16,Low,3,1,0,2,3,0,2,1,2,14,Low
+21,Female,Duke University,Computer Science,4th Year,2.7-3.2,No,3,2,2,2,1,1,0,11,Low,1,2,2,1,4,3,4,3,1,1,10,Low,1,2,4,3,0,2,3,1,2,18,Medium
+22,Male,NC State University,Computer Science,1st Year,2.10,Yes,2,4,2,4,4,3,3,22,Medium,4,3,3,4,2,0,0,2,2,3,31,Medium,3,3,3,4,4,4,3,4,4,32,Medium
+18-20,Female,UNC Chapel Hill,Business,2nd Year,2.83,No,2,2,1,3,3,2,3,16,Low,2,3,0,3,3,3,2,2,0,2,16,Low,2,1,2,3,3,3,0,2,3,19,Medium
+20,Male,NC State University,Business,4th Year,3.70,No,1,0,1,0,0,1,0,3,Low,1,0,3,1,4,3,4,3,1,0,8,Low,0,2,0,0,1,0,1,2,1,7,Low
+18-20,Male,Wake Forest,Business,4th Year,3.2-3.7,No,0,0,0,1,2,2,1,6,Low,1,1,1,0,4,4,4,4,0,1,4,Low,3,0,0,2,2,0,0,1,1,9,Low
+22,Male,UNC Chapel Hill,Computer Science,1st Year,3.76,No,0,0,1,0,0,0,0,1,Low,3,0,0,1,3,4,3,4,0,0,6,Low,0,1,2,1,0,1,0,0,0,5,Low
+21,Female,NC State University,Engineering,1st Year,3.2-3.7,No,1,0,1,1,1,1,1,6,Low,0,0,1,0,4,4,3,3,0,1,4,Low,1,0,2,1,0,1,0,3,0,8,Low
+19,Male,Duke University,Business,2nd Year,2.59,No,2,2,1,3,2,3,2,15,Low,1,3,3,3,2,1,2,0,3,2,26,Medium,2,1,1,1,2,2,3,3,1,16,Low
+18-20,Male,UNC Chapel Hill,Engineering,4th Year,3.2-3.7,No,3,1,1,1,0,0,0,6,Low,0,0,0,1,2,3,4,4,1,2,7,Low,0,1,2,0,0,0,2,2,1,8,Low
+19,Female,Wake Forest,Arts,3rd Year,2.63,No,1,2,2,2,3,2,3,15,Low,1,1,2,2,2,2,3,2,1,2,16,Low,2,3,3,1,2,0,3,3,3,20,Medium
+19,Male,Duke University,Computer Science,2nd Year,2.79,No,3,2,2,2,2,1,3,15,Low,1,1,2,3,1,3,2,2,2,2,19,Medium,2,3,2,0,1,2,3,3,2,18,Medium
+21,Male,Duke University,Psychology,1st Year,2.40,No,3,2,3,4,3,1,2,18,Medium,2,3,3,2,0,2,1,0,4,4,31,Medium,4,4,3,3,2,3,3,3,2,27,Medium
+21,Male,NC State University,Engineering,3rd Year,2.57,No,3,2,1,2,2,3,3,16,Low,2,2,2,1,2,2,1,2,2,2,20,Medium,3,4,2,2,2,3,2,1,3,22,Medium
+22,Male,Wake Forest,Engineering,4th Year,2.12,Yes,4,2,3,3,3,3,4,22,Medium,2,3,4,3,1,0,1,2,3,3,30,Medium,4,4,4,4,1,4,4,4,4,33,Medium
+20,Male,NC State University,Psychology,2nd Year,2.9-3.4,Yes,1,1,3,0,0,1,2,8,Low,2,1,1,1,3,4,4,2,0,1,9,Low,0,1,0,1,2,1,0,0,2,7,Low
+18-20,Male,Wake Forest,Psychology,4th Year,3.5-4.0,No,0,1,0,0,1,0,0,2,Low,0,0,1,3,4,3,4,3,0,1,7,Low,0,0,0,1,2,0,0,0,1,4,Low
+21,Female,Duke University,Arts,4th Year,2.7-3.2,Yes,0,0,2,2,2,1,2,9,Low,1,0,3,2,3,4,1,2,1,1,14,Low,0,1,1,0,2,2,1,1,1,9,Low
+22,Male,Duke University,Computer Science,1st Year,2.04,No,4,3,4,4,3,3,3,24,Medium,4,4,3,3,0,1,1,1,4,4,35,High,4,4,2,3,3,4,4,4,4,32,Medium
+21,Male,Duke University,Computer Science,3rd Year,2.7-3.2,No,2,2,2,1,1,1,1,10,Low,1,1,2,1,2,1,2,2,3,2,19,Medium,3,0,4,2,2,2,1,2,2,18,Medium
+22,Female,NC State University,Psychology,2nd Year,2.81,No,2,3,2,2,2,3,4,18,Medium,2,3,3,0,2,3,3,2,0,1,15,Low,1,4,1,1,1,1,2,2,2,15,Low
+20,Male,NC State University,Business,4th Year,3.19,No,2,1,0,1,0,0,1,5,Low,1,2,0,0,3,4,3,4,0,2,7,Low,1,2,1,1,1,2,0,1,1,10,Low
+20,Female,NC State University,Engineering,3rd Year,2.8-3.3,Yes,2,1,2,1,1,1,1,9,Low,0,2,1,2,3,2,3,3,1,1,12,Low,1,0,0,1,1,3,2,1,1,10,Low
+20,Male,NC State University,Computer Science,3rd Year,3.04,No,2,0,2,2,1,1,0,8,Low,0,3,2,3,1,3,2,4,1,2,17,Low,3,1,1,1,1,1,2,1,1,12,Low
+18-20,Male,UNC Chapel Hill,Computer Science,4th Year,2.62,No,2,2,2,1,2,3,3,15,Low,3,2,1,3,2,2,1,1,2,0,21,Medium,2,3,3,4,4,3,3,3,2,27,Medium
+18-20,Male,NC State University,Biology,2nd Year,3.55,No,0,2,2,1,0,0,0,5,Low,1,1,2,1,3,4,4,4,0,0,6,Low,2,2,0,1,0,2,0,1,1,9,Low
+18-20,Male,NC State University,Computer Science,4th Year,3.95,Yes,1,0,0,0,0,0,0,1,Low,1,0,0,0,4,2,4,4,0,0,3,Low,0,0,0,0,0,1,0,0,0,1,Low
+21,Male,Wake Forest,Engineering,3rd Year,2.0-2.5,No,4,3,2,4,4,4,3,24,Medium,3,4,2,3,0,1,1,1,2,2,29,Medium,3,4,3,4,3,3,3,1,4,28,Medium
+19,Male,UNC Chapel Hill,Computer Science,1st Year,3.61,Yes,0,1,1,0,1,0,1,4,Low,1,2,1,0,3,4,4,4,1,0,6,Low,0,0,1,1,2,0,0,0,1,5,Low
+20,Male,Wake Forest,Engineering,3rd Year,2.5-3.0,Yes,2,2,2,3,1,2,3,15,Low,2,2,3,4,3,1,3,1,2,1,22,Medium,3,2,3,2,2,2,2,3,2,21,Medium
+21-23,Male,Wake Forest,Computer Science,4th Year,2.5-3.0,Yes,1,1,3,3,2,1,2,13,Low,2,2,1,2,3,1,2,1,2,2,20,Medium,0,3,1,2,2,2,0,3,3,16,Low
+19,Male,NC State University,Business,2nd Year,3.04,Yes,2,2,1,2,2,0,2,11,Low,3,3,2,1,2,3,2,3,3,0,18,Medium,2,1,1,2,1,2,1,0,1,11,Low
+20,Male,NC State University,Computer Science,4th Year,2.74,No,3,2,2,1,3,2,2,15,Low,0,2,3,0,2,3,2,1,3,2,18,Medium,2,1,2,3,2,2,4,2,4,22,Medium
+22,Male,UNC Chapel Hill,Biology,4th Year,2.5-3.0,Yes,4,2,2,2,1,2,2,15,Low,2,1,2,2,2,1,2,2,3,3,22,Medium,3,2,3,3,1,2,2,4,2,22,Medium
+19,Female,UNC Chapel Hill,Computer Science,2nd Year,3.95,No,0,0,0,0,0,0,0,0,Low,2,0,2,0,3,4,4,4,0,0,5,Low,0,0,0,0,0,0,0,0,0,0,Low
+18-20,Female,NC State University,Business,4th Year,2.05,No,3,4,2,3,3,3,4,22,Medium,4,3,2,2,0,2,1,1,4,4,31,Medium,2,4,4,4,2,4,4,4,3,31,Medium
+19,Male,UNC Chapel Hill,Biology,1st Year,3.57,No,1,1,0,1,0,1,1,5,Low,2,1,1,0,4,2,3,4,1,1,9,Low,0,0,0,0,0,1,0,1,0,2,Low
+19,Female,NC State University,Psychology,1st Year,2.92,Yes,2,1,2,2,2,0,2,11,Low,1,1,3,2,2,3,4,2,3,3,18,Medium,1,1,2,2,2,1,1,1,1,12,Low
+21-23,Female,NC State University,Business,1st Year,2.61,No,2,3,2,2,3,4,2,18,Medium,2,1,3,1,2,0,4,2,3,4,22,Medium,0,0,4,2,3,2,2,2,1,16,Low
+22,Male,Duke University,Engineering,4th Year,2.4-2.9,No,2,2,2,1,4,2,3,16,Low,2,2,2,3,0,1,2,2,4,2,26,Medium,3,2,3,2,0,3,3,2,2,20,Medium
+21,Female,Duke University,Engineering,3rd Year,2.9-3.4,No,2,1,0,2,0,2,1,8,Low,0,2,1,1,4,4,4,1,2,1,10,Low,2,1,2,3,1,0,2,1,0,12,Low
+22,Female,Duke University,Psychology,1st Year,2.95,Yes,2,1,1,2,2,1,1,10,Low,1,1,2,1,2,1,3,2,3,2,18,Medium,2,0,2,2,2,0,1,3,2,14,Low
+22,Male,NC State University,Arts,2nd Year,3.7-4.2,No,0,0,0,0,0,0,0,0,Low,0,1,0,0,3,4,4,4,1,0,3,Low,1,0,0,0,0,1,1,0,1,4,Low
+19,Male,UNC Chapel Hill,Psychology,3rd Year,3.57,No,1,1,0,1,1,0,0,4,Low,1,0,1,1,4,4,2,3,1,1,8,Low,0,1,1,0,0,1,0,0,0,3,Low
+22,Female,NC State University,Business,1st Year,3.09,No,2,0,1,1,0,2,2,8,Low,2,0,2,4,3,3,2,3,0,3,16,Low,0,1,0,1,1,2,3,0,3,11,Low
+20,Female,NC State University,Psychology,4th Year,2.15,Yes,3,2,2,4,2,3,3,19,Medium,3,3,2,4,0,0,1,0,3,3,33,Medium,3,3,4,3,3,2,2,1,3,24,Medium
+22,Male,UNC Chapel Hill,Engineering,4th Year,2.45,No,3,1,3,2,2,3,2,16,Low,3,3,2,2,0,2,1,1,3,3,28,Medium,2,3,0,2,2,3,2,3,2,19,Medium
+22,Male,Wake Forest,Computer Science,3rd Year,2.3-2.8,Yes,3,2,3,0,2,3,2,15,Low,2,3,2,3,2,2,1,1,2,2,24,Medium,2,1,2,2,3,3,2,3,3,21,Medium
+19,Male,UNC Chapel Hill,Business,4th Year,3.56,Yes,0,0,2,1,0,0,0,3,Low,1,0,0,0,4,3,4,3,0,2,5,Low,0,2,2,0,3,0,1,1,0,9,Low
+18-20,Male,UNC Chapel Hill,Arts,2nd Year,2.29,No,3,3,2,3,3,2,3,19,Medium,3,4,4,4,0,1,0,1,1,3,33,Medium,2,2,2,3,2,4,2,2,3,22,Medium
+19,Female,UNC Chapel Hill,Computer Science,4th Year,3.27,Yes,0,0,2,0,2,1,2,7,Low,1,3,1,2,2,4,4,2,0,1,12,Low,0,2,1,1,1,1,1,2,1,10,Low
+20,Male,Duke University,Psychology,3rd Year,3.35,Yes,2,0,2,0,1,2,2,9,Low,1,1,3,0,4,3,3,3,2,0,10,Low,0,2,0,0,1,0,1,2,0,6,Low
+22,Male,NC State University,Computer Science,3rd Year,2.6-3.1,Yes,1,2,1,4,3,2,1,14,Low,2,3,2,1,3,2,4,2,3,1,17,Low,1,2,1,1,1,1,2,1,3,13,Low
+22,Female,Duke University,Business,1st Year,2.58,No,4,2,3,2,3,3,2,19,Medium,2,1,2,3,1,4,1,1,3,2,22,Medium,3,3,3,2,3,0,3,1,2,20,Medium
+18-20,Male,NC State University,Computer Science,4th Year,3.78,No,0,0,0,1,0,0,0,1,Low,1,1,0,0,3,4,4,4,1,0,4,Low,0,0,0,1,0,1,0,0,0,2,Low
+20,Male,NC State University,Engineering,2nd Year,2.12,No,3,3,3,3,4,4,4,24,Medium,2,4,3,2,1,0,0,1,3,2,30,Medium,4,2,1,4,3,4,3,4,4,29,Medium
+20,Female,UNC Chapel Hill,Psychology,1st Year,2.0-2.5,No,2,3,4,1,3,2,4,19,Medium,2,4,3,2,0,1,2,2,1,2,25,Medium,4,3,2,2,4,3,3,4,2,27,Medium
+19,Female,Duke University,Engineering,1st Year,2.90,Yes,1,3,2,2,2,2,1,13,Low,2,2,3,0,3,1,3,3,1,3,17,Low,2,1,3,2,1,3,2,2,1,17,Low
+18-20,Female,NC State University,Psychology,3rd Year,3.7-4.2,No,1,0,0,0,1,0,0,2,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,0,0,1,0,0,0,0,1,2,Low
+19,Female,NC State University,Psychology,3rd Year,2.48,No,1,2,2,2,3,1,4,15,Low,2,2,2,4,2,1,1,3,2,3,24,Medium,4,1,4,3,3,2,2,3,1,23,Medium
+21-23,Male,UNC Chapel Hill,Arts,3rd Year,3.36,Yes,2,1,0,1,0,1,1,6,Low,2,0,0,2,3,4,3,4,1,2,9,Low,2,2,2,1,2,0,1,0,0,10,Low
+19,Male,NC State University,Computer Science,4th Year,2.5-3.0,No,2,2,2,2,1,2,2,13,Low,1,1,2,4,2,2,3,2,2,4,21,Medium,2,4,2,3,2,2,0,1,3,19,Medium
+20,Female,UNC Chapel Hill,Engineering,1st Year,2.92,No,1,2,3,2,3,1,1,13,Low,1,2,2,2,3,1,3,2,2,0,16,Low,3,3,4,3,1,2,2,0,1,19,Medium
+21,Male,Duke University,Computer Science,3rd Year,2.87,Yes,1,1,1,1,2,2,2,10,Low,3,1,3,3,4,3,1,2,2,1,19,Medium,1,3,2,3,2,2,2,2,2,19,Medium
+20,Male,Duke University,Arts,1st Year,2.3-2.8,Yes,4,2,2,3,2,4,2,19,Medium,4,2,1,4,2,2,2,4,1,2,20,Medium,1,2,1,3,2,2,3,2,2,18,Medium
+23-25,Male,Duke University,Arts,4th Year,2.42,Yes,2,3,3,1,3,2,2,16,Low,4,2,2,3,1,2,1,0,2,2,27,Medium,2,2,2,4,3,2,3,3,3,24,Medium
+21-23,Male,UNC Chapel Hill,Business,4th Year,3.5-4.0,Yes,0,0,0,0,1,0,0,1,Low,0,0,0,0,3,4,4,3,0,0,2,Low,2,0,0,0,1,2,0,0,0,5,Low
+19,Male,NC State University,Biology,3rd Year,3.59,No,1,0,0,1,1,0,0,3,Low,1,1,0,1,3,4,4,3,1,0,6,Low,0,1,2,0,0,3,0,0,2,8,Low
+20,Male,UNC Chapel Hill,Business,3rd Year,2.48,No,3,1,2,3,2,3,2,16,Low,2,2,2,4,2,1,1,0,2,3,27,Medium,3,3,4,3,3,3,2,0,1,22,Medium
+19,Male,Duke University,Business,2nd Year,2.39,No,2,1,2,3,2,3,2,15,Low,2,2,2,2,2,1,1,2,3,3,24,Medium,3,3,2,3,1,2,3,4,3,24,Medium
+19,Male,NC State University,Computer Science,2nd Year,3.99,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,2,3,0,0,3,Low,0,1,0,0,2,1,0,0,0,4,Low
+18-20,Female,UNC Chapel Hill,Psychology,4th Year,3.96,Yes,0,0,0,0,0,1,0,1,Low,1,0,0,0,4,4,4,4,0,0,1,Low,0,0,0,0,0,0,0,0,0,0,Low
+21,Female,UNC Chapel Hill,Computer Science,2nd Year,2.52,No,3,2,1,2,2,3,1,14,Low,2,3,2,3,1,1,1,1,3,2,27,Medium,3,2,1,1,3,2,3,3,1,19,Medium
+20,Female,UNC Chapel Hill,Biology,2nd Year,3.19,No,2,2,0,0,2,1,2,9,Low,1,0,1,2,4,2,4,4,1,1,8,Low,1,0,0,1,1,0,0,0,2,5,Low
+18-20,Female,UNC Chapel Hill,Psychology,2nd Year,3.1-3.6,No,1,1,0,0,1,0,0,3,Low,0,2,1,0,4,2,3,3,0,1,8,Low,0,1,1,0,0,0,1,1,0,4,Low
+19,Male,UNC Chapel Hill,Psychology,4th Year,2.38,No,3,1,3,3,2,2,3,17,Low,3,4,4,4,1,1,0,1,3,2,33,Medium,3,4,2,1,2,2,2,4,2,22,Medium
+21-23,Male,UNC Chapel Hill,Computer Science,2nd Year,3.82,No,1,0,0,1,0,2,0,4,Low,0,0,1,0,4,4,4,4,0,0,1,Low,1,0,0,1,1,0,0,0,1,4,Low
+19,Female,UNC Chapel Hill,Engineering,1st Year,3.92,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,3,4,4,0,0,1,Low,1,2,0,0,1,0,0,0,0,4,Low
+18-20,Female,UNC Chapel Hill,Engineering,3rd Year,3.95,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,3,4,4,0,0,1,Low,0,1,1,0,2,0,0,0,0,4,Low
+20,Female,UNC Chapel Hill,Engineering,4th Year,2.32,Yes,3,3,1,1,4,4,4,20,Medium,2,2,3,4,1,2,2,2,3,2,25,Medium,2,3,3,4,3,2,4,3,4,28,Medium
+23-25,Male,Duke University,Computer Science,1st Year,3.44,Yes,2,0,1,1,0,1,0,5,Low,0,1,1,1,3,2,3,4,1,0,8,Low,0,0,1,1,1,0,0,2,0,5,Low
+19,Male,UNC Chapel Hill,Arts,1st Year,3.2-3.7,Yes,0,1,1,0,1,0,1,4,Low,0,0,0,0,3,3,2,3,1,0,6,Low,2,0,1,0,0,0,0,0,0,3,Low
+21,Male,NC State University,Business,1st Year,2.33,No,3,2,3,3,2,1,4,18,Medium,2,2,3,4,1,1,1,2,2,3,27,Medium,3,2,3,4,3,4,4,2,3,28,Medium
+22,Male,UNC Chapel Hill,Engineering,2nd Year,3.54,No,1,0,1,0,0,1,1,4,Low,1,2,1,1,4,4,3,3,0,0,7,Low,1,1,0,1,0,0,1,0,1,5,Low
+19,Female,UNC Chapel Hill,Engineering,2nd Year,2.02,No,3,3,3,4,2,3,4,22,Medium,2,3,3,3,1,1,0,0,4,4,33,Medium,4,4,4,4,4,4,2,4,4,34,Medium
+21,Female,NC State University,Engineering,3rd Year,2.6-3.1,No,1,2,3,1,2,2,1,12,Low,0,3,1,3,2,3,2,4,2,2,16,Low,2,2,2,2,1,2,1,2,0,14,Low
+20,Male,UNC Chapel Hill,Business,3rd Year,2.46,No,3,2,3,3,2,2,3,18,Medium,3,3,2,2,1,2,2,0,3,3,27,Medium,3,4,1,2,3,3,3,2,3,24,Medium
+21,Female,NC State University,Business,3rd Year,2.44,No,4,2,2,2,3,2,3,18,Medium,2,1,3,2,1,2,0,0,4,2,27,Medium,3,2,4,2,3,4,3,3,3,27,Medium
+21,Female,NC State University,Biology,2nd Year,3.70,Yes,0,0,0,0,0,0,1,1,Low,2,1,1,0,4,4,4,4,0,0,4,Low,0,1,2,0,0,0,0,1,0,4,Low
+20,Male,UNC Chapel Hill,Engineering,4th Year,2.19,Yes,2,3,3,3,2,3,3,19,Medium,4,3,4,2,0,1,1,0,3,4,34,Medium,2,4,2,2,4,3,4,3,4,28,Medium
+18-20,Male,NC State University,Arts,2nd Year,2.06,No,2,3,4,3,4,2,3,21,Medium,3,3,3,4,0,1,1,0,2,4,33,Medium,4,1,4,4,3,4,4,4,4,32,Medium
+22,Male,UNC Chapel Hill,Biology,4th Year,3.32,No,1,1,0,1,1,2,2,8,Low,1,1,1,2,4,4,4,3,1,2,9,Low,2,0,2,1,2,1,1,1,0,10,Low
+19,Male,UNC Chapel Hill,Computer Science,3rd Year,2.5-3.0,No,3,1,1,2,2,2,2,13,Low,3,2,3,2,1,3,2,2,1,2,21,Medium,1,3,1,3,4,0,3,2,4,21,Medium
+19,Male,Duke University,Arts,1st Year,3.84,Yes,0,1,1,0,0,0,0,2,Low,0,0,1,1,4,4,4,4,0,1,3,Low,1,0,0,1,1,0,0,0,0,3,Low
+18-20,Male,NC State University,Computer Science,3rd Year,2.09,Yes,3,2,3,3,3,3,3,20,Medium,2,4,3,3,2,1,2,1,3,3,28,Medium,4,2,3,1,4,3,4,3,2,26,Medium
+21,Male,NC State University,Biology,2nd Year,2.74,No,2,2,3,3,2,2,3,17,Low,2,2,2,2,2,1,3,2,2,3,21,Medium,2,0,1,3,2,0,4,1,2,15,Low
+21,Male,Duke University,Engineering,3rd Year,3.51,Yes,0,1,2,1,1,1,2,8,Low,0,0,1,1,3,3,3,3,0,0,6,Low,0,0,1,1,1,2,2,1,2,10,Low
+18-20,Female,Wake Forest,Biology,1st Year,3.90,Yes,0,0,0,0,0,1,0,1,Low,0,0,0,0,4,4,4,3,0,0,1,Low,0,0,0,0,0,0,0,0,0,0,Low
+20,Male,Duke University,Biology,1st Year,2.71,No,3,2,3,3,2,2,3,18,Medium,2,4,2,2,2,1,3,3,3,2,22,Medium,2,1,3,1,3,2,3,1,2,18,Medium
+19,Female,NC State University,Biology,4th Year,2.50,Yes,1,2,2,2,2,2,1,12,Low,2,3,3,4,2,2,2,2,3,3,26,Medium,2,3,2,2,3,2,2,2,4,22,Medium
+21,Male,Duke University,Psychology,1st Year,2.72,No,3,3,3,3,2,1,2,17,Low,1,4,3,2,2,2,2,0,2,3,25,Medium,2,3,2,3,2,1,3,4,2,22,Medium
+19,Female,Duke University,Engineering,4th Year,2.48,Yes,3,1,3,3,3,3,2,18,Medium,3,4,2,3,1,1,2,2,2,4,28,Medium,1,3,4,4,4,1,3,1,1,22,Medium
+21,Male,UNC Chapel Hill,Computer Science,2nd Year,3.7-4.2,Yes,1,0,0,0,0,0,0,1,Low,0,0,0,1,4,4,2,4,1,0,4,Low,0,0,0,1,0,0,0,0,0,1,Low
+20,Male,NC State University,Engineering,3rd Year,2.9-3.4,No,0,1,1,1,1,1,1,6,Low,0,1,0,2,3,3,2,3,1,0,9,Low,1,0,0,2,3,2,1,0,3,12,Low
+21-23,Female,UNC Chapel Hill,Computer Science,3rd Year,2.1-2.6,No,2,4,1,2,2,1,3,15,Low,4,3,3,2,2,0,0,2,2,3,29,Medium,3,2,2,3,4,3,3,1,3,24,Medium
+18-20,Female,Duke University,Psychology,3rd Year,2.3-2.8,No,2,3,3,2,2,4,2,18,Medium,1,1,2,1,3,2,1,0,2,2,19,Medium,3,3,2,2,2,2,2,3,4,23,Medium
+19,Female,Wake Forest,Engineering,2nd Year,2.56,No,3,2,1,3,2,1,2,14,Low,2,2,2,3,0,2,3,2,2,4,24,Medium,4,3,3,2,2,1,3,2,3,23,Medium
+18-20,Male,NC State University,Arts,1st Year,3.16,Yes,3,1,1,1,2,1,1,10,Low,1,2,1,1,2,3,4,4,1,2,11,Low,1,2,2,1,2,2,2,1,1,14,Low
+21-23,Male,Duke University,Business,1st Year,3.16,No,2,1,2,1,0,1,0,7,Low,1,1,1,1,3,4,4,3,0,1,7,Low,2,1,0,0,3,3,1,2,1,13,Low
+22,Female,Wake Forest,Biology,2nd Year,3.52,Yes,0,0,1,1,1,0,0,3,Low,0,1,0,0,3,3,2,4,0,0,5,Low,0,0,0,0,1,2,1,0,0,4,Low
+19,Female,NC State University,Computer Science,3rd Year,2.6-3.1,No,1,3,3,2,0,1,2,12,Low,3,3,2,4,2,1,3,3,1,1,21,Medium,3,1,2,1,2,2,3,3,1,18,Medium
+21,Female,Wake Forest,Biology,4th Year,3.89,No,1,0,1,0,0,0,0,2,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,0,0,0,0,0,0,1,4,5,Low
+22,Female,UNC Chapel Hill,Arts,4th Year,2.84,No,1,3,1,3,2,2,2,14,Low,4,1,3,0,2,2,3,2,1,2,18,Medium,2,1,4,2,4,1,2,1,3,20,Medium
+21,Male,NC State University,Engineering,4th Year,2.95,No,3,2,2,2,3,1,2,15,Low,2,1,3,2,3,3,3,3,1,1,14,Low,1,2,2,2,1,1,1,2,2,14,Low
+20,Female,NC State University,Business,4th Year,2.41,Yes,2,4,3,1,2,4,2,18,Medium,3,2,2,2,2,1,1,1,4,2,26,Medium,4,3,4,3,3,2,3,2,2,26,Medium
+19,Male,UNC Chapel Hill,Psychology,3rd Year,2.37,Yes,4,2,1,2,1,2,4,16,Low,3,2,3,3,1,1,1,0,4,4,32,Medium,1,3,2,2,4,1,3,4,4,24,Medium
+18-20,Male,NC State University,Computer Science,2nd Year,3.71,No,1,0,0,0,0,0,0,1,Low,2,0,0,1,4,3,4,3,0,1,6,Low,0,0,0,0,0,1,1,0,1,3,Low
+22,Male,Duke University,Business,4th Year,2.1-2.6,No,3,2,2,3,3,2,2,17,Low,2,4,3,4,1,1,1,1,2,3,30,Medium,3,1,2,2,4,2,3,1,4,22,Medium
+21-23,Female,NC State University,Engineering,3rd Year,3.7-4.2,No,0,0,0,0,0,0,2,2,Low,0,0,1,0,3,4,4,4,0,0,2,Low,0,0,1,0,0,1,0,0,1,3,Low
+21,Male,Duke University,Computer Science,3rd Year,2.82,Yes,2,2,2,4,2,1,1,14,Low,1,2,2,1,3,2,2,4,2,2,15,Low,2,2,4,2,2,3,0,1,0,16,Low
+19,Male,NC State University,Engineering,1st Year,3.67,No,1,1,0,1,0,1,0,4,Low,0,0,0,1,4,4,3,4,0,2,4,Low,1,0,0,1,2,1,1,0,0,6,Low
+19,Female,UNC Chapel Hill,Computer Science,2nd Year,3.39,Yes,1,0,0,1,2,0,1,5,Low,0,2,1,1,4,3,4,4,0,2,7,Low,1,1,0,2,0,1,0,1,0,6,Low
+21,Male,Wake Forest,Computer Science,2nd Year,3.31,No,0,1,1,2,0,0,0,4,Low,1,2,0,3,3,4,4,2,0,2,11,Low,0,2,0,2,1,0,1,2,0,8,Low
+22,Female,Wake Forest,Computer Science,4th Year,3.6-4.1,No,0,0,0,2,1,0,0,3,Low,1,1,0,1,4,4,4,2,0,1,6,Low,0,0,0,0,0,2,0,0,0,2,Low
+22,Male,UNC Chapel Hill,Arts,3rd Year,2.56,No,2,1,3,3,1,1,4,15,Low,3,3,1,2,1,1,2,1,3,2,25,Medium,2,2,3,2,1,2,2,2,2,18,Medium
+22,Male,NC State University,Business,2nd Year,2.08,Yes,2,4,3,4,3,3,2,21,Medium,3,3,3,3,1,0,1,2,2,4,30,Medium,4,3,4,3,3,4,3,3,4,31,Medium
+21,Female,UNC Chapel Hill,Arts,4th Year,3.4-3.9,No,1,0,1,0,0,0,0,2,Low,0,0,0,0,4,4,3,4,1,0,2,Low,0,0,0,0,0,0,0,0,2,2,Low
+18-20,Male,NC State University,Engineering,1st Year,2.7-3.2,No,1,1,2,1,1,1,0,7,Low,2,3,2,1,4,2,1,2,1,2,18,Medium,2,2,0,3,2,1,2,1,2,15,Low
+19,Male,NC State University,Engineering,2nd Year,2.11,No,2,3,4,3,3,4,4,23,Medium,3,3,4,4,0,0,0,1,3,4,36,High,4,4,4,3,4,4,3,2,4,32,Medium
+22,Male,NC State University,Business,1st Year,2.45,No,1,2,2,2,3,4,3,17,Low,4,3,3,3,1,0,1,2,1,2,28,Medium,2,4,2,1,4,3,2,3,4,25,Medium
+21,Male,Duke University,Engineering,3rd Year,2.61,No,1,2,3,2,2,2,2,14,Low,4,3,1,1,2,2,1,1,2,2,23,Medium,3,3,3,1,1,1,2,2,2,18,Medium
+18-20,Female,UNC Chapel Hill,Computer Science,4th Year,2.0-2.5,No,2,3,4,2,2,2,4,19,Medium,3,3,2,3,2,1,2,2,3,3,26,Medium,4,3,2,2,3,2,3,4,1,24,Medium
+18-20,Male,UNC Chapel Hill,Business,2nd Year,3.93,No,0,0,0,0,0,0,1,1,Low,0,1,0,0,4,3,4,4,0,0,2,Low,0,0,0,0,0,0,1,0,0,1,Low
+21,Female,Duke University,Computer Science,4th Year,3.2-3.7,Yes,2,0,2,0,0,0,2,6,Low,2,1,0,1,2,4,3,3,2,1,11,Low,0,0,1,2,2,2,0,0,0,7,Low
+18-20,Male,NC State University,Business,2nd Year,3.70,Yes,0,0,0,0,1,0,0,1,Low,1,2,1,1,4,4,4,4,0,0,5,Low,0,0,0,0,1,0,1,2,0,4,Low
+19,Female,Wake Forest,Psychology,4th Year,2.61,No,2,4,2,2,2,2,0,14,Low,2,2,3,3,2,1,2,1,2,4,26,Medium,0,3,2,0,3,2,4,1,2,17,Low
+20,Female,Duke University,Computer Science,4th Year,3.43,Yes,1,1,0,1,0,0,0,3,Low,0,0,0,2,3,2,3,4,0,0,6,Low,1,1,1,0,1,2,1,0,1,8,Low
+21,Female,Duke University,Computer Science,4th Year,2.36,No,3,4,3,2,4,2,2,20,Medium,2,2,3,3,2,1,2,0,3,4,28,Medium,3,3,2,3,3,2,3,2,3,24,Medium
+21,Male,NC State University,Psychology,1st Year,3.80,No,0,0,0,2,0,0,0,2,Low,0,0,1,0,3,4,4,4,1,0,3,Low,2,0,0,0,0,0,0,0,0,2,Low
+19,Male,UNC Chapel Hill,Engineering,4th Year,3.97,No,0,0,0,1,0,0,0,1,Low,0,0,1,0,4,4,4,4,0,0,1,Low,0,0,0,0,0,0,0,1,0,1,Low
+21,Male,UNC Chapel Hill,Computer Science,3rd Year,2.79,No,3,1,1,1,1,2,3,12,Low,1,2,4,2,4,3,2,2,3,2,19,Medium,2,2,2,2,3,4,2,2,1,20,Medium
+19,Female,NC State University,Arts,2nd Year,3.32,No,2,0,1,1,1,0,2,7,Low,0,0,0,0,3,3,2,4,1,1,6,Low,0,0,1,1,1,3,2,1,1,10,Low
+19,Female,NC State University,Computer Science,4th Year,3.0-3.5,No,0,0,2,1,1,2,1,7,Low,0,1,4,1,3,4,3,3,2,0,11,Low,1,0,0,1,1,2,2,0,2,9,Low
+21,Female,UNC Chapel Hill,Psychology,2nd Year,2.33,Yes,2,4,3,2,3,2,4,20,Medium,2,4,3,3,1,2,1,1,1,1,25,Medium,1,3,2,3,3,4,2,3,2,23,Medium
+21,Male,UNC Chapel Hill,Arts,4th Year,3.17,No,1,2,0,0,3,0,1,7,Low,2,2,1,0,3,4,1,2,2,1,14,Low,1,1,0,1,0,1,2,2,1,9,Low
+22,Female,NC State University,Computer Science,1st Year,2.08,Yes,3,4,4,4,2,4,3,24,Medium,3,4,4,3,2,0,2,0,4,4,34,Medium,3,2,4,3,3,4,3,4,3,29,Medium
+21,Female,Wake Forest,Computer Science,3rd Year,3.1-3.6,No,1,0,1,0,1,0,2,5,Low,1,1,0,2,3,4,4,3,0,1,7,Low,1,1,2,2,1,1,1,1,0,10,Low
+21,Male,NC State University,Computer Science,3rd Year,3.3-3.8,No,0,0,0,1,0,1,0,2,Low,0,1,1,1,4,3,2,4,0,0,6,Low,0,1,1,1,0,1,0,0,1,5,Low
+18-20,Male,Duke University,Engineering,1st Year,2.21,No,4,3,3,4,3,1,4,22,Medium,3,4,2,3,3,1,1,0,2,4,29,Medium,3,3,3,4,2,3,3,3,2,26,Medium
+20,Female,Wake Forest,Computer Science,1st Year,3.02,Yes,2,2,2,3,1,3,0,13,Low,1,2,1,2,3,4,3,2,1,1,12,Low,1,4,0,3,1,1,2,2,1,15,Low
+19,Female,Duke University,Psychology,1st Year,3.87,No,0,0,0,0,0,0,0,0,Low,0,0,1,0,3,4,4,4,0,0,2,Low,0,0,0,0,1,1,1,0,0,3,Low
+19,Female,Duke University,Computer Science,2nd Year,3.39,No,2,0,1,1,2,0,1,7,Low,1,0,1,2,4,4,3,3,1,0,7,Low,1,0,1,2,3,1,1,0,2,11,Low
+23-25,Male,NC State University,Business,2nd Year,2.92,Yes,3,2,1,2,2,0,2,12,Low,2,1,2,2,1,3,2,3,2,1,17,Low,2,1,2,0,3,3,2,3,1,17,Low
+20,Female,NC State University,Arts,3rd Year,3.39,Yes,0,1,0,0,1,2,2,6,Low,0,1,1,0,3,3,4,3,2,1,8,Low,1,1,0,1,0,1,2,2,1,9,Low
+22,Male,Wake Forest,Biology,2nd Year,3.72,Yes,0,0,0,0,1,0,0,1,Low,0,0,1,2,4,4,4,4,0,1,4,Low,0,0,0,0,1,0,0,0,2,3,Low
+21,Male,Duke University,Business,2nd Year,3.5-4.0,No,0,0,0,1,0,0,0,1,Low,2,0,0,0,4,2,4,4,0,1,5,Low,0,0,0,2,0,0,0,1,0,3,Low
+22,Male,UNC Chapel Hill,Engineering,3rd Year,2.6-3.1,Yes,2,2,2,2,1,0,2,11,Low,1,2,2,1,2,1,2,1,3,2,21,Medium,2,1,2,3,1,2,3,2,3,19,Medium
+20,Female,NC State University,Business,1st Year,3.96,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,0,0,0,0,0,0,0,1,1,Low
+21,Female,NC State University,Business,4th Year,3.40,No,0,1,1,0,0,1,0,3,Low,2,2,1,1,4,3,2,4,1,0,10,Low,0,2,2,1,1,0,0,0,2,8,Low
+20,Female,NC State University,Engineering,4th Year,3.12,No,1,2,2,0,1,2,1,9,Low,4,1,2,1,2,1,2,2,2,2,21,Medium,3,3,1,1,2,2,0,2,1,15,Low
+19,Male,UNC Chapel Hill,Computer Science,3rd Year,2.99,Yes,1,1,2,1,2,0,0,7,Low,0,0,0,3,3,3,3,1,1,2,12,Low,1,3,0,2,1,1,2,2,2,14,Low
+21,Female,NC State University,Biology,3rd Year,2.33,No,3,1,2,3,3,2,2,16,Low,3,3,2,3,2,1,1,1,3,1,26,Medium,3,2,2,2,3,3,1,2,2,20,Medium
+19,Male,UNC Chapel Hill,Engineering,4th Year,3.47,No,2,0,1,0,0,1,0,4,Low,0,1,0,0,4,3,4,3,0,0,3,Low,0,0,0,1,1,1,0,1,0,4,Low
+18-20,Female,Duke University,Computer Science,1st Year,2.05,No,2,4,2,3,4,4,4,23,Medium,3,2,3,4,0,0,1,1,4,3,33,Medium,3,3,4,3,4,3,4,3,3,30,Medium
+21,Male,Wake Forest,Engineering,1st Year,2.02,No,4,4,3,2,4,2,4,23,Medium,3,4,4,4,0,0,1,1,2,4,35,High,3,4,3,4,4,4,4,4,4,34,Medium
+19,Male,NC State University,Engineering,1st Year,3.94,No,1,0,0,0,0,0,0,1,Low,0,0,0,0,4,4,4,3,0,0,1,Low,0,0,0,0,0,0,0,0,0,0,Low
+21-23,Male,UNC Chapel Hill,Biology,4th Year,2.47,No,4,3,3,3,1,3,3,20,Medium,3,3,1,3,2,2,0,2,2,3,25,Medium,1,1,1,2,3,3,2,2,2,17,Low
+21-23,Male,UNC Chapel Hill,Psychology,1st Year,3.63,No,0,1,1,1,0,1,0,4,Low,0,1,0,0,3,3,3,4,0,0,4,Low,1,0,1,1,0,0,0,0,0,3,Low
+21-23,Female,UNC Chapel Hill,Psychology,3rd Year,3.93,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,0,0,0,0,0,0,0,0,0,Low
+20,Female,UNC Chapel Hill,Computer Science,4th Year,2.9-3.4,Yes,2,1,2,0,1,0,1,7,Low,1,2,0,2,3,3,2,3,1,1,12,Low,0,2,1,0,1,0,1,2,1,8,Low
+18-20,Male,UNC Chapel Hill,Engineering,4th Year,3.73,Yes,0,1,0,0,0,0,0,1,Low,0,0,0,1,4,4,4,3,0,0,2,Low,0,0,2,0,0,1,0,0,1,4,Low
+21-23,Female,Duke University,Engineering,3rd Year,3.4-3.9,Yes,0,0,0,0,0,1,1,2,Low,0,0,0,0,4,4,4,4,1,0,1,Low,0,1,1,0,0,1,0,2,1,6,Low
+20,Male,NC State University,Computer Science,1st Year,2.79,No,2,3,2,2,1,1,2,13,Low,2,1,3,3,2,2,1,2,2,2,22,Medium,2,0,0,1,0,1,0,2,1,7,Low
+21-23,Female,NC State University,Engineering,4th Year,3.6-4.1,No,0,0,0,1,0,0,1,2,Low,0,1,0,0,4,3,4,3,0,0,3,Low,2,0,0,0,0,1,1,0,0,4,Low
+21-23,Female,Wake Forest,Psychology,3rd Year,2.6-3.1,No,2,3,2,1,1,2,2,13,Low,1,1,2,4,2,3,2,2,1,1,17,Low,2,3,2,0,2,2,2,2,3,18,Medium
+22,Female,Duke University,Computer Science,1st Year,3.6-4.1,No,0,0,0,0,1,0,0,1,Low,0,0,0,0,4,4,2,4,0,1,3,Low,0,0,0,0,0,0,1,0,0,1,Low
+19,Male,UNC Chapel Hill,Business,1st Year,3.59,No,0,1,1,1,0,2,0,5,Low,0,0,1,0,3,4,3,3,0,0,4,Low,0,0,1,2,0,0,2,0,2,7,Low
+20,Female,Duke University,Computer Science,4th Year,3.1-3.6,No,2,0,2,0,2,0,1,7,Low,0,2,2,1,3,2,2,3,0,2,13,Low,1,0,1,1,2,2,0,2,1,10,Low
+22,Female,NC State University,Computer Science,3rd Year,3.67,No,0,0,0,0,0,1,1,2,Low,0,1,0,0,4,4,4,4,0,0,1,Low,0,2,0,0,0,0,0,0,0,2,Low
+19,Male,NC State University,Computer Science,4th Year,2.02,No,3,4,3,4,3,3,3,23,Medium,4,4,4,4,1,1,0,0,4,2,36,High,2,3,3,4,4,3,2,4,3,28,Medium
+19,Male,UNC Chapel Hill,Arts,4th Year,2.10,Yes,4,4,2,4,3,4,2,23,Medium,3,3,3,2,1,0,1,2,2,4,29,Medium,3,4,4,4,4,2,4,3,2,30,Medium
+21,Female,Duke University,Biology,3rd Year,2.58,Yes,2,2,0,2,3,3,3,15,Low,3,3,3,3,1,2,1,2,3,3,28,Medium,2,3,4,3,0,2,2,3,2,21,Medium
+21-23,Female,NC State University,Arts,3rd Year,2.71,Yes,2,1,2,1,2,2,2,12,Low,3,4,2,2,2,3,1,2,1,2,22,Medium,1,4,2,2,2,2,3,1,2,19,Medium
+21,Female,Duke University,Engineering,2nd Year,2.67,No,2,2,3,2,3,1,2,15,Low,1,1,2,2,1,3,2,2,2,2,18,Medium,2,2,3,3,2,1,1,3,3,20,Medium
+21,Female,NC State University,Computer Science,2nd Year,2.81,No,3,2,2,3,2,3,1,16,Low,1,3,2,2,1,1,1,1,2,2,24,Medium,3,1,2,0,0,0,3,1,0,10,Low
+18-20,Female,Duke University,Business,2nd Year,3.4-3.9,No,0,1,0,0,0,0,1,2,Low,3,0,0,0,4,3,4,4,0,0,4,Low,1,0,0,0,0,1,2,0,0,4,Low
+21,Male,NC State University,Engineering,4th Year,2.8-3.3,Yes,0,2,1,2,1,2,2,10,Low,3,1,1,1,4,3,3,2,0,1,11,Low,2,3,1,2,2,2,1,1,1,15,Low
+23-25,Male,UNC Chapel Hill,Biology,3rd Year,2.66,No,2,2,0,3,1,1,2,11,Low,2,2,3,2,1,2,2,2,2,3,23,Medium,2,2,1,3,4,1,1,2,2,18,Medium
+18-20,Male,NC State University,Computer Science,4th Year,2.7-3.2,No,1,3,3,3,2,3,1,16,Low,2,1,3,2,1,2,3,1,3,2,22,Medium,2,1,0,1,3,2,1,2,2,14,Low
+20,Female,Duke University,Engineering,2nd Year,3.28,Yes,1,1,0,1,0,1,0,4,Low,0,1,2,2,3,3,3,3,0,1,10,Low,1,0,1,1,1,0,0,1,0,5,Low
+22,Male,NC State University,Computer Science,3rd Year,3.26,No,1,1,2,1,2,1,2,10,Low,1,0,0,0,4,3,4,3,3,1,7,Low,1,0,0,0,1,1,1,2,2,8,Low
+21,Female,NC State University,Engineering,3rd Year,2.8-3.3,Yes,2,0,2,3,1,1,2,11,Low,1,2,3,1,3,2,2,3,1,1,15,Low,1,2,0,1,3,1,2,1,3,14,Low
+21,Female,NC State University,Psychology,3rd Year,2.20,No,2,3,2,3,3,2,3,18,Medium,1,1,3,4,2,0,1,2,3,2,25,Medium,3,3,4,4,4,3,3,3,4,31,Medium
+21,Female,Duke University,Engineering,3rd Year,2.5-3.0,No,3,2,1,2,3,1,2,14,Low,1,2,3,2,1,2,2,2,1,2,20,Medium,2,1,2,3,1,4,2,1,2,18,Medium
+20,Male,Duke University,Engineering,1st Year,3.96,Yes,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,0,0,0,Low,2,0,1,0,0,0,0,0,0,3,Low
+19,Female,NC State University,Engineering,3rd Year,2.9-3.4,Yes,2,2,1,1,1,1,2,10,Low,0,0,1,0,3,3,3,3,1,1,7,Low,2,1,2,0,0,0,2,1,1,9,Low
+22,Male,UNC Chapel Hill,Engineering,1st Year,3.7-4.2,No,0,0,0,0,0,1,1,2,Low,0,0,0,0,4,4,4,3,0,0,1,Low,0,0,0,0,1,0,0,0,0,1,Low
+22,Female,UNC Chapel Hill,Psychology,2nd Year,2.7-3.2,No,2,2,1,1,0,2,1,9,Low,1,0,0,1,2,1,2,4,1,2,12,Low,1,1,0,2,2,3,2,3,1,15,Low
+22,Male,UNC Chapel Hill,Biology,2nd Year,3.41,No,1,1,0,2,0,0,0,4,Low,0,1,1,0,4,3,4,4,0,0,3,Low,0,2,0,0,1,0,3,0,0,6,Low
+21-23,Male,NC State University,Arts,3rd Year,2.69,No,3,3,0,0,2,1,0,9,Low,3,1,3,2,2,3,3,1,4,2,22,Medium,4,4,1,3,0,1,1,3,2,19,Medium
+20,Female,Duke University,Psychology,4th Year,2.53,No,3,3,3,4,3,3,1,20,Medium,3,3,2,2,2,2,1,1,1,0,21,Medium,2,1,3,3,2,4,2,2,2,21,Medium
+20,Male,NC State University,Engineering,3rd Year,2.9-3.4,No,1,2,1,2,1,0,0,7,Low,1,0,2,2,4,3,3,3,1,1,10,Low,2,2,1,2,1,1,3,1,2,15,Low
+22,Male,NC State University,Psychology,3rd Year,2.5-3.0,No,4,2,2,2,3,3,2,18,Medium,3,2,2,2,1,1,2,2,2,0,21,Medium,2,1,3,1,2,2,3,1,3,18,Medium
+21,Female,Wake Forest,Engineering,3rd Year,3.94,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,0,0,1,0,2,0,0,1,4,Low
+21,Female,NC State University,Engineering,3rd Year,2.15,No,4,4,4,3,3,4,2,24,Medium,4,3,1,3,2,1,1,2,4,3,28,Medium,4,4,4,0,2,3,3,3,2,25,Medium
+22,Female,Duke University,Biology,1st Year,3.7-4.2,No,0,0,0,1,1,0,0,2,Low,0,0,2,0,2,4,4,4,0,1,5,Low,0,0,0,0,0,0,0,1,0,1,Low
+22,Female,Duke University,Computer Science,2nd Year,2.2-2.7,No,2,2,2,3,3,4,3,19,Medium,2,1,4,3,1,1,3,0,0,3,24,Medium,2,3,1,4,4,2,2,3,2,23,Medium
+19,Female,UNC Chapel Hill,Biology,2nd Year,3.25,No,1,0,1,0,1,3,1,7,Low,0,2,1,1,3,3,4,4,2,1,9,Low,3,2,2,1,1,0,1,3,0,13,Low
+20,Male,Duke University,Engineering,2nd Year,2.53,Yes,3,3,1,3,2,1,1,14,Low,2,4,1,2,0,3,2,2,1,2,21,Medium,3,3,3,4,3,4,2,3,2,27,Medium
+18-20,Male,NC State University,Business,1st Year,3.7-4.2,No,0,1,0,0,0,0,0,1,Low,0,2,0,1,3,4,3,4,0,0,5,Low,0,0,0,0,0,0,0,0,1,1,Low
+21,Male,NC State University,Psychology,1st Year,3.2-3.7,No,1,0,1,1,0,1,0,4,Low,2,1,0,0,4,4,2,3,1,0,7,Low,1,0,0,1,0,2,0,2,0,6,Low
+18-20,Female,Duke University,Biology,2nd Year,3.22,Yes,2,0,2,0,1,0,2,7,Low,2,2,1,0,3,3,1,3,1,1,13,Low,2,0,2,1,1,2,0,1,3,12,Low
+20,Female,NC State University,Business,4th Year,2.54,No,3,2,1,4,3,3,3,19,Medium,1,1,3,3,2,0,2,1,3,1,23,Medium,4,2,1,4,2,2,2,2,3,22,Medium
+20,Male,NC State University,Business,2nd Year,3.73,No,0,1,0,1,0,1,0,3,Low,1,1,0,0,4,4,4,4,1,1,4,Low,0,2,1,1,0,0,2,1,0,7,Low
+19,Male,NC State University,Computer Science,2nd Year,2.21,Yes,3,4,2,2,2,3,2,18,Medium,1,4,4,4,1,2,3,0,2,3,28,Medium,4,2,4,4,4,3,3,3,4,31,Medium
+21,Female,NC State University,Business,1st Year,3.7-4.2,No,0,0,0,0,1,1,0,2,Low,0,0,0,2,4,4,4,4,0,0,2,Low,0,0,0,0,0,0,0,0,0,0,Low
+18-20,Male,NC State University,Computer Science,3rd Year,3.77,Yes,0,0,0,0,0,0,0,0,Low,0,1,1,0,4,4,4,4,0,1,3,Low,0,0,2,0,3,0,1,1,0,7,Low
+18-20,Female,NC State University,Psychology,2nd Year,3.1-3.6,Yes,0,0,2,1,0,0,1,4,Low,1,1,1,1,3,3,2,3,3,0,12,Low,0,1,1,0,1,2,1,2,3,11,Low
+22,Female,Duke University,Business,1st Year,3.36,No,0,1,0,1,0,1,1,4,Low,0,0,0,0,3,3,2,3,0,0,5,Low,2,1,1,2,0,1,3,3,1,14,Low
+20,Female,UNC Chapel Hill,Psychology,3rd Year,2.03,No,2,3,3,4,4,3,4,23,Medium,4,4,4,4,2,0,0,1,4,3,36,High,1,4,2,4,4,4,3,4,3,29,Medium
+18-20,Male,UNC Chapel Hill,Computer Science,1st Year,2.51,Yes,2,4,3,3,4,2,2,20,Medium,1,2,2,2,2,2,2,1,3,1,20,Medium,2,3,4,1,4,2,3,2,2,23,Medium
+20,Female,NC State University,Computer Science,1st Year,3.92,No,0,0,0,0,0,0,0,0,Low,0,1,0,0,4,4,4,3,0,0,2,Low,0,0,0,0,1,0,0,0,1,2,Low
+22,Female,NC State University,Psychology,1st Year,3.68,No,0,0,1,0,1,1,0,3,Low,0,0,1,0,4,3,4,4,0,2,4,Low,0,0,1,0,0,0,1,1,1,4,Low
+19,Female,NC State University,Computer Science,1st Year,3.2-3.7,Yes,2,0,1,0,2,1,0,6,Low,0,0,2,1,2,4,3,4,0,1,7,Low,0,0,0,1,1,0,1,2,1,6,Low
+21,Female,Duke University,Computer Science,1st Year,2.20,Yes,4,3,2,3,3,3,2,20,Medium,3,2,3,4,2,0,1,1,1,4,29,Medium,4,4,2,2,2,4,3,3,3,27,Medium
+18-20,Female,UNC Chapel Hill,Computer Science,2nd Year,2.8-3.3,No,1,1,0,2,1,2,2,9,Low,3,2,3,1,3,3,4,0,2,2,19,Medium,2,1,2,1,2,2,1,1,2,14,Low
+18-20,Female,NC State University,Arts,4th Year,3.3-3.8,Yes,0,1,0,0,0,0,0,1,Low,3,0,0,0,3,3,3,4,1,0,7,Low,0,0,1,1,2,1,0,0,1,6,Low
+20,Male,Wake Forest,Psychology,3rd Year,2.87,No,1,2,2,2,2,3,2,14,Low,2,1,1,3,3,2,2,1,2,1,18,Medium,3,2,0,2,2,1,2,2,1,15,Low
+20,Female,NC State University,Engineering,3rd Year,2.8-3.3,No,3,1,2,1,1,1,1,10,Low,2,1,1,1,2,2,4,4,0,2,11,Low,1,0,2,1,1,0,2,0,0,7,Low
+21,Female,Duke University,Engineering,2nd Year,2.02,No,4,4,4,3,4,4,2,25,Medium,4,3,4,2,1,1,1,1,2,4,31,Medium,3,4,4,4,4,4,3,4,4,34,Medium
+21,Male,UNC Chapel Hill,Engineering,4th Year,3.23,Yes,1,1,2,1,2,1,1,9,Low,1,0,0,1,3,3,2,4,0,1,7,Low,0,0,0,2,1,1,1,2,0,7,Low
+23-25,Female,UNC Chapel Hill,Psychology,2nd Year,2.48,No,3,3,3,3,2,1,3,18,Medium,2,2,3,2,2,1,2,2,3,1,22,Medium,2,2,4,1,3,2,3,3,3,23,Medium
+20,Female,UNC Chapel Hill,Psychology,1st Year,2.18,No,3,3,3,3,2,4,2,20,Medium,3,4,3,4,0,0,0,1,3,4,36,High,2,3,2,3,3,4,3,3,3,26,Medium
+19,Female,UNC Chapel Hill,Computer Science,3rd Year,3.6-4.1,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,0,0,1,0,0,0,1,1,3,Low
+22,Male,NC State University,Computer Science,1st Year,2.03,Yes,3,4,4,3,4,4,3,25,Medium,3,3,4,4,1,0,1,1,4,3,34,Medium,4,3,4,4,4,4,3,4,3,33,Medium
+19,Male,UNC Chapel Hill,Computer Science,2nd Year,2.4-2.9,Yes,2,1,3,3,2,3,2,16,Low,2,2,2,3,2,3,2,1,1,2,20,Medium,4,3,1,2,3,2,4,2,3,24,Medium
+20,Female,NC State University,Psychology,3rd Year,2.4-2.9,No,2,4,2,2,2,2,3,17,Low,2,2,2,1,1,2,2,1,3,2,22,Medium,3,4,2,3,1,0,3,2,2,20,Medium
+18-20,Female,UNC Chapel Hill,Psychology,4th Year,2.8-3.3,No,1,2,2,3,1,1,1,11,Low,2,2,2,1,1,3,3,2,2,2,18,Medium,0,2,2,2,0,1,2,1,2,12,Low
+18-20,Male,Duke University,Engineering,2nd Year,3.21,Yes,1,1,1,2,2,2,1,10,Low,0,2,3,1,3,3,4,2,1,2,13,Low,1,3,1,2,1,2,2,2,3,17,Low
+21-23,Female,UNC Chapel Hill,Computer Science,3rd Year,2.16,No,3,2,4,3,3,3,3,21,Medium,3,3,4,4,0,0,0,1,3,3,35,High,2,2,4,1,4,3,3,2,2,23,Medium
+22,Female,Duke University,Computer Science,4th Year,3.68,Yes,0,0,1,0,0,1,0,2,Low,2,0,0,0,4,4,3,4,2,0,5,Low,0,0,0,0,0,0,1,1,0,2,Low
+21,Female,Duke University,Arts,1st Year,3.65,No,0,0,1,0,0,0,0,1,Low,1,1,0,0,3,4,3,4,1,0,5,Low,0,0,0,1,0,0,0,2,3,6,Low
+20,Female,Duke University,Engineering,2nd Year,3.09,No,1,2,2,0,1,2,0,8,Low,3,1,1,2,2,4,1,2,0,1,15,Low,1,2,2,0,2,0,2,0,1,10,Low
+19,Male,UNC Chapel Hill,Psychology,2nd Year,3.1-3.6,No,0,1,1,0,2,0,1,5,Low,1,2,1,0,4,3,4,4,1,2,8,Low,0,2,2,1,0,1,0,1,1,8,Low
+19,Male,NC State University,Business,2nd Year,3.48,No,1,1,0,2,0,2,1,7,Low,1,0,0,1,3,3,2,4,1,2,9,Low,1,0,1,0,1,1,0,1,1,6,Low
+19,Male,NC State University,Engineering,2nd Year,2.14,No,2,4,4,3,3,4,2,22,Medium,4,3,4,2,1,0,2,0,3,3,32,Medium,2,3,2,2,4,2,4,4,3,26,Medium
+20,Female,NC State University,Computer Science,4th Year,3.84,No,1,0,0,0,0,0,0,1,Low,1,2,0,2,4,4,4,2,1,0,8,Low,0,0,0,0,0,0,0,1,0,1,Low
+21,Male,NC State University,Computer Science,3rd Year,3.08,No,2,1,2,0,2,2,2,11,Low,0,1,0,0,3,2,4,2,2,0,8,Low,4,0,0,2,2,2,2,0,2,14,Low
+21,Male,UNC Chapel Hill,Business,3rd Year,2.7-3.2,No,1,3,1,1,3,1,2,12,Low,0,1,1,1,3,2,3,1,0,2,12,Low,0,1,0,4,3,1,0,1,0,10,Low
+19,Male,NC State University,Psychology,2nd Year,3.33,No,0,2,1,2,1,2,0,8,Low,2,1,0,1,2,4,4,3,1,1,9,Low,1,1,1,0,0,0,1,1,0,5,Low
+21-23,Female,Wake Forest,Business,4th Year,2.91,Yes,1,4,1,2,2,3,1,14,Low,1,1,2,3,2,4,2,4,1,1,13,Low,0,1,1,3,2,1,0,0,3,11,Low
+21,Female,NC State University,Business,4th Year,2.50,Yes,2,2,3,2,3,3,2,17,Low,2,2,4,1,1,1,1,1,3,2,26,Medium,2,4,3,3,2,3,4,2,2,25,Medium
+21,Male,NC State University,Computer Science,4th Year,2.86,No,1,2,2,2,0,3,2,12,Low,1,1,2,4,2,4,3,2,3,1,17,Low,2,1,3,1,2,2,0,2,1,14,Low
+21,Male,UNC Chapel Hill,Arts,1st Year,3.30,No,0,0,0,2,1,0,3,6,Low,0,0,0,2,2,2,3,3,1,1,10,Low,2,1,0,2,0,0,1,1,2,9,Low
+20,Female,UNC Chapel Hill,Psychology,3rd Year,2.13,No,4,4,4,3,3,3,3,24,Medium,2,4,3,4,1,1,1,1,4,1,30,Medium,3,4,2,4,3,3,4,2,2,27,Medium
+19,Male,Duke University,Engineering,1st Year,2.58,Yes,3,2,2,2,3,2,1,15,Low,4,3,2,1,2,1,3,1,2,1,22,Medium,3,4,1,2,3,4,3,4,1,25,Medium
+20,Male,Duke University,Arts,2nd Year,2.04,No,3,4,4,4,3,4,4,26,Medium,3,4,4,4,0,1,1,1,4,3,35,High,4,3,3,4,2,2,4,4,4,30,Medium
+22,Male,UNC Chapel Hill,Business,1st Year,3.01,No,0,1,1,3,1,1,3,10,Low,1,2,2,1,3,2,3,3,2,3,16,Low,3,2,2,1,0,0,1,2,1,12,Low
+18-20,Male,NC State University,Business,3rd Year,2.9-3.4,No,1,0,2,0,1,2,1,7,Low,2,1,2,2,1,3,2,4,1,0,14,Low,1,2,1,0,0,2,3,0,0,9,Low
+18-20,Male,Wake Forest,Psychology,3rd Year,2.21,No,3,3,2,4,4,3,2,21,Medium,4,2,3,2,0,1,1,1,4,3,31,Medium,2,3,2,4,2,3,4,3,4,27,Medium
+18-20,Male,Wake Forest,Biology,1st Year,2.82,No,2,0,1,2,2,1,3,11,Low,3,1,3,2,2,3,2,3,1,2,18,Medium,1,1,3,2,2,1,2,2,2,16,Low
+18-20,Male,UNC Chapel Hill,Psychology,2nd Year,2.52,No,2,3,2,3,4,3,3,20,Medium,3,2,3,2,3,1,3,2,2,4,23,Medium,2,1,0,2,1,3,3,1,2,15,Low
+22,Female,NC State University,Computer Science,2nd Year,2.3-2.8,No,3,1,3,2,3,3,2,17,Low,2,1,2,2,2,2,1,2,1,4,21,Medium,3,3,4,3,2,3,2,1,2,23,Medium
+21,Male,UNC Chapel Hill,Engineering,2nd Year,2.3-2.8,Yes,4,2,4,2,1,3,3,19,Medium,2,2,4,3,2,3,0,2,3,2,25,Medium,1,2,2,3,3,0,1,3,3,18,Medium
+20,Female,NC State University,Arts,1st Year,3.76,No,1,0,0,1,0,1,1,4,Low,1,0,0,0,3,3,4,4,0,0,3,Low,0,1,0,0,0,0,1,2,1,5,Low
+18-20,Female,NC State University,Computer Science,2nd Year,3.37,No,1,1,2,3,0,0,2,9,Low,0,3,0,2,2,3,4,3,2,0,11,Low,2,2,0,2,0,3,2,1,0,12,Low
+20,Male,NC State University,Engineering,4th Year,2.5-3.0,No,2,3,0,3,0,2,2,12,Low,2,0,3,0,3,2,2,1,3,2,18,Medium,2,2,4,2,2,3,1,3,3,22,Medium
+20,Female,Duke University,Engineering,1st Year,2.50,Yes,2,3,2,2,4,2,2,17,Low,3,2,4,3,1,0,1,1,2,2,29,Medium,2,1,1,2,3,3,2,2,3,19,Medium
+19,Male,UNC Chapel Hill,Engineering,1st Year,3.07,No,2,1,1,1,2,0,2,9,Low,2,3,1,4,2,3,3,1,0,2,19,Medium,3,2,1,2,1,3,1,1,2,16,Low
+20,Female,UNC Chapel Hill,Business,2nd Year,2.71,No,2,2,1,2,3,2,1,13,Low,0,2,2,2,1,1,2,1,2,2,21,Medium,0,1,3,2,2,2,2,3,2,17,Low
+20,Male,UNC Chapel Hill,Arts,4th Year,3.58,Yes,0,0,0,0,0,0,1,1,Low,1,1,0,2,3,4,4,3,1,1,8,Low,0,0,0,1,3,1,0,2,0,7,Low
+21,Male,Duke University,Computer Science,3rd Year,3.83,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,1,1,2,Low,0,0,0,0,1,1,1,1,0,4,Low
+21,Male,NC State University,Computer Science,3rd Year,2.65,No,2,1,2,3,2,2,3,15,Low,3,2,3,1,2,0,1,2,3,4,27,Medium,2,2,2,3,4,3,1,1,3,21,Medium
+18-20,Female,NC State University,Computer Science,2nd Year,3.01,No,0,2,2,0,2,2,1,9,Low,2,0,2,1,4,2,3,2,1,2,13,Low,2,3,1,3,1,1,1,1,3,16,Low
+20,Female,Wake Forest,Biology,3rd Year,3.75,No,0,0,1,1,0,0,1,3,Low,1,0,0,1,4,4,3,4,0,1,4,Low,1,0,0,1,0,0,1,0,0,3,Low
+21,Female,NC State University,Business,1st Year,2.7-3.2,Yes,2,1,2,2,0,0,2,9,Low,3,1,3,1,2,2,3,4,1,1,15,Low,2,1,1,1,0,1,1,1,2,10,Low
+20,Male,UNC Chapel Hill,Engineering,3rd Year,3.01,No,2,1,2,1,1,2,1,10,Low,3,1,1,1,2,3,3,2,1,3,16,Low,1,0,2,0,1,1,0,2,1,8,Low
+22,Female,Duke University,Biology,4th Year,3.5-4.0,Yes,0,1,0,0,0,0,1,2,Low,1,0,1,1,3,3,3,4,0,1,7,Low,0,1,0,2,2,0,0,1,0,6,Low
+21,Male,Duke University,Biology,3rd Year,3.68,No,1,0,0,1,0,0,1,3,Low,0,2,0,0,4,4,3,4,0,1,4,Low,0,0,1,0,0,0,0,1,2,4,Low
+19,Female,UNC Chapel Hill,Biology,4th Year,3.50,No,0,0,1,1,1,1,1,5,Low,1,3,1,1,4,4,3,3,0,1,9,Low,1,1,0,0,2,0,2,2,1,9,Low
+18-20,Male,Duke University,Biology,3rd Year,3.22,No,2,0,1,1,2,1,0,7,Low,2,1,1,1,4,2,4,3,1,0,9,Low,0,1,0,0,0,0,2,1,0,4,Low
+21,Male,UNC Chapel Hill,Engineering,1st Year,3.2-3.7,Yes,0,1,0,0,1,1,0,3,Low,1,0,1,1,3,4,4,4,0,0,4,Low,1,1,3,1,0,0,2,0,0,8,Low
+18-20,Male,Wake Forest,Psychology,4th Year,3.2-3.7,No,1,1,0,1,2,1,1,7,Low,0,0,0,0,4,3,3,3,1,1,5,Low,1,0,0,1,0,0,1,1,2,6,Low
+21,Male,Duke University,Engineering,1st Year,2.2-2.7,No,3,2,2,2,1,2,2,14,Low,3,3,4,3,2,3,1,1,3,4,29,Medium,2,3,1,1,3,3,4,4,3,24,Medium
+21-23,Female,NC State University,Biology,3rd Year,2.0-2.5,No,2,3,3,1,3,4,4,20,Medium,3,4,2,2,3,0,2,2,3,3,26,Medium,4,3,1,3,4,4,2,3,2,26,Medium
+21,Male,Duke University,Psychology,1st Year,3.46,No,1,1,1,2,1,1,1,8,Low,0,0,0,2,4,2,3,2,0,1,8,Low,0,3,2,0,1,0,0,1,0,7,Low
+20,Female,Wake Forest,Psychology,1st Year,2.32,No,4,2,3,3,2,3,1,18,Medium,4,1,4,2,1,1,2,3,2,4,26,Medium,3,4,3,4,2,4,2,4,4,30,Medium
+21,Male,NC State University,Psychology,2nd Year,2.0-2.5,No,1,3,2,3,2,4,3,18,Medium,3,4,4,4,0,1,0,0,4,3,37,High,3,3,3,2,3,4,3,3,4,28,Medium
+20,Female,Duke University,Computer Science,2nd Year,3.6-4.1,No,0,2,0,0,0,0,0,2,Low,2,1,0,0,4,3,3,4,0,1,6,Low,0,0,0,0,0,0,0,0,0,0,Low
+20,Male,Duke University,Business,2nd Year,2.6-3.1,Yes,0,1,3,1,1,2,2,10,Low,0,0,1,2,1,0,2,2,0,0,14,Low,2,1,3,1,1,2,2,1,4,17,Low
+21-23,Male,UNC Chapel Hill,Arts,3rd Year,2.4-2.9,Yes,1,1,3,2,3,4,2,16,Low,2,2,1,2,3,1,1,4,3,1,18,Medium,3,1,2,3,1,3,4,0,3,20,Medium
+20,Female,NC State University,Arts,1st Year,3.22,No,2,2,3,0,1,1,2,11,Low,1,1,0,0,2,1,3,3,2,0,11,Low,2,1,3,1,2,2,0,0,1,12,Low
+21-23,Male,UNC Chapel Hill,Computer Science,1st Year,2.1-2.6,No,2,2,4,4,2,3,4,21,Medium,4,3,0,1,1,2,1,1,3,2,24,Medium,4,2,3,2,1,4,3,2,2,23,Medium
+21-23,Male,Wake Forest,Computer Science,3rd Year,2.47,No,2,2,3,2,2,3,3,17,Low,3,2,2,2,1,2,0,2,4,3,27,Medium,3,3,4,3,4,4,1,4,2,28,Medium
+19,Female,NC State University,Computer Science,2nd Year,3.7-4.2,No,0,0,0,0,0,0,0,0,Low,0,1,0,0,4,4,4,4,0,0,1,Low,0,0,0,0,0,0,0,0,0,0,Low
+18-20,Female,NC State University,Psychology,3rd Year,3.11,Yes,3,1,2,1,1,0,1,9,Low,0,1,1,1,2,2,3,4,0,2,10,Low,4,3,1,2,1,2,2,1,1,17,Low
+18-20,Male,Wake Forest,Biology,3rd Year,2.86,No,0,3,2,3,2,0,2,12,Low,1,0,0,3,2,2,4,1,2,2,15,Low,0,3,1,4,3,3,2,1,3,20,Medium
+18-20,Male,NC State University,Computer Science,4th Year,3.39,Yes,0,1,0,1,1,0,0,3,Low,1,0,1,0,4,3,3,3,1,0,6,Low,2,1,1,1,2,0,1,1,2,11,Low
+18-20,Female,UNC Chapel Hill,Business,3rd Year,2.34,Yes,4,4,3,2,4,2,3,22,Medium,2,4,2,2,1,0,0,0,2,2,29,Medium,3,3,3,3,4,3,2,4,3,28,Medium
+21,Male,Duke University,Biology,2nd Year,2.82,No,3,1,3,3,1,2,2,15,Low,1,2,3,1,2,1,1,3,2,2,20,Medium,1,1,1,3,2,2,0,3,1,14,Low
+18-20,Male,NC State University,Psychology,3rd Year,3.26,Yes,1,0,1,2,2,1,2,9,Low,1,1,2,1,3,4,3,3,0,0,8,Low,1,1,1,3,2,2,2,2,0,14,Low
+19,Male,UNC Chapel Hill,Business,2nd Year,2.23,No,2,1,2,3,3,2,4,17,Low,2,3,4,4,2,1,1,0,4,2,31,Medium,3,4,4,4,1,4,4,2,4,30,Medium
+22,Female,Duke University,Business,2nd Year,2.23,Yes,4,2,4,4,3,2,2,21,Medium,4,3,3,4,1,0,3,2,2,4,30,Medium,4,2,4,3,3,3,2,3,2,26,Medium
+18-20,Female,Duke University,Business,4th Year,2.29,No,4,4,2,4,4,3,4,25,Medium,4,2,4,4,1,2,2,2,2,4,29,Medium,2,1,4,4,2,1,4,4,4,26,Medium
+22,Male,NC State University,Engineering,2nd Year,2.41,No,3,3,3,4,2,3,2,20,Medium,1,2,1,3,1,2,2,0,3,4,25,Medium,2,3,4,2,4,3,3,4,3,28,Medium
+19,Male,Duke University,Business,4th Year,3.79,Yes,0,0,0,0,0,0,0,0,Low,0,0,0,1,3,3,4,4,0,0,3,Low,0,0,0,1,0,0,0,0,0,1,Low
+18-20,Male,NC State University,Psychology,4th Year,2.9-3.4,No,1,1,1,2,0,2,1,8,Low,0,1,1,1,2,4,2,4,1,2,10,Low,3,0,2,0,2,0,0,1,0,8,Low
+21,Female,NC State University,Biology,4th Year,2.04,No,3,3,4,4,4,4,3,25,Medium,3,3,4,4,1,1,0,0,3,4,35,High,2,3,4,3,4,2,3,4,3,28,Medium
+21,Male,Wake Forest,Business,4th Year,2.14,No,3,3,2,4,4,4,3,23,Medium,4,4,3,3,1,0,1,2,3,3,32,Medium,4,2,2,0,2,4,3,2,3,22,Medium
+22,Male,NC State University,Psychology,2nd Year,3.12,Yes,2,2,3,0,3,2,0,12,Low,1,1,1,0,2,3,3,3,0,2,10,Low,1,1,1,2,1,3,0,0,2,11,Low
+21,Female,UNC Chapel Hill,Computer Science,2nd Year,3.38,No,1,0,0,1,2,3,0,7,Low,1,1,0,0,3,3,3,3,1,1,8,Low,1,0,2,0,2,1,0,1,0,7,Low
+22,Male,NC State University,Engineering,3rd Year,2.0-2.5,No,2,3,3,2,3,3,3,19,Medium,2,4,4,3,3,2,1,4,4,4,27,Medium,4,3,2,4,2,3,2,2,3,25,Medium
+19,Female,UNC Chapel Hill,Computer Science,2nd Year,3.07,No,2,2,2,2,1,1,1,11,Low,2,2,2,1,3,1,3,3,1,2,16,Low,3,1,0,2,1,3,2,1,1,14,Low
+19,Male,NC State University,Computer Science,3rd Year,3.64,No,0,0,1,1,0,0,0,2,Low,0,1,1,2,4,4,4,3,1,1,7,Low,0,0,2,1,0,0,0,0,1,4,Low
+22,Male,Wake Forest,Psychology,3rd Year,2.97,No,2,2,1,0,3,2,0,10,Low,2,2,1,2,1,2,2,2,3,2,21,Medium,2,1,3,0,1,2,1,1,1,12,Low
+22,Male,Duke University,Arts,3rd Year,3.58,No,2,3,0,0,1,2,0,8,Low,0,0,0,1,4,3,3,3,0,0,4,Low,1,1,1,1,0,0,1,0,0,5,Low
+23-25,Female,NC State University,Computer Science,2nd Year,2.37,No,2,3,3,4,2,2,3,19,Medium,2,3,2,2,1,2,1,2,3,4,26,Medium,4,2,3,4,2,3,4,2,3,27,Medium
+20,Female,NC State University,Engineering,1st Year,3.77,No,0,0,0,0,1,0,0,1,Low,0,1,0,0,3,4,4,3,2,0,5,Low,0,1,0,1,0,0,0,0,0,2,Low
+20,Female,NC State University,Biology,2nd Year,2.15,No,3,3,4,4,2,4,3,23,Medium,4,4,2,2,0,0,2,1,4,4,33,Medium,4,4,3,4,3,2,3,1,4,28,Medium
+22,Male,Duke University,Computer Science,1st Year,3.61,No,0,0,1,1,1,1,1,5,Low,1,2,0,0,4,4,3,4,0,0,4,Low,1,0,2,0,0,0,1,1,0,5,Low
+19,Female,NC State University,Business,4th Year,2.41,No,3,3,3,3,3,2,3,20,Medium,4,1,2,3,1,1,2,2,3,4,27,Medium,4,3,3,2,2,4,2,0,1,21,Medium
+21-23,Male,UNC Chapel Hill,Psychology,2nd Year,3.6-4.1,No,2,0,0,0,0,0,0,2,Low,0,0,0,0,4,4,4,4,0,1,1,Low,0,0,2,1,0,1,0,0,0,4,Low
+22,Male,Duke University,Business,1st Year,3.08,Yes,0,1,1,0,1,2,1,6,Low,1,2,1,2,4,3,4,2,2,2,13,Low,1,1,0,0,1,1,1,2,2,9,Low
+20,Female,NC State University,Computer Science,1st Year,2.13,No,3,3,3,2,2,4,2,19,Medium,2,3,4,3,1,0,0,2,3,4,32,Medium,3,2,3,3,4,2,2,2,3,24,Medium
+22,Male,Duke University,Engineering,3rd Year,2.15,No,4,4,2,4,3,3,3,23,Medium,3,4,3,3,1,2,1,1,2,4,30,Medium,2,3,3,1,4,2,3,4,3,25,Medium
+22,Male,UNC Chapel Hill,Psychology,3rd Year,3.61,No,0,1,1,0,1,1,1,5,Low,0,0,0,2,4,3,4,4,0,0,3,Low,2,0,0,0,0,2,0,1,1,6,Low
+18-20,Male,NC State University,Business,2nd Year,3.99,No,0,0,0,0,0,2,0,2,Low,1,0,0,0,4,4,4,4,0,0,1,Low,0,0,0,0,2,0,1,0,0,3,Low
+21-23,Male,NC State University,Computer Science,1st Year,2.64,No,1,2,3,2,3,3,3,17,Low,3,2,1,3,1,2,3,1,3,1,22,Medium,3,1,3,3,1,2,1,2,1,17,Low
+20,Male,NC State University,Psychology,2nd Year,2.6-3.1,No,2,2,1,2,1,2,2,12,Low,3,0,2,1,2,2,2,3,1,2,16,Low,1,2,2,2,3,3,3,0,2,18,Medium
+22,Female,UNC Chapel Hill,Computer Science,2nd Year,2.14,Yes,3,3,4,4,3,4,4,25,Medium,4,2,3,4,1,2,1,0,3,2,30,Medium,2,3,4,3,2,2,3,3,4,26,Medium
+19,Male,UNC Chapel Hill,Psychology,3rd Year,2.93,No,0,1,1,1,1,1,1,6,Low,1,3,0,2,2,2,2,2,0,1,15,Low,1,1,2,0,1,3,2,2,3,15,Low
+22,Female,Duke University,Computer Science,3rd Year,3.31,No,2,1,1,0,1,3,2,10,Low,1,2,2,1,4,2,2,3,2,2,15,Low,1,1,2,1,0,1,0,0,0,6,Low
+20,Female,UNC Chapel Hill,Arts,2nd Year,2.02,No,4,3,4,4,3,4,3,25,Medium,4,4,3,1,0,0,2,0,4,4,34,Medium,4,2,4,3,3,2,4,4,4,30,Medium
+18-20,Male,UNC Chapel Hill,Engineering,1st Year,3.2-3.7,No,1,0,0,0,1,0,1,3,Low,0,0,1,1,4,3,3,4,0,1,5,Low,1,0,2,0,1,0,1,1,1,7,Low
+21-23,Male,Duke University,Engineering,4th Year,2.01,No,4,4,4,4,4,3,4,27,Medium,3,3,4,4,1,1,1,0,3,4,34,Medium,4,4,4,4,4,3,4,3,4,34,Medium
+18-20,Male,UNC Chapel Hill,Computer Science,2nd Year,3.55,No,1,1,0,2,1,1,0,6,Low,0,0,1,1,3,3,3,3,1,0,7,Low,0,0,1,0,0,1,1,2,0,5,Low
+19,Female,NC State University,Engineering,3rd Year,2.13,Yes,3,2,4,3,3,4,3,22,Medium,4,4,3,4,0,0,1,1,4,4,37,High,4,2,2,3,2,3,3,1,1,21,Medium
+21-23,Male,NC State University,Biology,1st Year,3.17,Yes,2,2,1,1,0,1,2,9,Low,0,1,1,0,2,3,3,1,2,1,12,Low,3,1,1,0,0,0,1,0,2,8,Low
+21-23,Female,NC State University,Arts,2nd Year,3.50,Yes,0,1,0,0,0,1,0,2,Low,2,0,1,0,3,4,4,4,0,1,5,Low,1,0,1,0,0,0,0,0,0,2,Low
+21,Male,NC State University,Engineering,1st Year,3.04,No,2,1,1,1,1,0,0,6,Low,1,1,2,2,3,3,4,3,0,1,10,Low,2,2,2,0,1,0,2,3,0,12,Low
+21,Female,Duke University,Engineering,3rd Year,3.2-3.7,No,1,0,1,1,0,1,2,6,Low,0,0,0,1,4,4,3,4,0,0,2,Low,1,1,1,1,0,1,2,1,0,8,Low
+20,Male,Wake Forest,Psychology,4th Year,3.48,No,1,0,0,0,0,1,0,2,Low,2,2,0,2,2,4,3,3,1,1,12,Low,0,0,1,0,1,0,2,1,1,6,Low
+19,Male,NC State University,Biology,2nd Year,2.4-2.9,No,1,2,2,2,1,4,2,14,Low,3,2,0,2,0,1,1,3,2,2,22,Medium,1,3,2,2,4,2,3,3,2,22,Medium
+19,Female,NC State University,Business,1st Year,3.50,No,1,1,0,1,0,0,1,4,Low,2,0,1,1,2,4,4,3,1,1,9,Low,1,0,0,0,0,1,0,1,1,4,Low
+21,Female,Duke University,Engineering,1st Year,3.52,No,0,0,0,0,0,0,0,0,Low,1,0,0,0,4,4,4,4,0,0,1,Low,0,2,1,2,0,0,0,1,1,7,Low
+22,Male,Wake Forest,Engineering,2nd Year,3.31,No,0,0,2,2,1,0,0,5,Low,3,1,2,0,4,2,4,4,0,1,9,Low,1,1,3,1,1,1,2,1,0,11,Low
+22,Female,NC State University,Psychology,1st Year,3.16,No,1,1,1,1,0,0,1,5,Low,2,1,2,0,4,4,2,2,0,2,11,Low,3,0,2,0,1,2,0,1,1,10,Low
+22,Male,Duke University,Computer Science,1st Year,2.31,No,2,3,4,4,3,4,1,21,Medium,3,2,4,3,3,1,2,1,4,2,27,Medium,4,2,3,2,4,2,3,2,2,24,Medium
+18-20,Female,NC State University,Business,4th Year,3.43,No,2,1,1,0,2,2,0,8,Low,1,2,0,1,3,2,2,4,1,1,11,Low,2,1,2,1,0,1,0,1,0,8,Low
+20,Female,NC State University,Engineering,2nd Year,2.4-2.9,Yes,3,2,1,2,3,2,2,15,Low,3,3,3,2,0,3,3,0,4,3,28,Medium,2,2,2,1,4,0,2,2,1,16,Low
+18-20,Male,Wake Forest,Psychology,2nd Year,2.48,No,4,4,3,3,4,4,2,24,Medium,2,3,2,1,2,3,1,2,3,2,21,Medium,2,2,2,0,3,3,3,3,3,21,Medium
+20,Male,Wake Forest,Computer Science,4th Year,2.8-3.3,Yes,0,0,2,1,2,2,0,7,Low,1,3,2,2,2,2,1,4,1,2,18,Medium,1,3,1,3,1,1,2,0,2,14,Low
+20,Male,NC State University,Business,1st Year,3.01,No,2,3,1,2,2,1,3,14,Low,1,2,0,1,1,1,2,3,3,2,18,Medium,1,1,1,2,1,0,0,0,1,7,Low
+22,Female,Wake Forest,Engineering,4th Year,2.1-2.6,No,2,3,4,4,2,3,3,21,Medium,1,2,3,3,2,3,1,2,3,4,24,Medium,4,3,2,3,2,3,3,4,4,28,Medium
+20,Female,Duke University,Business,2nd Year,2.77,No,1,3,3,2,1,2,3,15,Low,2,1,0,4,0,2,3,1,2,1,20,Medium,3,3,3,1,3,3,0,2,2,20,Medium
+18-20,Male,UNC Chapel Hill,Computer Science,4th Year,3.32,Yes,0,1,2,1,0,0,1,5,Low,0,2,1,0,1,3,4,3,1,0,9,Low,1,1,0,1,0,0,2,1,1,7,Low
+18-20,Male,Duke University,Business,3rd Year,2.54,No,3,3,2,2,3,3,2,18,Medium,2,3,3,2,2,3,1,1,0,2,21,Medium,4,1,2,2,2,1,2,1,1,16,Low
+22,Female,Duke University,Business,4th Year,2.53,Yes,2,2,2,2,4,2,3,17,Low,3,3,2,2,2,1,0,2,4,2,27,Medium,0,3,4,3,2,3,0,1,1,17,Low
+21,Female,Duke University,Business,4th Year,3.27,No,2,0,0,0,1,2,1,6,Low,1,0,0,2,2,2,3,3,1,1,11,Low,2,0,1,0,1,0,0,0,1,5,Low
+18-20,Female,UNC Chapel Hill,Business,2nd Year,2.54,Yes,3,4,3,2,2,2,1,17,Low,4,3,3,1,2,2,3,2,3,1,22,Medium,1,4,3,4,2,2,2,2,3,23,Medium
+18-20,Male,NC State University,Psychology,4th Year,3.3-3.8,No,2,0,1,0,0,0,2,5,Low,0,0,0,2,4,2,4,4,0,2,6,Low,0,0,1,0,0,2,2,0,0,5,Low
+21,Male,NC State University,Biology,2nd Year,3.1-3.6,No,0,1,0,2,1,0,0,4,Low,2,1,0,1,2,2,4,2,1,2,13,Low,0,4,0,2,0,1,1,2,2,12,Low
+18-20,Male,NC State University,Engineering,2nd Year,3.2-3.7,No,2,2,1,1,1,1,0,8,Low,1,2,1,1,2,3,4,3,0,1,10,Low,1,2,2,1,1,0,1,1,1,10,Low
+22,Female,UNC Chapel Hill,Biology,2nd Year,3.56,Yes,1,0,1,0,0,1,1,4,Low,0,0,3,0,3,4,2,3,1,1,9,Low,1,0,1,0,0,0,2,2,0,6,Low
+21,Male,NC State University,Engineering,3rd Year,2.38,Yes,2,3,3,3,3,2,2,18,Medium,4,1,4,2,2,2,1,1,2,1,24,Medium,4,3,4,3,3,3,3,3,3,29,Medium
+18-20,Female,UNC Chapel Hill,Computer Science,1st Year,3.3-3.8,No,1,0,1,0,0,0,0,2,Low,0,0,1,1,4,4,3,3,1,3,8,Low,0,1,0,1,1,1,1,0,3,8,Low
+18-20,Male,Wake Forest,Computer Science,3rd Year,2.86,No,2,2,2,1,2,2,0,11,Low,1,3,2,1,2,2,3,2,2,1,17,Low,2,3,2,3,2,0,2,3,1,18,Medium
+23-25,Female,NC State University,Engineering,3rd Year,2.5-3.0,No,2,2,3,2,2,1,3,15,Low,1,2,2,2,2,2,3,2,2,2,18,Medium,2,2,2,2,2,2,1,0,3,16,Low
+20,Female,UNC Chapel Hill,Psychology,4th Year,3.6-4.1,Yes,0,0,0,1,0,0,0,1,Low,0,0,0,0,4,4,3,3,0,0,2,Low,0,1,0,0,0,1,1,0,0,3,Low
+20,Female,Duke University,Psychology,4th Year,3.0-3.5,No,0,0,2,1,1,1,1,6,Low,1,1,0,0,2,2,3,4,0,1,8,Low,0,1,0,1,1,3,0,0,2,8,Low
+22,Male,UNC Chapel Hill,Psychology,2nd Year,3.2-3.7,Yes,2,2,2,1,0,0,1,8,Low,1,1,0,3,3,3,4,4,0,0,7,Low,0,0,1,2,2,1,2,3,2,13,Low
+21-23,Male,NC State University,Business,2nd Year,3.80,Yes,0,1,1,0,1,0,0,3,Low,0,0,0,0,3,4,4,4,0,0,1,Low,1,0,0,1,0,0,0,1,0,3,Low
+23-25,Male,UNC Chapel Hill,Engineering,2nd Year,2.65,No,3,2,1,3,3,1,2,15,Low,3,2,1,3,3,1,3,2,3,2,21,Medium,3,3,3,3,1,0,3,1,3,20,Medium
+22,Female,UNC Chapel Hill,Computer Science,1st Year,3.99,No,0,0,0,0,0,0,0,0,Low,0,0,0,1,4,3,4,4,0,0,2,Low,0,0,0,0,2,2,1,0,2,7,Low
+20,Female,Wake Forest,Engineering,1st Year,3.69,Yes,0,0,0,0,0,2,0,2,Low,0,0,0,0,3,4,3,3,1,0,4,Low,0,0,0,1,2,0,0,0,0,3,Low
+18-20,Female,UNC Chapel Hill,Engineering,2nd Year,3.0-3.5,Yes,2,2,1,1,1,0,1,8,Low,1,0,2,3,3,3,3,3,1,1,12,Low,3,2,2,2,1,0,1,2,2,15,Low
+22,Female,Duke University,Computer Science,2nd Year,2.2-2.7,Yes,2,2,3,2,3,3,2,17,Low,0,2,4,0,0,3,1,0,2,1,21,Medium,3,1,2,2,4,2,3,3,2,22,Medium
+21,Female,Duke University,Computer Science,4th Year,2.65,No,2,2,2,2,2,2,2,14,Low,3,2,3,2,1,1,1,2,1,2,24,Medium,2,3,1,1,0,4,2,1,2,16,Low
+20,Male,UNC Chapel Hill,Business,3rd Year,3.61,No,0,1,0,0,1,1,1,4,Low,0,0,0,0,2,4,4,4,0,1,3,Low,1,0,2,0,0,2,2,0,0,7,Low
+21-23,Female,Duke University,Psychology,2nd Year,4.00,Yes,0,0,0,2,1,0,0,3,Low,0,0,0,0,4,4,3,3,0,2,4,Low,0,1,0,0,0,0,0,0,0,1,Low
+18-20,Male,NC State University,Arts,3rd Year,2.1-2.6,Yes,3,4,4,3,4,3,2,23,Medium,4,2,1,3,0,2,2,0,3,3,28,Medium,2,1,4,2,3,4,2,4,4,26,Medium
+20,Male,Wake Forest,Arts,1st Year,2.26,No,3,2,3,2,3,2,4,19,Medium,2,3,2,3,1,3,1,2,3,2,24,Medium,3,4,3,2,2,3,2,3,3,25,Medium
+18-20,Female,UNC Chapel Hill,Business,2nd Year,2.6-3.1,No,2,3,2,2,1,2,2,14,Low,3,3,1,2,2,3,2,2,2,1,19,Medium,1,2,4,4,0,1,1,1,3,17,Low
+20,Male,UNC Chapel Hill,Engineering,3rd Year,3.13,No,2,1,1,2,0,0,1,7,Low,1,0,1,0,2,2,3,2,2,1,12,Low,2,2,1,1,2,3,1,2,3,17,Low
+18-20,Male,NC State University,Business,2nd Year,3.31,Yes,0,1,2,2,1,2,2,10,Low,2,1,0,0,2,2,3,3,1,1,11,Low,1,3,3,1,1,0,1,0,2,12,Low
+18-20,Female,UNC Chapel Hill,Psychology,2nd Year,2.0-2.5,Yes,3,1,1,3,3,2,4,17,Low,3,4,3,4,0,2,1,1,3,4,33,Medium,3,4,3,2,4,4,3,4,2,29,Medium
+18-20,Male,NC State University,Computer Science,4th Year,3.25,No,2,1,1,0,1,1,0,6,Low,0,0,1,2,3,2,4,2,2,1,11,Low,0,1,0,0,0,2,0,4,0,7,Low
+21,Female,UNC Chapel Hill,Engineering,4th Year,2.08,No,4,3,3,4,3,3,3,23,Medium,4,4,3,4,0,1,2,2,4,4,34,Medium,3,4,4,3,2,4,4,3,3,30,Medium
+21,Male,NC State University,Biology,3rd Year,3.24,Yes,0,1,1,0,1,1,0,4,Low,1,0,2,0,4,3,1,3,1,1,10,Low,2,1,1,2,0,3,0,2,2,13,Low
+21,Male,UNC Chapel Hill,Engineering,3rd Year,3.25,No,1,1,2,1,0,1,1,7,Low,0,1,0,2,4,3,3,3,1,2,9,Low,1,1,0,1,1,3,1,0,0,8,Low
+21-23,Male,Wake Forest,Business,3rd Year,3.17,Yes,0,2,0,1,0,1,1,5,Low,1,0,2,1,2,3,2,2,2,1,14,Low,1,0,0,2,2,1,2,1,2,11,Low
+20,Male,NC State University,Business,1st Year,3.98,No,0,0,0,0,0,0,0,0,Low,0,0,0,1,4,4,4,3,0,0,2,Low,0,0,0,0,0,0,0,0,0,0,Low
+19,Female,Wake Forest,Computer Science,2nd Year,2.88,No,3,2,2,2,3,3,1,16,Low,3,4,1,3,2,3,3,1,3,4,25,Medium,3,0,2,1,4,0,2,2,3,17,Low
+22,Male,Duke University,Engineering,1st Year,2.78,Yes,1,1,3,1,2,1,0,9,Low,0,3,3,2,2,3,2,2,3,0,18,Medium,1,2,0,3,2,4,2,4,2,20,Medium
+19,Female,UNC Chapel Hill,Engineering,2nd Year,3.1-3.6,No,0,0,0,1,1,2,1,5,Low,1,2,2,0,3,3,3,2,0,0,10,Low,1,1,2,0,1,0,1,0,2,8,Low
+21-23,Male,UNC Chapel Hill,Computer Science,3rd Year,3.86,No,0,1,0,0,1,1,1,4,Low,0,0,0,1,4,2,4,4,0,0,3,Low,1,0,0,1,0,1,0,0,1,4,Low
+18-20,Female,Duke University,Computer Science,1st Year,3.06,No,0,1,2,1,1,1,1,7,Low,2,0,1,2,2,3,2,2,1,4,17,Low,3,2,0,2,2,1,1,0,3,14,Low
+21-23,Female,UNC Chapel Hill,Biology,4th Year,3.8-4.3,No,0,1,0,0,0,0,0,1,Low,1,0,0,0,4,3,4,3,0,1,4,Low,0,0,0,0,0,1,0,0,1,2,Low
+18-20,Female,UNC Chapel Hill,Engineering,4th Year,3.30,Yes,1,1,0,1,0,1,0,4,Low,1,2,1,0,2,1,3,2,0,2,14,Low,3,3,1,0,2,0,0,2,1,12,Low
+22,Male,Duke University,Business,3rd Year,3.43,No,0,1,0,1,1,0,1,4,Low,0,0,1,0,2,3,4,3,1,0,6,Low,1,1,2,0,1,0,0,0,0,5,Low
+20,Male,NC State University,Engineering,3rd Year,2.11,Yes,3,4,4,4,3,4,3,25,Medium,4,4,4,4,1,1,1,1,4,4,36,High,2,3,4,4,4,3,3,1,2,26,Medium
+23-25,Male,UNC Chapel Hill,Arts,4th Year,3.35,No,1,2,1,1,1,1,0,7,Low,1,1,2,2,3,4,3,4,2,1,11,Low,1,0,1,1,0,0,1,1,0,5,Low
+18-20,Female,UNC Chapel Hill,Engineering,1st Year,2.75,No,2,2,1,1,1,1,1,9,Low,2,4,1,1,3,2,3,2,2,3,19,Medium,2,2,2,0,2,3,2,2,1,16,Low
+21,Male,UNC Chapel Hill,Engineering,4th Year,2.33,No,3,3,1,3,3,2,3,18,Medium,3,2,3,2,2,2,2,2,2,3,23,Medium,3,4,3,3,3,3,4,4,3,30,Medium
+21-23,Male,UNC Chapel Hill,Biology,1st Year,3.38,Yes,0,1,1,1,2,2,1,8,Low,0,0,0,2,3,3,4,4,0,1,5,Low,1,2,0,0,1,1,0,3,0,8,Low
+20,Female,Duke University,Biology,4th Year,3.30,No,1,1,0,1,0,0,0,3,Low,0,1,1,0,2,2,4,4,0,1,7,Low,1,2,0,0,0,1,2,1,1,8,Low
+21,Male,UNC Chapel Hill,Computer Science,2nd Year,2.3-2.8,No,2,3,1,2,2,2,2,14,Low,2,4,1,3,2,2,1,2,2,2,23,Medium,1,3,3,4,0,2,3,2,3,21,Medium
+21,Female,NC State University,Biology,4th Year,3.20,No,1,1,0,1,1,2,1,7,Low,2,0,1,1,2,3,4,3,1,2,11,Low,2,1,1,1,1,1,2,0,1,10,Low
+20,Male,Duke University,Engineering,4th Year,3.3-3.8,Yes,0,1,1,0,1,0,0,3,Low,0,0,0,2,4,4,4,3,0,1,4,Low,0,0,0,0,0,2,1,1,0,4,Low
+21,Male,NC State University,Engineering,1st Year,3.34,Yes,1,2,1,1,0,1,2,8,Low,1,1,0,0,3,3,3,4,2,1,8,Low,0,1,2,0,0,1,0,1,1,6,Low
+21,Female,NC State University,Computer Science,2nd Year,2.34,No,2,3,3,4,1,3,2,18,Medium,3,2,2,4,1,1,2,0,2,4,29,Medium,3,3,3,1,4,1,1,2,2,20,Medium
+21-23,Male,NC State University,Computer Science,4th Year,3.4-3.9,No,0,0,1,0,1,1,0,3,Low,0,0,0,0,4,4,4,4,1,0,1,Low,2,1,0,0,0,0,1,1,0,5,Low
+18-20,Female,NC State University,Psychology,2nd Year,3.40,Yes,0,0,1,1,1,1,0,4,Low,1,2,2,1,4,3,3,4,2,1,11,Low,0,1,0,2,0,1,0,1,2,7,Low
+19,Male,UNC Chapel Hill,Engineering,4th Year,3.61,No,0,0,2,0,0,0,2,4,Low,1,0,0,0,4,4,3,4,1,1,4,Low,1,2,1,0,0,2,0,0,0,6,Low
+21-23,Male,NC State University,Engineering,3rd Year,3.07,No,2,2,0,1,1,1,2,9,Low,2,0,2,0,3,2,4,1,1,2,13,Low,2,3,2,1,0,2,0,0,3,13,Low
+22,Female,Duke University,Psychology,2nd Year,2.80,No,2,2,2,2,3,2,1,14,Low,0,4,3,2,3,2,2,2,2,2,20,Medium,3,1,3,0,4,1,2,1,3,18,Medium
+20,Female,NC State University,Psychology,2nd Year,3.0-3.5,Yes,2,1,0,2,2,0,2,9,Low,2,0,1,1,3,3,4,3,0,1,8,Low,1,0,0,0,2,3,3,0,0,9,Low
+21,Female,NC State University,Computer Science,1st Year,3.7-4.2,Yes,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,1,0,0,0,0,0,0,0,1,Low
+19,Male,NC State University,Business,4th Year,3.19,No,1,1,1,3,1,3,1,11,Low,2,2,2,0,2,2,3,3,1,2,15,Low,0,2,2,1,1,2,2,1,1,12,Low
+19,Female,NC State University,Computer Science,2nd Year,2.10,Yes,4,4,4,3,3,3,3,24,Medium,4,3,3,4,0,0,1,0,3,3,35,High,3,2,4,4,3,2,3,3,4,28,Medium
+20,Male,Duke University,Psychology,3rd Year,2.8-3.3,No,2,1,1,2,1,1,1,9,Low,1,1,1,2,2,2,3,3,0,2,13,Low,3,3,0,3,3,0,0,2,1,15,Low
+20,Male,UNC Chapel Hill,Psychology,2nd Year,3.1-3.6,No,0,0,1,0,2,0,1,4,Low,1,1,0,1,3,2,4,4,0,2,8,Low,0,1,2,1,0,0,2,1,2,9,Low
+21,Female,Duke University,Arts,3rd Year,3.77,No,0,1,1,0,0,1,0,3,Low,0,1,1,1,4,4,4,4,0,0,3,Low,1,0,0,0,1,0,0,0,1,3,Low
+18-20,Male,Duke University,Computer Science,4th Year,2.42,No,3,2,4,3,2,3,4,21,Medium,1,2,2,2,2,0,0,0,4,2,27,Medium,2,4,3,2,2,4,3,3,2,25,Medium
+23-25,Female,NC State University,Computer Science,4th Year,3.77,No,0,0,0,0,1,0,0,1,Low,1,1,0,0,4,3,4,3,0,1,5,Low,0,1,0,2,2,0,0,0,0,5,Low
+23-25,Male,UNC Chapel Hill,Engineering,2nd Year,3.3-3.8,Yes,0,0,0,3,0,0,2,5,Low,0,0,0,2,3,4,4,4,0,1,4,Low,1,1,2,2,1,0,1,0,1,9,Low

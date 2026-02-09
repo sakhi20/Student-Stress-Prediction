@@ -1,0 +1,153 @@
+STUDENT MENTAL HEALTH SURVEY - DATA DESCRIPTION
+================================================
+
+Dataset: student_mental_health_survey.csv
+Total Columns: 39
+Total Rows: 500
+Data Type: Survey responses from university students
+
+COLUMN DESCRIPTIONS
+===================
+
+DEMOGRAPHICS (Columns 1-7)
+--------------------------
+1. Age
+   - Type: Numeric (some as ranges like "18-20")
+   - Range: 18-25 years
+   - Description: Student's age
+
+2. Gender
+   - Type: Categorical
+   - Values: Male, Female
+   - Description: Student's gender identity
+
+3. University
+   - Type: Categorical
+   - Values: NC State University, Duke University, UNC Chapel Hill, Wake Forest
+   - Description: University the student attends
+
+4. Department
+   - Type: Categorical
+   - Values: Computer Science, Engineering, Business, Psychology, Biology, Arts
+   - Description: Academic department/major
+
+5. Academic Year
+   - Type: Categorical
+   - Values: 1st Year, 2nd Year, 3rd Year, 4th Year
+   - Description: Current year of study
+
+6. Current CGPA
+   - Type: Numeric (some as ranges like "3.0-3.5")
+   - Range: 2.0-4.0
+   - Description: Cumulative Grade Point Average
+
+7. Did you receive a waiver or scholarship at your university?
+   - Type: Categorical
+   - Values: Yes, No
+   - Description: Scholarship/financial aid status
+
+ANXIETY QUESTIONS (Columns 8-16)
+---------------------------------
+Rating Scale: 0 = Never, 1 = Rarely, 2 = Sometimes, 3 = Often, 4 = Very Often
+
+8. In a semester, how often you felt nervous, anxious or on edge due to academic pressure?
+9. In a semester, how often have you been unable to stop worrying about your academic affairs?
+10. In a semester, how often have you had trouble relaxing due to academic pressure?
+11. In a semester, how often have you been easily annoyed or irritated because of academic pressure?
+12. In a semester, how often have you worried too much about academic affairs?
+13. In a semester, how often have you been so restless due to academic pressure that it is hard to sit still?
+14. In a semester, how often have you felt afraid, as if something awful might happen?
+
+15. Anxiety Value
+    - Type: Numeric
+    - Range: 0-28 (sum of 7 anxiety questions)
+    - Description: Computed anxiety score
+
+16. Anxiety Label
+    - Type: Categorical
+    - Values: Low (0-17), Medium (18-34), High (35+)
+    - Description: Anxiety severity classification
+
+STRESS QUESTIONS (Columns 17-28)
+---------------------------------
+Rating Scale: 0 = Never, 1 = Rarely, 2 = Sometimes, 3 = Often, 4 = Very Often
+
+17. In a semester, how often have you felt upset due to something that happened in your academic affairs?
+18. In a semester, how often you felt as if you were unable to control important things in your academic affairs?
+19. In a semester, how often you felt nervous and stressed because of academic pressure?
+20. In a semester, how often you felt as if you could not cope with all the mandatory academic activities?
+21. In a semester, how often you felt confident about your ability to handle your academic problems? (REVERSE)
+22. In a semester, how often you felt as if things in your academic life are going your way? (REVERSE)
+23. In a semester, how often are you able to control irritations in your academic affairs? (REVERSE)
+24. In a semester, how often you felt as if your academic performance was on top? (REVERSE)
+25. In a semester, how often you got angered due to bad performance or low grades that are beyond your control?
+26. In a semester, how often you felt as if academic difficulties are piling up so high that you could not overcome them?
+
+27. Stress Value
+    - Type: Numeric
+    - Range: 0-40 (sum of 10 stress questions)
+    - Description: Computed stress score
+
+28. Stress Label
+    - Type: Categorical
+    - Values: Low (0-17), Medium (18-34), High (35+)
+    - Description: Stress severity classification
+
+DEPRESSION QUESTIONS (Columns 29-39)
+-------------------------------------
+Rating Scale: 0 = Never, 1 = Rarely, 2 = Sometimes, 3 = Often, 4 = Very Often
+
+29. In a semester, how often have you had little interest or pleasure in doing things?
+30. In a semester, how often have you been feeling down, depressed or hopeless?
+31. In a semester, how often have you had trouble falling or staying asleep, or sleeping too much?
+32. In a semester, how often have you been feeling tired or having little energy?
+33. In a semester, how often have you had poor appetite or overeating?
+34. In a semester, how often have you been feeling bad about yourself - or that you are a failure or have let yourself or your family down?
+35. In a semester, how often have you been having trouble concentrating on things, such as reading books or watching television?
+36. In a semester, how often have you moved or spoke too slowly for other people to notice?
+37. In a semester, how often have you had thoughts that you would be better off dead, or of hurting yourself?
+
+38. Depression Value
+    - Type: Numeric
+    - Range: 0-36 (sum of 9 depression questions)
+    - Description: Computed depression score
+
+39. Depression Label
+    - Type: Categorical
+    - Values: Low (0-17), Medium (18-34), High (35+)
+    - Description: Depression severity classification
+
+DATA CHARACTERISTICS
+====================
+
+Sample Size: 500 students
+Data Collection: Survey questionnaire
+Time Frame: One academic semester
+Data Quality: Synthetic data generated for research purposes
+
+Key Relationships:
+- CGPA negatively correlated with mental health scores (lower CGPA → higher stress/anxiety/depression)
+- Mental health scores are interconnected (high anxiety often accompanies high stress)
+- Demographic factors influence mental health patterns
+
+Missing Values: Minimal (<5% in any column)
+Outliers: Handled during preprocessing
+
+USAGE NOTES
+===========
+
+1. Age and CGPA may contain ranges (e.g., "18-20", "3.0-3.5") - convert to averages
+2. Categorical variables need encoding for ML models
+3. Mental health labels are derived from computed values
+4. Reverse-scored questions (21-24) indicate positive coping
+5. This is synthetic data for educational/research purposes
+
+ETHICAL CONSIDERATIONS
+======================
+
+- Data privacy: No personally identifiable information
+- Informed consent: Required for real survey data
+- Mental health sensitivity: Results are not clinical diagnoses
+- Intervention: High-risk students should be referred to professionals
+
+For questions about this dataset, contact: sakhipatel20@gmail.com

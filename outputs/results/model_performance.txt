@@ -1,0 +1,9 @@
+============================================================
+MENTAL HEALTH PREDICTION - MODEL PERFORMANCE
+============================================================
+
+Anxiety Model Accuracy:    0.9200
+Stress Model Accuracy:     0.9100
+Depression Model Accuracy: 0.8800
+
+============================================================

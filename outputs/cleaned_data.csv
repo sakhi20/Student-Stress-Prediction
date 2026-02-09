@@ -1,0 +1,501 @@
+Age,Gender,University,Department,Academic Year,Current CGPA,Did you receive a waiver or scholarship at your university?,"In a semester, how often you felt nervous, anxious or on edge due to academic pressure?","In a semester, how often have you been unable to stop worrying about your academic affairs?","In a semester, how often have you had trouble relaxing due to academic pressure?","In a semester, how often have you been easily annoyed or irritated because of academic pressure?","In a semester, how often have you worried too much about academic affairs?","In a semester, how often have you been so restless due to academic pressure that it is hard to sit still?","In a semester, how often have you felt afraid, as if something awful might happen?",Anxiety Value,Anxiety Label,"In a semester, how often have you felt upset due to something that happened in your academic affairs?","In a semester, how often you felt as if you were unable to control important things in your academic affairs?","In a semester, how often you felt nervous and stressed because of academic pressure?","In a semester, how often you felt as if you could not cope with all the mandatory academic activities?","In a semester, how often you felt confident about your ability to handle your academic problems?","In a semester, how often you felt as if things in your academic life are going your way?","In a semester, how often are you able to control irritations in your academic affairs?","In a semester, how often you felt as if your academic performance was on top?","In a semester, how often you got angered due to bad performance or low grades that are beyond your control?","In a semester, how often you felt as if academic difficulties are piling up so high that you could not overcome them?",Stress Value,Stress Label,"In a semester, how often have you had little interest or pleasure in doing things?","In a semester, how often have you been feeling down, depressed or hopeless?","In a semester, how often have you had trouble falling or staying asleep, or sleeping too much?","In a semester, how often have you been feeling tired or having little energy?","In a semester, how often have you had poor appetite or overeating?","In a semester, how often have you been feeling bad about yourself - or that you are a failure or have let yourself or your family down?","In a semester, how often have you been having trouble concentrating on things, such as reading books or watching television?","In a semester, how often have you moved or spoke too slowly for other people to notice?","In a semester, how often have you had thoughts that you would be better off dead, or of hurting yourself?",Depression Value,Depression Label,Scholarship
+20.0,1,NC State University,Business,2,3.53,Yes,2,1,0,1,0,2,1,7,Low,0,0,1,1,3,2,2,3,1,1,10,Low,1,0,1,0,1,2,1,0,0,6,Low,1
+22.0,1,Duke University,Engineering,1,3.91,No,0,1,0,0,0,0,0,1,Low,0,0,0,0,4,3,4,3,0,1,3,Low,0,0,0,1,0,0,0,0,0,1,Low,0
+21.0,0,UNC Chapel Hill,Computer Science,4,2.45,No,2,2,3,4,3,3,3,20,Medium,3,3,4,2,0,2,1,3,4,4,30,Medium,2,2,2,3,4,4,3,2,3,25,Medium,0
+21.0,1,UNC Chapel Hill,Engineering,1,2.88,Yes,2,1,2,2,0,1,2,10,Low,1,2,2,3,4,2,2,2,2,1,17,Low,1,2,2,1,2,1,3,1,1,14,Low,1
+19.0,1,UNC Chapel Hill,Engineering,2,3.79,No,0,0,0,0,0,0,0,0,Low,1,0,0,1,3,3,4,4,1,0,5,Low,1,0,0,0,1,0,0,0,0,2,Low,0
+19.0,0,UNC Chapel Hill,Engineering,4,3.8499999999999996,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,3,3,4,4,0,2,4,Low,0,0,0,0,0,1,0,2,0,3,Low,0
+19.0,1,UNC Chapel Hill,Business,2,3.02,No,1,2,1,2,2,1,3,12,Low,1,1,2,0,3,2,3,4,2,4,14,Low,2,3,1,1,2,0,2,2,2,15,Low,0
+22.0,1,UNC Chapel Hill,Business,4,3.85,No,0,0,0,0,1,0,0,1,Low,0,0,0,2,3,4,3,4,0,0,4,Low,0,0,0,0,0,0,1,0,1,2,Low,0
+21.0,1,NC State University,Business,1,3.15,No,1,2,1,1,1,2,2,10,Low,0,3,0,3,4,4,3,1,2,0,12,Low,2,1,1,2,3,2,1,0,2,14,Low,0
+21.0,1,Duke University,Psychology,2,3.45,Yes,1,1,0,2,0,1,0,5,Low,0,0,0,1,4,4,4,3,1,1,4,Low,0,1,0,0,2,1,3,0,0,7,Low,1
+19.0,1,NC State University,Biology,1,2.27,No,3,3,4,2,2,2,3,19,Medium,3,4,3,2,1,1,2,2,3,3,28,Medium,3,3,3,2,3,3,3,4,4,28,Medium,0
+22.0,0,Wake Forest,Psychology,1,2.85,Yes,1,2,1,2,1,3,2,12,Low,2,2,2,2,1,2,2,3,1,2,19,Medium,0,2,0,4,3,4,1,0,3,17,Low,1
+22.0,1,Wake Forest,Arts,4,2.56,No,2,3,1,3,3,4,2,18,Medium,3,2,3,2,1,3,1,0,3,3,27,Medium,1,4,2,1,4,1,3,2,2,20,Medium,0
+19.0,1,NC State University,Computer Science,1,3.95,No,0,0,0,0,0,0,0,0,Low,0,0,0,1,3,4,4,4,0,0,2,Low,0,0,0,1,0,1,0,1,0,3,Low,0
+19.0,0,UNC Chapel Hill,Computer Science,3,4.05,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,0,0,0,2,1,0,0,0,3,Low,0
+19.0,0,Wake Forest,Computer Science,2,3.66,No,1,1,0,0,0,2,0,4,Low,0,1,0,0,3,4,4,3,0,0,3,Low,2,0,0,1,0,2,0,0,0,5,Low,0
+19.0,0,NC State University,Business,2,2.25,Yes,2,3,3,4,3,2,3,20,Medium,4,4,2,3,1,0,0,2,2,4,32,Medium,1,1,1,4,3,1,3,4,2,20,Medium,1
+20.0,1,Duke University,Biology,4,3.67,No,0,0,1,0,2,0,0,3,Low,1,0,0,1,3,4,3,4,0,1,5,Low,0,0,1,1,1,0,2,1,0,6,Low,0
+20.0,1,Wake Forest,Computer Science,1,2.29,Yes,2,3,3,3,2,3,3,19,Medium,3,4,3,4,1,0,2,1,4,3,33,Medium,3,1,4,3,3,4,3,3,3,27,Medium,1
+19.0,0,NC State University,Arts,3,3.54,Yes,0,0,1,1,0,1,0,3,Low,0,0,0,2,3,4,2,3,1,1,8,Low,0,0,1,2,1,0,0,1,0,5,Low,1
+21.0,1,UNC Chapel Hill,Computer Science,4,3.53,Yes,1,1,2,1,0,1,2,8,Low,0,0,0,1,3,4,3,2,0,0,5,Low,0,0,1,0,2,0,2,0,0,5,Low,1
+19.0,0,NC State University,Arts,3,3.23,No,1,1,1,1,1,1,2,8,Low,1,0,0,1,4,3,3,2,2,1,9,Low,0,1,1,1,1,1,0,2,1,8,Low,0
+19.0,1,Wake Forest,Engineering,4,3.15,Yes,2,0,1,1,1,0,2,7,Low,1,1,2,0,4,3,3,4,0,0,6,Low,0,1,2,1,0,1,1,1,0,7,Low,1
+20.0,1,Wake Forest,Computer Science,1,2.95,Yes,2,1,1,1,1,1,1,8,Low,2,1,1,2,2,3,4,2,2,1,14,Low,1,2,2,0,2,3,2,0,2,14,Low,1
+20.0,1,Wake Forest,Engineering,2,2.13,Yes,2,3,3,4,3,2,2,19,Medium,4,4,3,3,2,1,0,0,3,4,34,Medium,4,3,4,3,3,3,4,3,4,31,Medium,1
+22.0,0,Duke University,Engineering,2,2.22,Yes,3,4,3,3,3,3,4,23,Medium,3,2,4,3,0,1,2,0,4,3,32,Medium,3,2,1,3,4,2,4,2,4,25,Medium,1
+19.0,0,UNC Chapel Hill,Engineering,3,3.9,No,0,0,0,0,1,0,0,1,Low,0,0,1,0,4,4,4,4,0,0,1,Low,1,0,0,0,0,0,0,0,1,2,Low,0
+20.0,0,UNC Chapel Hill,Engineering,4,3.95,No,1,0,0,0,0,0,0,1,Low,0,0,0,0,4,4,4,2,0,0,2,Low,0,2,1,2,1,0,0,0,0,6,Low,0
+21.0,0,NC State University,Biology,2,2.6,No,1,4,4,2,2,3,3,19,Medium,2,0,2,3,3,3,3,3,1,3,15,Low,3,3,0,1,3,3,2,3,2,20,Medium,0
+19.0,1,UNC Chapel Hill,Business,3,3.15,No,2,1,1,0,1,1,2,8,Low,0,3,2,2,2,2,4,4,1,2,14,Low,0,1,1,2,2,1,1,2,1,11,Low,0
+21.0,1,NC State University,Engineering,1,3.41,Yes,1,2,0,0,0,0,1,4,Low,0,0,0,1,1,3,3,3,2,1,10,Low,0,0,2,2,0,0,2,1,1,8,Low,1
+19.0,1,Duke University,Business,3,2.35,No,4,3,3,2,4,3,4,23,Medium,2,1,3,4,1,0,1,0,2,1,27,Medium,4,2,3,3,4,2,2,3,2,25,Medium,0
+19.0,1,NC State University,Psychology,2,2.59,No,2,3,3,2,2,2,3,17,Low,3,2,3,3,1,3,1,2,2,2,24,Medium,2,3,2,1,4,4,3,1,3,23,Medium,0
+22.0,1,NC State University,Engineering,4,2.75,Yes,3,3,2,2,2,1,1,14,Low,1,2,1,2,2,4,2,2,3,2,17,Low,4,3,2,1,1,2,2,0,1,16,Low,1
+22.0,1,NC State University,Engineering,3,3.86,Yes,2,1,1,1,0,0,0,5,Low,0,0,1,0,4,4,2,3,1,0,5,Low,1,0,0,0,2,0,0,0,0,3,Low,1
+22.0,1,UNC Chapel Hill,Computer Science,2,3.81,Yes,0,1,0,0,0,0,1,2,Low,0,1,0,0,4,4,4,4,0,0,1,Low,0,1,0,0,0,1,1,1,0,4,Low,1
+19.0,1,NC State University,Computer Science,1,2.95,Yes,0,2,0,1,0,3,0,6,Low,2,2,2,2,2,3,3,3,2,1,16,Low,1,2,1,1,1,0,2,1,1,10,Low,1
+19.0,0,UNC Chapel Hill,Psychology,1,3.45,No,0,0,0,0,0,1,0,1,Low,0,1,2,1,3,4,4,3,0,1,7,Low,0,1,2,0,1,0,0,0,0,4,Low,0
+21.0,0,NC State University,Computer Science,1,3.21,No,2,1,2,1,2,1,0,9,Low,2,1,2,2,1,2,3,3,2,0,16,Low,0,0,3,2,2,1,1,2,1,12,Low,0
+20.0,0,NC State University,Business,2,3.3,Yes,0,1,0,2,1,0,1,5,Low,2,1,0,3,4,2,3,2,3,2,16,Low,0,1,1,2,2,0,0,1,0,7,Low,1
+19.0,1,Duke University,Psychology,4,3.8499999999999996,Yes,0,1,0,0,0,0,0,1,Low,0,1,0,2,4,4,3,3,0,0,5,Low,0,0,0,1,0,0,1,1,1,4,Low,1
+20.0,1,UNC Chapel Hill,Computer Science,3,2.9,No,2,2,2,1,2,2,1,12,Low,1,0,2,2,3,3,4,2,0,2,11,Low,0,2,1,2,2,2,0,3,1,13,Low,0
+19.0,0,NC State University,Business,3,3.25,Yes,1,2,1,0,1,1,1,7,Low,2,1,2,0,2,2,3,3,0,2,13,Low,2,1,1,1,0,0,1,2,1,9,Low,1
+22.0,1,Duke University,Engineering,1,3.45,No,1,2,0,0,0,0,0,3,Low,0,1,0,2,4,4,3,3,1,0,6,Low,1,2,1,2,0,1,1,1,1,10,Low,0
+19.0,1,UNC Chapel Hill,Arts,4,3.55,No,1,0,0,1,1,0,2,5,Low,0,1,0,0,4,4,3,3,0,0,3,Low,0,0,0,0,0,0,0,0,0,0,Low,0
+21.0,0,Duke University,Engineering,3,3.61,Yes,1,0,0,1,1,0,2,5,Low,0,0,1,0,3,4,4,4,1,0,3,Low,2,1,0,0,0,0,1,1,0,5,Low,1
+19.0,0,NC State University,Biology,1,3.04,Yes,1,1,2,2,3,1,0,10,Low,1,0,1,1,1,4,2,3,2,3,14,Low,2,3,2,2,2,3,0,2,1,17,Low,1
+20.0,1,NC State University,Business,3,3.65,No,0,0,0,0,1,0,1,2,Low,0,0,0,0,3,4,4,3,0,0,2,Low,1,1,1,0,1,0,2,1,2,9,Low,0
+20.0,1,UNC Chapel Hill,Computer Science,3,3.15,No,1,1,2,2,2,2,1,11,Low,1,1,3,2,3,2,1,1,1,2,19,Medium,0,2,1,4,0,0,2,2,0,11,Low,0
+19.0,1,NC State University,Business,1,2.45,No,3,4,0,2,2,3,3,17,Low,3,4,3,1,1,3,1,3,2,2,23,Medium,3,3,1,3,3,2,4,3,2,24,Medium,0
+22.0,1,UNC Chapel Hill,Arts,2,2.11,No,4,4,3,4,2,3,3,23,Medium,4,2,3,2,0,0,2,1,3,4,31,Medium,4,4,4,3,2,2,4,4,2,29,Medium,0
+22.0,1,Duke University,Business,2,2.64,Yes,3,2,1,2,2,4,2,16,Low,2,3,1,3,3,1,3,2,2,4,22,Medium,2,1,3,3,3,3,2,2,1,20,Medium,1
+22.0,1,Wake Forest,Biology,1,3.15,No,2,0,1,1,1,1,2,8,Low,2,3,1,2,3,4,4,3,2,2,14,Low,3,0,1,2,1,1,0,2,3,13,Low,0
+22.0,1,UNC Chapel Hill,Biology,4,2.75,No,1,1,2,2,1,1,2,10,Low,3,2,1,3,2,3,1,2,4,2,23,Medium,2,2,3,2,1,4,1,2,3,20,Medium,0
+21.0,1,Wake Forest,Computer Science,4,2.13,Yes,4,3,4,4,3,4,3,25,Medium,4,2,3,3,2,0,2,0,2,4,30,Medium,4,1,3,3,4,4,4,4,3,30,Medium,1
+22.0,0,NC State University,Computer Science,3,2.01,No,4,2,2,4,4,4,2,22,Medium,4,3,4,3,1,0,1,1,2,4,33,Medium,4,4,4,2,3,3,4,4,3,31,Medium,0
+19.0,0,UNC Chapel Hill,Business,2,3.55,Yes,1,1,0,0,1,1,0,4,Low,0,0,2,0,3,4,3,4,0,1,5,Low,1,2,1,0,0,1,0,1,1,7,Low,1
+19.0,0,Duke University,Engineering,2,2.2,No,4,3,4,3,4,3,2,23,Medium,4,4,4,3,0,0,1,2,2,4,34,Medium,1,3,3,4,1,3,0,4,2,21,Medium,0
+19.0,1,Duke University,Biology,3,2.54,Yes,1,4,4,4,3,3,2,21,Medium,3,2,2,4,1,0,1,1,2,3,29,Medium,3,2,2,3,3,2,2,2,3,22,Medium,1
+19.0,1,Duke University,Biology,3,2.63,No,2,4,2,3,2,2,1,16,Low,2,4,3,0,2,2,3,4,3,2,19,Medium,2,2,1,3,3,2,2,2,1,18,Medium,0
+20.0,1,UNC Chapel Hill,Engineering,1,3.78,No,0,0,0,1,0,0,0,1,Low,2,0,0,0,4,4,4,3,1,1,5,Low,0,0,2,0,0,1,0,0,0,3,Low,0
+19.0,0,Wake Forest,Computer Science,3,3.82,No,0,0,0,0,0,0,1,1,Low,1,0,0,0,4,4,4,4,0,0,1,Low,2,0,0,0,0,1,0,1,1,5,Low,0
+22.0,0,UNC Chapel Hill,Psychology,4,3.93,Yes,0,0,0,0,1,0,1,2,Low,0,1,0,0,4,4,4,3,0,0,2,Low,0,0,0,1,1,0,1,0,1,4,Low,1
+20.0,0,Duke University,Engineering,2,3.45,No,1,2,1,1,1,2,1,9,Low,2,0,2,1,3,4,3,4,0,0,7,Low,0,0,0,2,0,2,2,2,1,9,Low,0
+19.0,0,Duke University,Biology,1,2.78,No,3,1,2,2,2,1,2,13,Low,2,2,2,2,2,1,2,4,2,2,19,Medium,2,3,1,3,1,3,2,1,1,17,Low,0
+20.0,1,UNC Chapel Hill,Engineering,4,3.41,No,1,0,2,0,0,0,2,5,Low,0,3,1,1,3,4,3,3,1,0,9,Low,0,1,1,1,3,1,0,0,0,7,Low,0
+19.0,0,NC State University,Psychology,1,2.55,No,3,2,1,2,4,2,3,17,Low,2,2,4,3,2,3,2,0,3,3,26,Medium,4,2,3,3,2,1,2,3,3,23,Medium,0
+22.0,0,NC State University,Computer Science,2,3.33,No,0,1,1,0,0,0,1,3,Low,2,0,0,0,3,3,3,2,0,0,7,Low,0,2,2,4,2,3,3,1,0,17,Low,0
+19.0,1,NC State University,Business,1,3.52,No,0,1,2,1,0,0,0,4,Low,0,0,0,0,1,4,4,4,0,3,6,Low,1,0,1,1,1,2,1,1,2,10,Low,0
+24.0,0,NC State University,Engineering,2,3.41,No,2,2,1,0,1,0,1,7,Low,0,1,0,3,3,4,4,3,0,2,8,Low,2,1,0,0,1,0,1,1,0,6,Low,0
+22.0,1,NC State University,Business,4,2.45,No,3,2,3,4,3,3,3,21,Medium,2,3,3,2,1,3,2,2,1,2,21,Medium,2,4,3,2,3,2,3,2,2,23,Medium,0
+19.0,1,NC State University,Computer Science,3,3.29,No,1,0,1,1,2,1,0,6,Low,3,2,1,2,3,3,3,4,0,1,12,Low,1,0,1,2,1,2,1,1,0,9,Low,0
+19.0,0,NC State University,Psychology,1,2.85,No,1,2,1,1,3,2,2,12,Low,3,1,3,2,3,2,3,1,0,2,18,Medium,1,2,0,0,2,2,0,2,0,9,Low,0
+22.0,1,NC State University,Biology,4,3.0,No,0,1,3,1,2,2,1,10,Low,1,3,2,0,3,2,1,4,2,1,15,Low,4,2,2,2,1,1,1,1,0,14,Low,0
+21.0,1,Wake Forest,Computer Science,4,2.92,No,1,0,1,1,1,2,2,8,Low,2,2,1,0,2,2,1,3,1,2,16,Low,3,1,0,2,3,0,2,1,2,14,Low,0
+21.0,1,Duke University,Computer Science,4,2.95,No,3,2,2,2,1,1,0,11,Low,1,2,2,1,4,3,4,3,1,1,10,Low,1,2,4,3,0,2,3,1,2,18,Medium,0
+22.0,0,NC State University,Computer Science,1,2.1,Yes,2,4,2,4,4,3,3,22,Medium,4,3,3,4,2,0,0,2,2,3,31,Medium,3,3,3,4,4,4,3,4,4,32,Medium,1
+19.0,1,UNC Chapel Hill,Business,2,2.83,No,2,2,1,3,3,2,3,16,Low,2,3,0,3,3,3,2,2,0,2,16,Low,2,1,2,3,3,3,0,2,3,19,Medium,0
+20.0,0,NC State University,Business,4,3.7,No,1,0,1,0,0,1,0,3,Low,1,0,3,1,4,3,4,3,1,0,8,Low,0,2,0,0,1,0,1,2,1,7,Low,0
+19.0,0,Wake Forest,Business,4,3.45,No,0,0,0,1,2,2,1,6,Low,1,1,1,0,4,4,4,4,0,1,4,Low,3,0,0,2,2,0,0,1,1,9,Low,0
+22.0,0,UNC Chapel Hill,Computer Science,1,3.76,No,0,0,1,0,0,0,0,1,Low,3,0,0,1,3,4,3,4,0,0,6,Low,0,1,2,1,0,1,0,0,0,5,Low,0
+21.0,1,NC State University,Engineering,1,3.45,No,1,0,1,1,1,1,1,6,Low,0,0,1,0,4,4,3,3,0,1,4,Low,1,0,2,1,0,1,0,3,0,8,Low,0
+19.0,0,Duke University,Business,2,2.59,No,2,2,1,3,2,3,2,15,Low,1,3,3,3,2,1,2,0,3,2,26,Medium,2,1,1,1,2,2,3,3,1,16,Low,0
+19.0,0,UNC Chapel Hill,Engineering,4,3.45,No,3,1,1,1,0,0,0,6,Low,0,0,0,1,2,3,4,4,1,2,7,Low,0,1,2,0,0,0,2,2,1,8,Low,0
+19.0,1,Wake Forest,Arts,3,2.63,No,1,2,2,2,3,2,3,15,Low,1,1,2,2,2,2,3,2,1,2,16,Low,2,3,3,1,2,0,3,3,3,20,Medium,0
+19.0,0,Duke University,Computer Science,2,2.79,No,3,2,2,2,2,1,3,15,Low,1,1,2,3,1,3,2,2,2,2,19,Medium,2,3,2,0,1,2,3,3,2,18,Medium,0
+21.0,0,Duke University,Psychology,1,2.4,No,3,2,3,4,3,1,2,18,Medium,2,3,3,2,0,2,1,0,4,4,31,Medium,4,4,3,3,2,3,3,3,2,27,Medium,0
+21.0,0,NC State University,Engineering,3,2.57,No,3,2,1,2,2,3,3,16,Low,2,2,2,1,2,2,1,2,2,2,20,Medium,3,4,2,2,2,3,2,1,3,22,Medium,0
+22.0,0,Wake Forest,Engineering,4,2.12,Yes,4,2,3,3,3,3,4,22,Medium,2,3,4,3,1,0,1,2,3,3,30,Medium,4,4,4,4,1,4,4,4,4,33,Medium,1
+20.0,0,NC State University,Psychology,2,3.15,Yes,1,1,3,0,0,1,2,8,Low,2,1,1,1,3,4,4,2,0,1,9,Low,0,1,0,1,2,1,0,0,2,7,Low,1
+19.0,0,Wake Forest,Psychology,4,3.75,No,0,1,0,0,1,0,0,2,Low,0,0,1,3,4,3,4,3,0,1,7,Low,0,0,0,1,2,0,0,0,1,4,Low,0
+21.0,1,Duke University,Arts,4,2.95,Yes,0,0,2,2,2,1,2,9,Low,1,0,3,2,3,4,1,2,1,1,14,Low,0,1,1,0,2,2,1,1,1,9,Low,1
+22.0,0,Duke University,Computer Science,1,2.04,No,4,3,4,4,3,3,3,24,Medium,4,4,3,3,0,1,1,1,4,4,35,High,4,4,2,3,3,4,4,4,4,32,Medium,0
+21.0,0,Duke University,Computer Science,3,2.95,No,2,2,2,1,1,1,1,10,Low,1,1,2,1,2,1,2,2,3,2,19,Medium,3,0,4,2,2,2,1,2,2,18,Medium,0
+22.0,1,NC State University,Psychology,2,2.81,No,2,3,2,2,2,3,4,18,Medium,2,3,3,0,2,3,3,2,0,1,15,Low,1,4,1,1,1,1,2,2,2,15,Low,0
+20.0,0,NC State University,Business,4,3.19,No,2,1,0,1,0,0,1,5,Low,1,2,0,0,3,4,3,4,0,2,7,Low,1,2,1,1,1,2,0,1,1,10,Low,0
+20.0,1,NC State University,Engineering,3,3.05,Yes,2,1,2,1,1,1,1,9,Low,0,2,1,2,3,2,3,3,1,1,12,Low,1,0,0,1,1,3,2,1,1,10,Low,1
+20.0,0,NC State University,Computer Science,3,3.04,No,2,0,2,2,1,1,0,8,Low,0,3,2,3,1,3,2,4,1,2,17,Low,3,1,1,1,1,1,2,1,1,12,Low,0
+19.0,0,UNC Chapel Hill,Computer Science,4,2.62,No,2,2,2,1,2,3,3,15,Low,3,2,1,3,2,2,1,1,2,0,21,Medium,2,3,3,4,4,3,3,3,2,27,Medium,0
+19.0,0,NC State University,Biology,2,3.55,No,0,2,2,1,0,0,0,5,Low,1,1,2,1,3,4,4,4,0,0,6,Low,2,2,0,1,0,2,0,1,1,9,Low,0
+19.0,0,NC State University,Computer Science,4,3.95,Yes,1,0,0,0,0,0,0,1,Low,1,0,0,0,4,2,4,4,0,0,3,Low,0,0,0,0,0,1,0,0,0,1,Low,1
+21.0,0,Wake Forest,Engineering,3,2.25,No,4,3,2,4,4,4,3,24,Medium,3,4,2,3,0,1,1,1,2,2,29,Medium,3,4,3,4,3,3,3,1,4,28,Medium,0
+19.0,0,UNC Chapel Hill,Computer Science,1,3.61,Yes,0,1,1,0,1,0,1,4,Low,1,2,1,0,3,4,4,4,1,0,6,Low,0,0,1,1,2,0,0,0,1,5,Low,1
+20.0,0,Wake Forest,Engineering,3,2.75,Yes,2,2,2,3,1,2,3,15,Low,2,2,3,4,3,1,3,1,2,1,22,Medium,3,2,3,2,2,2,2,3,2,21,Medium,1
+22.0,0,Wake Forest,Computer Science,4,2.75,Yes,1,1,3,3,2,1,2,13,Low,2,2,1,2,3,1,2,1,2,2,20,Medium,0,3,1,2,2,2,0,3,3,16,Low,1
+19.0,0,NC State University,Business,2,3.04,Yes,2,2,1,2,2,0,2,11,Low,3,3,2,1,2,3,2,3,3,0,18,Medium,2,1,1,2,1,2,1,0,1,11,Low,1
+20.0,0,NC State University,Computer Science,4,2.74,No,3,2,2,1,3,2,2,15,Low,0,2,3,0,2,3,2,1,3,2,18,Medium,2,1,2,3,2,2,4,2,4,22,Medium,0
+22.0,0,UNC Chapel Hill,Biology,4,2.75,Yes,4,2,2,2,1,2,2,15,Low,2,1,2,2,2,1,2,2,3,3,22,Medium,3,2,3,3,1,2,2,4,2,22,Medium,1
+19.0,1,UNC Chapel Hill,Computer Science,2,3.95,No,0,0,0,0,0,0,0,0,Low,2,0,2,0,3,4,4,4,0,0,5,Low,0,0,0,0,0,0,0,0,0,0,Low,0
+19.0,1,NC State University,Business,4,2.05,No,3,4,2,3,3,3,4,22,Medium,4,3,2,2,0,2,1,1,4,4,31,Medium,2,4,4,4,2,4,4,4,3,31,Medium,0
+19.0,0,UNC Chapel Hill,Biology,1,3.57,No,1,1,0,1,0,1,1,5,Low,2,1,1,0,4,2,3,4,1,1,9,Low,0,0,0,0,0,1,0,1,0,2,Low,0
+19.0,1,NC State University,Psychology,1,2.92,Yes,2,1,2,2,2,0,2,11,Low,1,1,3,2,2,3,4,2,3,3,18,Medium,1,1,2,2,2,1,1,1,1,12,Low,1
+22.0,1,NC State University,Business,1,2.61,No,2,3,2,2,3,4,2,18,Medium,2,1,3,1,2,0,4,2,3,4,22,Medium,0,0,4,2,3,2,2,2,1,16,Low,0
+22.0,0,Duke University,Engineering,4,2.65,No,2,2,2,1,4,2,3,16,Low,2,2,2,3,0,1,2,2,4,2,26,Medium,3,2,3,2,0,3,3,2,2,20,Medium,0
+21.0,1,Duke University,Engineering,3,3.15,No,2,1,0,2,0,2,1,8,Low,0,2,1,1,4,4,4,1,2,1,10,Low,2,1,2,3,1,0,2,1,0,12,Low,0
+22.0,1,Duke University,Psychology,1,2.95,Yes,2,1,1,2,2,1,1,10,Low,1,1,2,1,2,1,3,2,3,2,18,Medium,2,0,2,2,2,0,1,3,2,14,Low,1
+22.0,0,NC State University,Arts,2,3.95,No,0,0,0,0,0,0,0,0,Low,0,1,0,0,3,4,4,4,1,0,3,Low,1,0,0,0,0,1,1,0,1,4,Low,0
+19.0,0,UNC Chapel Hill,Psychology,3,3.57,No,1,1,0,1,1,0,0,4,Low,1,0,1,1,4,4,2,3,1,1,8,Low,0,1,1,0,0,1,0,0,0,3,Low,0
+22.0,1,NC State University,Business,1,3.09,No,2,0,1,1,0,2,2,8,Low,2,0,2,4,3,3,2,3,0,3,16,Low,0,1,0,1,1,2,3,0,3,11,Low,0
+20.0,1,NC State University,Psychology,4,2.15,Yes,3,2,2,4,2,3,3,19,Medium,3,3,2,4,0,0,1,0,3,3,33,Medium,3,3,4,3,3,2,2,1,3,24,Medium,1
+22.0,0,UNC Chapel Hill,Engineering,4,2.45,No,3,1,3,2,2,3,2,16,Low,3,3,2,2,0,2,1,1,3,3,28,Medium,2,3,0,2,2,3,2,3,2,19,Medium,0
+22.0,0,Wake Forest,Computer Science,3,2.55,Yes,3,2,3,0,2,3,2,15,Low,2,3,2,3,2,2,1,1,2,2,24,Medium,2,1,2,2,3,3,2,3,3,21,Medium,1
+19.0,0,UNC Chapel Hill,Business,4,3.56,Yes,0,0,2,1,0,0,0,3,Low,1,0,0,0,4,3,4,3,0,2,5,Low,0,2,2,0,3,0,1,1,0,9,Low,1
+19.0,0,UNC Chapel Hill,Arts,2,2.29,No,3,3,2,3,3,2,3,19,Medium,3,4,4,4,0,1,0,1,1,3,33,Medium,2,2,2,3,2,4,2,2,3,22,Medium,0
+19.0,1,UNC Chapel Hill,Computer Science,4,3.27,Yes,0,0,2,0,2,1,2,7,Low,1,3,1,2,2,4,4,2,0,1,12,Low,0,2,1,1,1,1,1,2,1,10,Low,1
+20.0,0,Duke University,Psychology,3,3.35,Yes,2,0,2,0,1,2,2,9,Low,1,1,3,0,4,3,3,3,2,0,10,Low,0,2,0,0,1,0,1,2,0,6,Low,1
+22.0,0,NC State University,Computer Science,3,2.85,Yes,1,2,1,4,3,2,1,14,Low,2,3,2,1,3,2,4,2,3,1,17,Low,1,2,1,1,1,1,2,1,3,13,Low,1
+22.0,1,Duke University,Business,1,2.58,No,4,2,3,2,3,3,2,19,Medium,2,1,2,3,1,4,1,1,3,2,22,Medium,3,3,3,2,3,0,3,1,2,20,Medium,0
+19.0,0,NC State University,Computer Science,4,3.78,No,0,0,0,1,0,0,0,1,Low,1,1,0,0,3,4,4,4,1,0,4,Low,0,0,0,1,0,1,0,0,0,2,Low,0
+20.0,0,NC State University,Engineering,2,2.12,No,3,3,3,3,4,4,4,24,Medium,2,4,3,2,1,0,0,1,3,2,30,Medium,4,2,1,4,3,4,3,4,4,29,Medium,0
+20.0,1,UNC Chapel Hill,Psychology,1,2.25,No,2,3,4,1,3,2,4,19,Medium,2,4,3,2,0,1,2,2,1,2,25,Medium,4,3,2,2,4,3,3,4,2,27,Medium,0
+19.0,1,Duke University,Engineering,1,2.9,Yes,1,3,2,2,2,2,1,13,Low,2,2,3,0,3,1,3,3,1,3,17,Low,2,1,3,2,1,3,2,2,1,17,Low,1
+19.0,1,NC State University,Psychology,3,3.95,No,1,0,0,0,1,0,0,2,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,0,0,1,0,0,0,0,1,2,Low,0
+19.0,1,NC State University,Psychology,3,2.48,No,1,2,2,2,3,1,4,15,Low,2,2,2,4,2,1,1,3,2,3,24,Medium,4,1,4,3,3,2,2,3,1,23,Medium,0
+22.0,0,UNC Chapel Hill,Arts,3,3.36,Yes,2,1,0,1,0,1,1,6,Low,2,0,0,2,3,4,3,4,1,2,9,Low,2,2,2,1,2,0,1,0,0,10,Low,1
+19.0,0,NC State University,Computer Science,4,2.75,No,2,2,2,2,1,2,2,13,Low,1,1,2,4,2,2,3,2,2,4,21,Medium,2,4,2,3,2,2,0,1,3,19,Medium,0
+20.0,1,UNC Chapel Hill,Engineering,1,2.92,No,1,2,3,2,3,1,1,13,Low,1,2,2,2,3,1,3,2,2,0,16,Low,3,3,4,3,1,2,2,0,1,19,Medium,0
+21.0,0,Duke University,Computer Science,3,2.87,Yes,1,1,1,1,2,2,2,10,Low,3,1,3,3,4,3,1,2,2,1,19,Medium,1,3,2,3,2,2,2,2,2,19,Medium,1
+20.0,0,Duke University,Arts,1,2.55,Yes,4,2,2,3,2,4,2,19,Medium,4,2,1,4,2,2,2,4,1,2,20,Medium,1,2,1,3,2,2,3,2,2,18,Medium,1
+24.0,0,Duke University,Arts,4,2.42,Yes,2,3,3,1,3,2,2,16,Low,4,2,2,3,1,2,1,0,2,2,27,Medium,2,2,2,4,3,2,3,3,3,24,Medium,1
+22.0,0,UNC Chapel Hill,Business,4,3.75,Yes,0,0,0,0,1,0,0,1,Low,0,0,0,0,3,4,4,3,0,0,2,Low,2,0,0,0,1,2,0,0,0,5,Low,1
+19.0,0,NC State University,Biology,3,3.59,No,1,0,0,1,1,0,0,3,Low,1,1,0,1,3,4,4,3,1,0,6,Low,0,1,2,0,0,3,0,0,2,8,Low,0
+20.0,0,UNC Chapel Hill,Business,3,2.48,No,3,1,2,3,2,3,2,16,Low,2,2,2,4,2,1,1,0,2,3,27,Medium,3,3,4,3,3,3,2,0,1,22,Medium,0
+19.0,0,Duke University,Business,2,2.39,No,2,1,2,3,2,3,2,15,Low,2,2,2,2,2,1,1,2,3,3,24,Medium,3,3,2,3,1,2,3,4,3,24,Medium,0
+19.0,0,NC State University,Computer Science,2,3.99,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,2,3,0,0,3,Low,0,1,0,0,2,1,0,0,0,4,Low,0
+19.0,1,UNC Chapel Hill,Psychology,4,3.96,Yes,0,0,0,0,0,1,0,1,Low,1,0,0,0,4,4,4,4,0,0,1,Low,0,0,0,0,0,0,0,0,0,0,Low,1
+21.0,1,UNC Chapel Hill,Computer Science,2,2.52,No,3,2,1,2,2,3,1,14,Low,2,3,2,3,1,1,1,1,3,2,27,Medium,3,2,1,1,3,2,3,3,1,19,Medium,0
+20.0,1,UNC Chapel Hill,Biology,2,3.19,No,2,2,0,0,2,1,2,9,Low,1,0,1,2,4,2,4,4,1,1,8,Low,1,0,0,1,1,0,0,0,2,5,Low,0
+19.0,1,UNC Chapel Hill,Psychology,2,3.35,No,1,1,0,0,1,0,0,3,Low,0,2,1,0,4,2,3,3,0,1,8,Low,0,1,1,0,0,0,1,1,0,4,Low,0
+19.0,0,UNC Chapel Hill,Psychology,4,2.38,No,3,1,3,3,2,2,3,17,Low,3,4,4,4,1,1,0,1,3,2,33,Medium,3,4,2,1,2,2,2,4,2,22,Medium,0
+22.0,0,UNC Chapel Hill,Computer Science,2,3.82,No,1,0,0,1,0,2,0,4,Low,0,0,1,0,4,4,4,4,0,0,1,Low,1,0,0,1,1,0,0,0,1,4,Low,0
+19.0,1,UNC Chapel Hill,Engineering,1,3.92,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,3,4,4,0,0,1,Low,1,2,0,0,1,0,0,0,0,4,Low,0
+19.0,1,UNC Chapel Hill,Engineering,3,3.95,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,3,4,4,0,0,1,Low,0,1,1,0,2,0,0,0,0,4,Low,0
+20.0,1,UNC Chapel Hill,Engineering,4,2.32,Yes,3,3,1,1,4,4,4,20,Medium,2,2,3,4,1,2,2,2,3,2,25,Medium,2,3,3,4,3,2,4,3,4,28,Medium,1
+24.0,0,Duke University,Computer Science,1,3.44,Yes,2,0,1,1,0,1,0,5,Low,0,1,1,1,3,2,3,4,1,0,8,Low,0,0,1,1,1,0,0,2,0,5,Low,1
+19.0,0,UNC Chapel Hill,Arts,1,3.45,Yes,0,1,1,0,1,0,1,4,Low,0,0,0,0,3,3,2,3,1,0,6,Low,2,0,1,0,0,0,0,0,0,3,Low,1
+21.0,0,NC State University,Business,1,2.33,No,3,2,3,3,2,1,4,18,Medium,2,2,3,4,1,1,1,2,2,3,27,Medium,3,2,3,4,3,4,4,2,3,28,Medium,0
+22.0,0,UNC Chapel Hill,Engineering,2,3.54,No,1,0,1,0,0,1,1,4,Low,1,2,1,1,4,4,3,3,0,0,7,Low,1,1,0,1,0,0,1,0,1,5,Low,0
+19.0,1,UNC Chapel Hill,Engineering,2,2.02,No,3,3,3,4,2,3,4,22,Medium,2,3,3,3,1,1,0,0,4,4,33,Medium,4,4,4,4,4,4,2,4,4,34,Medium,0
+21.0,1,NC State University,Engineering,3,2.85,No,1,2,3,1,2,2,1,12,Low,0,3,1,3,2,3,2,4,2,2,16,Low,2,2,2,2,1,2,1,2,0,14,Low,0
+20.0,0,UNC Chapel Hill,Business,3,2.46,No,3,2,3,3,2,2,3,18,Medium,3,3,2,2,1,2,2,0,3,3,27,Medium,3,4,1,2,3,3,3,2,3,24,Medium,0
+21.0,1,NC State University,Business,3,2.44,No,4,2,2,2,3,2,3,18,Medium,2,1,3,2,1,2,0,0,4,2,27,Medium,3,2,4,2,3,4,3,3,3,27,Medium,0
+21.0,1,NC State University,Biology,2,3.7,Yes,0,0,0,0,0,0,1,1,Low,2,1,1,0,4,4,4,4,0,0,4,Low,0,1,2,0,0,0,0,1,0,4,Low,1
+20.0,0,UNC Chapel Hill,Engineering,4,2.19,Yes,2,3,3,3,2,3,3,19,Medium,4,3,4,2,0,1,1,0,3,4,34,Medium,2,4,2,2,4,3,4,3,4,28,Medium,1
+19.0,0,NC State University,Arts,2,2.06,No,2,3,4,3,4,2,3,21,Medium,3,3,3,4,0,1,1,0,2,4,33,Medium,4,1,4,4,3,4,4,4,4,32,Medium,0
+22.0,0,UNC Chapel Hill,Biology,4,3.32,No,1,1,0,1,1,2,2,8,Low,1,1,1,2,4,4,4,3,1,2,9,Low,2,0,2,1,2,1,1,1,0,10,Low,0
+19.0,0,UNC Chapel Hill,Computer Science,3,2.75,No,3,1,1,2,2,2,2,13,Low,3,2,3,2,1,3,2,2,1,2,21,Medium,1,3,1,3,4,0,3,2,4,21,Medium,0
+19.0,0,Duke University,Arts,1,3.84,Yes,0,1,1,0,0,0,0,2,Low,0,0,1,1,4,4,4,4,0,1,3,Low,1,0,0,1,1,0,0,0,0,3,Low,1
+19.0,0,NC State University,Computer Science,3,2.09,Yes,3,2,3,3,3,3,3,20,Medium,2,4,3,3,2,1,2,1,3,3,28,Medium,4,2,3,1,4,3,4,3,2,26,Medium,1
+21.0,0,NC State University,Biology,2,2.74,No,2,2,3,3,2,2,3,17,Low,2,2,2,2,2,1,3,2,2,3,21,Medium,2,0,1,3,2,0,4,1,2,15,Low,0
+21.0,0,Duke University,Engineering,3,3.51,Yes,0,1,2,1,1,1,2,8,Low,0,0,1,1,3,3,3,3,0,0,6,Low,0,0,1,1,1,2,2,1,2,10,Low,1
+19.0,1,Wake Forest,Biology,1,3.9,Yes,0,0,0,0,0,1,0,1,Low,0,0,0,0,4,4,4,3,0,0,1,Low,0,0,0,0,0,0,0,0,0,0,Low,1
+20.0,0,Duke University,Biology,1,2.71,No,3,2,3,3,2,2,3,18,Medium,2,4,2,2,2,1,3,3,3,2,22,Medium,2,1,3,1,3,2,3,1,2,18,Medium,0
+19.0,1,NC State University,Biology,4,2.5,Yes,1,2,2,2,2,2,1,12,Low,2,3,3,4,2,2,2,2,3,3,26,Medium,2,3,2,2,3,2,2,2,4,22,Medium,1
+21.0,0,Duke University,Psychology,1,2.72,No,3,3,3,3,2,1,2,17,Low,1,4,3,2,2,2,2,0,2,3,25,Medium,2,3,2,3,2,1,3,4,2,22,Medium,0
+19.0,1,Duke University,Engineering,4,2.48,Yes,3,1,3,3,3,3,2,18,Medium,3,4,2,3,1,1,2,2,2,4,28,Medium,1,3,4,4,4,1,3,1,1,22,Medium,1
+21.0,0,UNC Chapel Hill,Computer Science,2,3.95,Yes,1,0,0,0,0,0,0,1,Low,0,0,0,1,4,4,2,4,1,0,4,Low,0,0,0,1,0,0,0,0,0,1,Low,1
+20.0,0,NC State University,Engineering,3,3.15,No,0,1,1,1,1,1,1,6,Low,0,1,0,2,3,3,2,3,1,0,9,Low,1,0,0,2,3,2,1,0,3,12,Low,0
+22.0,1,UNC Chapel Hill,Computer Science,3,2.35,No,2,4,1,2,2,1,3,15,Low,4,3,3,2,2,0,0,2,2,3,29,Medium,3,2,2,3,4,3,3,1,3,24,Medium,0
+19.0,1,Duke University,Psychology,3,2.55,No,2,3,3,2,2,4,2,18,Medium,1,1,2,1,3,2,1,0,2,2,19,Medium,3,3,2,2,2,2,2,3,4,23,Medium,0
+19.0,1,Wake Forest,Engineering,2,2.56,No,3,2,1,3,2,1,2,14,Low,2,2,2,3,0,2,3,2,2,4,24,Medium,4,3,3,2,2,1,3,2,3,23,Medium,0
+19.0,0,NC State University,Arts,1,3.16,Yes,3,1,1,1,2,1,1,10,Low,1,2,1,1,2,3,4,4,1,2,11,Low,1,2,2,1,2,2,2,1,1,14,Low,1
+22.0,0,Duke University,Business,1,3.16,No,2,1,2,1,0,1,0,7,Low,1,1,1,1,3,4,4,3,0,1,7,Low,2,1,0,0,3,3,1,2,1,13,Low,0
+22.0,1,Wake Forest,Biology,2,3.52,Yes,0,0,1,1,1,0,0,3,Low,0,1,0,0,3,3,2,4,0,0,5,Low,0,0,0,0,1,2,1,0,0,4,Low,1
+19.0,1,NC State University,Computer Science,3,2.85,No,1,3,3,2,0,1,2,12,Low,3,3,2,4,2,1,3,3,1,1,21,Medium,3,1,2,1,2,2,3,3,1,18,Medium,0
+21.0,1,Wake Forest,Biology,4,3.89,No,1,0,1,0,0,0,0,2,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,0,0,0,0,0,0,1,4,5,Low,0
+22.0,1,UNC Chapel Hill,Arts,4,2.84,No,1,3,1,3,2,2,2,14,Low,4,1,3,0,2,2,3,2,1,2,18,Medium,2,1,4,2,4,1,2,1,3,20,Medium,0
+21.0,0,NC State University,Engineering,4,2.95,No,3,2,2,2,3,1,2,15,Low,2,1,3,2,3,3,3,3,1,1,14,Low,1,2,2,2,1,1,1,2,2,14,Low,0
+20.0,1,NC State University,Business,4,2.41,Yes,2,4,3,1,2,4,2,18,Medium,3,2,2,2,2,1,1,1,4,2,26,Medium,4,3,4,3,3,2,3,2,2,26,Medium,1
+19.0,0,UNC Chapel Hill,Psychology,3,2.37,Yes,4,2,1,2,1,2,4,16,Low,3,2,3,3,1,1,1,0,4,4,32,Medium,1,3,2,2,4,1,3,4,4,24,Medium,1
+19.0,0,NC State University,Computer Science,2,3.71,No,1,0,0,0,0,0,0,1,Low,2,0,0,1,4,3,4,3,0,1,6,Low,0,0,0,0,0,1,1,0,1,3,Low,0
+22.0,0,Duke University,Business,4,2.35,No,3,2,2,3,3,2,2,17,Low,2,4,3,4,1,1,1,1,2,3,30,Medium,3,1,2,2,4,2,3,1,4,22,Medium,0
+22.0,1,NC State University,Engineering,3,3.95,No,0,0,0,0,0,0,2,2,Low,0,0,1,0,3,4,4,4,0,0,2,Low,0,0,1,0,0,1,0,0,1,3,Low,0
+21.0,0,Duke University,Computer Science,3,2.82,Yes,2,2,2,4,2,1,1,14,Low,1,2,2,1,3,2,2,4,2,2,15,Low,2,2,4,2,2,3,0,1,0,16,Low,1
+19.0,0,NC State University,Engineering,1,3.67,No,1,1,0,1,0,1,0,4,Low,0,0,0,1,4,4,3,4,0,2,4,Low,1,0,0,1,2,1,1,0,0,6,Low,0
+19.0,1,UNC Chapel Hill,Computer Science,2,3.39,Yes,1,0,0,1,2,0,1,5,Low,0,2,1,1,4,3,4,4,0,2,7,Low,1,1,0,2,0,1,0,1,0,6,Low,1
+21.0,0,Wake Forest,Computer Science,2,3.31,No,0,1,1,2,0,0,0,4,Low,1,2,0,3,3,4,4,2,0,2,11,Low,0,2,0,2,1,0,1,2,0,8,Low,0
+22.0,1,Wake Forest,Computer Science,4,3.8499999999999996,No,0,0,0,2,1,0,0,3,Low,1,1,0,1,4,4,4,2,0,1,6,Low,0,0,0,0,0,2,0,0,0,2,Low,0
+22.0,0,UNC Chapel Hill,Arts,3,2.56,No,2,1,3,3,1,1,4,15,Low,3,3,1,2,1,1,2,1,3,2,25,Medium,2,2,3,2,1,2,2,2,2,18,Medium,0
+22.0,0,NC State University,Business,2,2.08,Yes,2,4,3,4,3,3,2,21,Medium,3,3,3,3,1,0,1,2,2,4,30,Medium,4,3,4,3,3,4,3,3,4,31,Medium,1
+21.0,1,UNC Chapel Hill,Arts,4,3.65,No,1,0,1,0,0,0,0,2,Low,0,0,0,0,4,4,3,4,1,0,2,Low,0,0,0,0,0,0,0,0,2,2,Low,0
+19.0,0,NC State University,Engineering,1,2.95,No,1,1,2,1,1,1,0,7,Low,2,3,2,1,4,2,1,2,1,2,18,Medium,2,2,0,3,2,1,2,1,2,15,Low,0
+19.0,0,NC State University,Engineering,2,2.11,No,2,3,4,3,3,4,4,23,Medium,3,3,4,4,0,0,0,1,3,4,36,High,4,4,4,3,4,4,3,2,4,32,Medium,0
+22.0,0,NC State University,Business,1,2.45,No,1,2,2,2,3,4,3,17,Low,4,3,3,3,1,0,1,2,1,2,28,Medium,2,4,2,1,4,3,2,3,4,25,Medium,0
+21.0,0,Duke University,Engineering,3,2.61,No,1,2,3,2,2,2,2,14,Low,4,3,1,1,2,2,1,1,2,2,23,Medium,3,3,3,1,1,1,2,2,2,18,Medium,0
+19.0,1,UNC Chapel Hill,Computer Science,4,2.25,No,2,3,4,2,2,2,4,19,Medium,3,3,2,3,2,1,2,2,3,3,26,Medium,4,3,2,2,3,2,3,4,1,24,Medium,0
+19.0,0,UNC Chapel Hill,Business,2,3.93,No,0,0,0,0,0,0,1,1,Low,0,1,0,0,4,3,4,4,0,0,2,Low,0,0,0,0,0,0,1,0,0,1,Low,0
+21.0,1,Duke University,Computer Science,4,3.45,Yes,2,0,2,0,0,0,2,6,Low,2,1,0,1,2,4,3,3,2,1,11,Low,0,0,1,2,2,2,0,0,0,7,Low,1
+19.0,0,NC State University,Business,2,3.7,Yes,0,0,0,0,1,0,0,1,Low,1,2,1,1,4,4,4,4,0,0,5,Low,0,0,0,0,1,0,1,2,0,4,Low,1
+19.0,1,Wake Forest,Psychology,4,2.61,No,2,4,2,2,2,2,0,14,Low,2,2,3,3,2,1,2,1,2,4,26,Medium,0,3,2,0,3,2,4,1,2,17,Low,0
+20.0,1,Duke University,Computer Science,4,3.43,Yes,1,1,0,1,0,0,0,3,Low,0,0,0,2,3,2,3,4,0,0,6,Low,1,1,1,0,1,2,1,0,1,8,Low,1
+21.0,1,Duke University,Computer Science,4,2.36,No,3,4,3,2,4,2,2,20,Medium,2,2,3,3,2,1,2,0,3,4,28,Medium,3,3,2,3,3,2,3,2,3,24,Medium,0
+21.0,0,NC State University,Psychology,1,3.8,No,0,0,0,2,0,0,0,2,Low,0,0,1,0,3,4,4,4,1,0,3,Low,2,0,0,0,0,0,0,0,0,2,Low,0
+19.0,0,UNC Chapel Hill,Engineering,4,3.97,No,0,0,0,1,0,0,0,1,Low,0,0,1,0,4,4,4,4,0,0,1,Low,0,0,0,0,0,0,0,1,0,1,Low,0
+21.0,0,UNC Chapel Hill,Computer Science,3,2.79,No,3,1,1,1,1,2,3,12,Low,1,2,4,2,4,3,2,2,3,2,19,Medium,2,2,2,2,3,4,2,2,1,20,Medium,0
+19.0,1,NC State University,Arts,2,3.32,No,2,0,1,1,1,0,2,7,Low,0,0,0,0,3,3,2,4,1,1,6,Low,0,0,1,1,1,3,2,1,1,10,Low,0
+19.0,1,NC State University,Computer Science,4,3.25,No,0,0,2,1,1,2,1,7,Low,0,1,4,1,3,4,3,3,2,0,11,Low,1,0,0,1,1,2,2,0,2,9,Low,0
+21.0,1,UNC Chapel Hill,Psychology,2,2.33,Yes,2,4,3,2,3,2,4,20,Medium,2,4,3,3,1,2,1,1,1,1,25,Medium,1,3,2,3,3,4,2,3,2,23,Medium,1
+21.0,0,UNC Chapel Hill,Arts,4,3.17,No,1,2,0,0,3,0,1,7,Low,2,2,1,0,3,4,1,2,2,1,14,Low,1,1,0,1,0,1,2,2,1,9,Low,0
+22.0,1,NC State University,Computer Science,1,2.08,Yes,3,4,4,4,2,4,3,24,Medium,3,4,4,3,2,0,2,0,4,4,34,Medium,3,2,4,3,3,4,3,4,3,29,Medium,1
+21.0,1,Wake Forest,Computer Science,3,3.35,No,1,0,1,0,1,0,2,5,Low,1,1,0,2,3,4,4,3,0,1,7,Low,1,1,2,2,1,1,1,1,0,10,Low,0
+21.0,0,NC State University,Computer Science,3,3.55,No,0,0,0,1,0,1,0,2,Low,0,1,1,1,4,3,2,4,0,0,6,Low,0,1,1,1,0,1,0,0,1,5,Low,0
+19.0,0,Duke University,Engineering,1,2.21,No,4,3,3,4,3,1,4,22,Medium,3,4,2,3,3,1,1,0,2,4,29,Medium,3,3,3,4,2,3,3,3,2,26,Medium,0
+20.0,1,Wake Forest,Computer Science,1,3.02,Yes,2,2,2,3,1,3,0,13,Low,1,2,1,2,3,4,3,2,1,1,12,Low,1,4,0,3,1,1,2,2,1,15,Low,1
+19.0,1,Duke University,Psychology,1,3.87,No,0,0,0,0,0,0,0,0,Low,0,0,1,0,3,4,4,4,0,0,2,Low,0,0,0,0,1,1,1,0,0,3,Low,0
+19.0,1,Duke University,Computer Science,2,3.39,No,2,0,1,1,2,0,1,7,Low,1,0,1,2,4,4,3,3,1,0,7,Low,1,0,1,2,3,1,1,0,2,11,Low,0
+24.0,0,NC State University,Business,2,2.92,Yes,3,2,1,2,2,0,2,12,Low,2,1,2,2,1,3,2,3,2,1,17,Low,2,1,2,0,3,3,2,3,1,17,Low,1
+20.0,1,NC State University,Arts,3,3.39,Yes,0,1,0,0,1,2,2,6,Low,0,1,1,0,3,3,4,3,2,1,8,Low,1,1,0,1,0,1,2,2,1,9,Low,1
+22.0,0,Wake Forest,Biology,2,3.72,Yes,0,0,0,0,1,0,0,1,Low,0,0,1,2,4,4,4,4,0,1,4,Low,0,0,0,0,1,0,0,0,2,3,Low,1
+21.0,0,Duke University,Business,2,3.75,No,0,0,0,1,0,0,0,1,Low,2,0,0,0,4,2,4,4,0,1,5,Low,0,0,0,2,0,0,0,1,0,3,Low,0
+22.0,0,UNC Chapel Hill,Engineering,3,2.85,Yes,2,2,2,2,1,0,2,11,Low,1,2,2,1,2,1,2,1,3,2,21,Medium,2,1,2,3,1,2,3,2,3,19,Medium,1
+20.0,1,NC State University,Business,1,3.96,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,0,0,0,0,0,0,0,1,1,Low,0
+21.0,1,NC State University,Business,4,3.4,No,0,1,1,0,0,1,0,3,Low,2,2,1,1,4,3,2,4,1,0,10,Low,0,2,2,1,1,0,0,0,2,8,Low,0
+20.0,1,NC State University,Engineering,4,3.12,No,1,2,2,0,1,2,1,9,Low,4,1,2,1,2,1,2,2,2,2,21,Medium,3,3,1,1,2,2,0,2,1,15,Low,0
+19.0,0,UNC Chapel Hill,Computer Science,3,2.99,Yes,1,1,2,1,2,0,0,7,Low,0,0,0,3,3,3,3,1,1,2,12,Low,1,3,0,2,1,1,2,2,2,14,Low,1
+21.0,1,NC State University,Biology,3,2.33,No,3,1,2,3,3,2,2,16,Low,3,3,2,3,2,1,1,1,3,1,26,Medium,3,2,2,2,3,3,1,2,2,20,Medium,0
+19.0,0,UNC Chapel Hill,Engineering,4,3.47,No,2,0,1,0,0,1,0,4,Low,0,1,0,0,4,3,4,3,0,0,3,Low,0,0,0,1,1,1,0,1,0,4,Low,0
+19.0,1,Duke University,Computer Science,1,2.05,No,2,4,2,3,4,4,4,23,Medium,3,2,3,4,0,0,1,1,4,3,33,Medium,3,3,4,3,4,3,4,3,3,30,Medium,0
+21.0,0,Wake Forest,Engineering,1,2.02,No,4,4,3,2,4,2,4,23,Medium,3,4,4,4,0,0,1,1,2,4,35,High,3,4,3,4,4,4,4,4,4,34,Medium,0
+19.0,0,NC State University,Engineering,1,3.94,No,1,0,0,0,0,0,0,1,Low,0,0,0,0,4,4,4,3,0,0,1,Low,0,0,0,0,0,0,0,0,0,0,Low,0
+22.0,0,UNC Chapel Hill,Biology,4,2.47,No,4,3,3,3,1,3,3,20,Medium,3,3,1,3,2,2,0,2,2,3,25,Medium,1,1,1,2,3,3,2,2,2,17,Low,0
+22.0,0,UNC Chapel Hill,Psychology,1,3.63,No,0,1,1,1,0,1,0,4,Low,0,1,0,0,3,3,3,4,0,0,4,Low,1,0,1,1,0,0,0,0,0,3,Low,0
+22.0,1,UNC Chapel Hill,Psychology,3,3.93,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,0,0,0,0,0,0,0,0,0,Low,0
+20.0,1,UNC Chapel Hill,Computer Science,4,3.15,Yes,2,1,2,0,1,0,1,7,Low,1,2,0,2,3,3,2,3,1,1,12,Low,0,2,1,0,1,0,1,2,1,8,Low,1
+19.0,0,UNC Chapel Hill,Engineering,4,3.73,Yes,0,1,0,0,0,0,0,1,Low,0,0,0,1,4,4,4,3,0,0,2,Low,0,0,2,0,0,1,0,0,1,4,Low,1
+22.0,1,Duke University,Engineering,3,3.65,Yes,0,0,0,0,0,1,1,2,Low,0,0,0,0,4,4,4,4,1,0,1,Low,0,1,1,0,0,1,0,2,1,6,Low,1
+20.0,0,NC State University,Computer Science,1,2.79,No,2,3,2,2,1,1,2,13,Low,2,1,3,3,2,2,1,2,2,2,22,Medium,2,0,0,1,0,1,0,2,1,7,Low,0
+22.0,1,NC State University,Engineering,4,3.8499999999999996,No,0,0,0,1,0,0,1,2,Low,0,1,0,0,4,3,4,3,0,0,3,Low,2,0,0,0,0,1,1,0,0,4,Low,0
+22.0,1,Wake Forest,Psychology,3,2.85,No,2,3,2,1,1,2,2,13,Low,1,1,2,4,2,3,2,2,1,1,17,Low,2,3,2,0,2,2,2,2,3,18,Medium,0
+22.0,1,Duke University,Computer Science,1,3.8499999999999996,No,0,0,0,0,1,0,0,1,Low,0,0,0,0,4,4,2,4,0,1,3,Low,0,0,0,0,0,0,1,0,0,1,Low,0
+19.0,0,UNC Chapel Hill,Business,1,3.59,No,0,1,1,1,0,2,0,5,Low,0,0,1,0,3,4,3,3,0,0,4,Low,0,0,1,2,0,0,2,0,2,7,Low,0
+20.0,1,Duke University,Computer Science,4,3.35,No,2,0,2,0,2,0,1,7,Low,0,2,2,1,3,2,2,3,0,2,13,Low,1,0,1,1,2,2,0,2,1,10,Low,0
+22.0,1,NC State University,Computer Science,3,3.67,No,0,0,0,0,0,1,1,2,Low,0,1,0,0,4,4,4,4,0,0,1,Low,0,2,0,0,0,0,0,0,0,2,Low,0
+19.0,0,NC State University,Computer Science,4,2.02,No,3,4,3,4,3,3,3,23,Medium,4,4,4,4,1,1,0,0,4,2,36,High,2,3,3,4,4,3,2,4,3,28,Medium,0
+19.0,0,UNC Chapel Hill,Arts,4,2.1,Yes,4,4,2,4,3,4,2,23,Medium,3,3,3,2,1,0,1,2,2,4,29,Medium,3,4,4,4,4,2,4,3,2,30,Medium,1
+21.0,1,Duke University,Biology,3,2.58,Yes,2,2,0,2,3,3,3,15,Low,3,3,3,3,1,2,1,2,3,3,28,Medium,2,3,4,3,0,2,2,3,2,21,Medium,1
+22.0,1,NC State University,Arts,3,2.71,Yes,2,1,2,1,2,2,2,12,Low,3,4,2,2,2,3,1,2,1,2,22,Medium,1,4,2,2,2,2,3,1,2,19,Medium,1
+21.0,1,Duke University,Engineering,2,2.67,No,2,2,3,2,3,1,2,15,Low,1,1,2,2,1,3,2,2,2,2,18,Medium,2,2,3,3,2,1,1,3,3,20,Medium,0
+21.0,1,NC State University,Computer Science,2,2.81,No,3,2,2,3,2,3,1,16,Low,1,3,2,2,1,1,1,1,2,2,24,Medium,3,1,2,0,0,0,3,1,0,10,Low,0
+19.0,1,Duke University,Business,2,3.65,No,0,1,0,0,0,0,1,2,Low,3,0,0,0,4,3,4,4,0,0,4,Low,1,0,0,0,0,1,2,0,0,4,Low,0
+21.0,0,NC State University,Engineering,4,3.05,Yes,0,2,1,2,1,2,2,10,Low,3,1,1,1,4,3,3,2,0,1,11,Low,2,3,1,2,2,2,1,1,1,15,Low,1
+24.0,0,UNC Chapel Hill,Biology,3,2.66,No,2,2,0,3,1,1,2,11,Low,2,2,3,2,1,2,2,2,2,3,23,Medium,2,2,1,3,4,1,1,2,2,18,Medium,0
+19.0,0,NC State University,Computer Science,4,2.95,No,1,3,3,3,2,3,1,16,Low,2,1,3,2,1,2,3,1,3,2,22,Medium,2,1,0,1,3,2,1,2,2,14,Low,0
+20.0,1,Duke University,Engineering,2,3.28,Yes,1,1,0,1,0,1,0,4,Low,0,1,2,2,3,3,3,3,0,1,10,Low,1,0,1,1,1,0,0,1,0,5,Low,1
+22.0,0,NC State University,Computer Science,3,3.26,No,1,1,2,1,2,1,2,10,Low,1,0,0,0,4,3,4,3,3,1,7,Low,1,0,0,0,1,1,1,2,2,8,Low,0
+21.0,1,NC State University,Engineering,3,3.05,Yes,2,0,2,3,1,1,2,11,Low,1,2,3,1,3,2,2,3,1,1,15,Low,1,2,0,1,3,1,2,1,3,14,Low,1
+21.0,1,NC State University,Psychology,3,2.2,No,2,3,2,3,3,2,3,18,Medium,1,1,3,4,2,0,1,2,3,2,25,Medium,3,3,4,4,4,3,3,3,4,31,Medium,0
+21.0,1,Duke University,Engineering,3,2.75,No,3,2,1,2,3,1,2,14,Low,1,2,3,2,1,2,2,2,1,2,20,Medium,2,1,2,3,1,4,2,1,2,18,Medium,0
+20.0,0,Duke University,Engineering,1,3.96,Yes,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,0,0,0,Low,2,0,1,0,0,0,0,0,0,3,Low,1
+19.0,1,NC State University,Engineering,3,3.15,Yes,2,2,1,1,1,1,2,10,Low,0,0,1,0,3,3,3,3,1,1,7,Low,2,1,2,0,0,0,2,1,1,9,Low,1
+22.0,0,UNC Chapel Hill,Engineering,1,3.95,No,0,0,0,0,0,1,1,2,Low,0,0,0,0,4,4,4,3,0,0,1,Low,0,0,0,0,1,0,0,0,0,1,Low,0
+22.0,1,UNC Chapel Hill,Psychology,2,2.95,No,2,2,1,1,0,2,1,9,Low,1,0,0,1,2,1,2,4,1,2,12,Low,1,1,0,2,2,3,2,3,1,15,Low,0
+22.0,0,UNC Chapel Hill,Biology,2,3.41,No,1,1,0,2,0,0,0,4,Low,0,1,1,0,4,3,4,4,0,0,3,Low,0,2,0,0,1,0,3,0,0,6,Low,0
+22.0,0,NC State University,Arts,3,2.69,No,3,3,0,0,2,1,0,9,Low,3,1,3,2,2,3,3,1,4,2,22,Medium,4,4,1,3,0,1,1,3,2,19,Medium,0
+20.0,1,Duke University,Psychology,4,2.53,No,3,3,3,4,3,3,1,20,Medium,3,3,2,2,2,2,1,1,1,0,21,Medium,2,1,3,3,2,4,2,2,2,21,Medium,0
+20.0,0,NC State University,Engineering,3,3.15,No,1,2,1,2,1,0,0,7,Low,1,0,2,2,4,3,3,3,1,1,10,Low,2,2,1,2,1,1,3,1,2,15,Low,0
+22.0,0,NC State University,Psychology,3,2.75,No,4,2,2,2,3,3,2,18,Medium,3,2,2,2,1,1,2,2,2,0,21,Medium,2,1,3,1,2,2,3,1,3,18,Medium,0
+21.0,1,Wake Forest,Engineering,3,3.94,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,0,0,1,0,2,0,0,1,4,Low,0
+21.0,1,NC State University,Engineering,3,2.15,No,4,4,4,3,3,4,2,24,Medium,4,3,1,3,2,1,1,2,4,3,28,Medium,4,4,4,0,2,3,3,3,2,25,Medium,0
+22.0,1,Duke University,Biology,1,3.95,No,0,0,0,1,1,0,0,2,Low,0,0,2,0,2,4,4,4,0,1,5,Low,0,0,0,0,0,0,0,1,0,1,Low,0
+22.0,1,Duke University,Computer Science,2,2.45,No,2,2,2,3,3,4,3,19,Medium,2,1,4,3,1,1,3,0,0,3,24,Medium,2,3,1,4,4,2,2,3,2,23,Medium,0
+19.0,1,UNC Chapel Hill,Biology,2,3.25,No,1,0,1,0,1,3,1,7,Low,0,2,1,1,3,3,4,4,2,1,9,Low,3,2,2,1,1,0,1,3,0,13,Low,0
+20.0,0,Duke University,Engineering,2,2.53,Yes,3,3,1,3,2,1,1,14,Low,2,4,1,2,0,3,2,2,1,2,21,Medium,3,3,3,4,3,4,2,3,2,27,Medium,1
+19.0,0,NC State University,Business,1,3.95,No,0,1,0,0,0,0,0,1,Low,0,2,0,1,3,4,3,4,0,0,5,Low,0,0,0,0,0,0,0,0,1,1,Low,0
+21.0,0,NC State University,Psychology,1,3.45,No,1,0,1,1,0,1,0,4,Low,2,1,0,0,4,4,2,3,1,0,7,Low,1,0,0,1,0,2,0,2,0,6,Low,0
+19.0,1,Duke University,Biology,2,3.22,Yes,2,0,2,0,1,0,2,7,Low,2,2,1,0,3,3,1,3,1,1,13,Low,2,0,2,1,1,2,0,1,3,12,Low,1
+20.0,1,NC State University,Business,4,2.54,No,3,2,1,4,3,3,3,19,Medium,1,1,3,3,2,0,2,1,3,1,23,Medium,4,2,1,4,2,2,2,2,3,22,Medium,0
+20.0,0,NC State University,Business,2,3.73,No,0,1,0,1,0,1,0,3,Low,1,1,0,0,4,4,4,4,1,1,4,Low,0,2,1,1,0,0,2,1,0,7,Low,0
+19.0,0,NC State University,Computer Science,2,2.21,Yes,3,4,2,2,2,3,2,18,Medium,1,4,4,4,1,2,3,0,2,3,28,Medium,4,2,4,4,4,3,3,3,4,31,Medium,1
+21.0,1,NC State University,Business,1,3.95,No,0,0,0,0,1,1,0,2,Low,0,0,0,2,4,4,4,4,0,0,2,Low,0,0,0,0,0,0,0,0,0,0,Low,0
+19.0,0,NC State University,Computer Science,3,3.77,Yes,0,0,0,0,0,0,0,0,Low,0,1,1,0,4,4,4,4,0,1,3,Low,0,0,2,0,3,0,1,1,0,7,Low,1
+19.0,1,NC State University,Psychology,2,3.35,Yes,0,0,2,1,0,0,1,4,Low,1,1,1,1,3,3,2,3,3,0,12,Low,0,1,1,0,1,2,1,2,3,11,Low,1
+22.0,1,Duke University,Business,1,3.36,No,0,1,0,1,0,1,1,4,Low,0,0,0,0,3,3,2,3,0,0,5,Low,2,1,1,2,0,1,3,3,1,14,Low,0
+20.0,1,UNC Chapel Hill,Psychology,3,2.03,No,2,3,3,4,4,3,4,23,Medium,4,4,4,4,2,0,0,1,4,3,36,High,1,4,2,4,4,4,3,4,3,29,Medium,0
+19.0,0,UNC Chapel Hill,Computer Science,1,2.51,Yes,2,4,3,3,4,2,2,20,Medium,1,2,2,2,2,2,2,1,3,1,20,Medium,2,3,4,1,4,2,3,2,2,23,Medium,1
+20.0,1,NC State University,Computer Science,1,3.92,No,0,0,0,0,0,0,0,0,Low,0,1,0,0,4,4,4,3,0,0,2,Low,0,0,0,0,1,0,0,0,1,2,Low,0
+22.0,1,NC State University,Psychology,1,3.68,No,0,0,1,0,1,1,0,3,Low,0,0,1,0,4,3,4,4,0,2,4,Low,0,0,1,0,0,0,1,1,1,4,Low,0
+19.0,1,NC State University,Computer Science,1,3.45,Yes,2,0,1,0,2,1,0,6,Low,0,0,2,1,2,4,3,4,0,1,7,Low,0,0,0,1,1,0,1,2,1,6,Low,1
+21.0,1,Duke University,Computer Science,1,2.2,Yes,4,3,2,3,3,3,2,20,Medium,3,2,3,4,2,0,1,1,1,4,29,Medium,4,4,2,2,2,4,3,3,3,27,Medium,1
+19.0,1,UNC Chapel Hill,Computer Science,2,3.05,No,1,1,0,2,1,2,2,9,Low,3,2,3,1,3,3,4,0,2,2,19,Medium,2,1,2,1,2,2,1,1,2,14,Low,0
+19.0,1,NC State University,Arts,4,3.55,Yes,0,1,0,0,0,0,0,1,Low,3,0,0,0,3,3,3,4,1,0,7,Low,0,0,1,1,2,1,0,0,1,6,Low,1
+20.0,0,Wake Forest,Psychology,3,2.87,No,1,2,2,2,2,3,2,14,Low,2,1,1,3,3,2,2,1,2,1,18,Medium,3,2,0,2,2,1,2,2,1,15,Low,0
+20.0,1,NC State University,Engineering,3,3.05,No,3,1,2,1,1,1,1,10,Low,2,1,1,1,2,2,4,4,0,2,11,Low,1,0,2,1,1,0,2,0,0,7,Low,0
+21.0,1,Duke University,Engineering,2,2.02,No,4,4,4,3,4,4,2,25,Medium,4,3,4,2,1,1,1,1,2,4,31,Medium,3,4,4,4,4,4,3,4,4,34,Medium,0
+21.0,0,UNC Chapel Hill,Engineering,4,3.23,Yes,1,1,2,1,2,1,1,9,Low,1,0,0,1,3,3,2,4,0,1,7,Low,0,0,0,2,1,1,1,2,0,7,Low,1
+24.0,1,UNC Chapel Hill,Psychology,2,2.48,No,3,3,3,3,2,1,3,18,Medium,2,2,3,2,2,1,2,2,3,1,22,Medium,2,2,4,1,3,2,3,3,3,23,Medium,0
+20.0,1,UNC Chapel Hill,Psychology,1,2.18,No,3,3,3,3,2,4,2,20,Medium,3,4,3,4,0,0,0,1,3,4,36,High,2,3,2,3,3,4,3,3,3,26,Medium,0
+19.0,1,UNC Chapel Hill,Computer Science,3,3.8499999999999996,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,0,0,1,0,0,0,1,1,3,Low,0
+22.0,0,NC State University,Computer Science,1,2.03,Yes,3,4,4,3,4,4,3,25,Medium,3,3,4,4,1,0,1,1,4,3,34,Medium,4,3,4,4,4,4,3,4,3,33,Medium,1
+19.0,0,UNC Chapel Hill,Computer Science,2,2.65,Yes,2,1,3,3,2,3,2,16,Low,2,2,2,3,2,3,2,1,1,2,20,Medium,4,3,1,2,3,2,4,2,3,24,Medium,1
+20.0,1,NC State University,Psychology,3,2.65,No,2,4,2,2,2,2,3,17,Low,2,2,2,1,1,2,2,1,3,2,22,Medium,3,4,2,3,1,0,3,2,2,20,Medium,0
+19.0,1,UNC Chapel Hill,Psychology,4,3.05,No,1,2,2,3,1,1,1,11,Low,2,2,2,1,1,3,3,2,2,2,18,Medium,0,2,2,2,0,1,2,1,2,12,Low,0
+19.0,0,Duke University,Engineering,2,3.21,Yes,1,1,1,2,2,2,1,10,Low,0,2,3,1,3,3,4,2,1,2,13,Low,1,3,1,2,1,2,2,2,3,17,Low,1
+22.0,1,UNC Chapel Hill,Computer Science,3,2.16,No,3,2,4,3,3,3,3,21,Medium,3,3,4,4,0,0,0,1,3,3,35,High,2,2,4,1,4,3,3,2,2,23,Medium,0
+22.0,1,Duke University,Computer Science,4,3.68,Yes,0,0,1,0,0,1,0,2,Low,2,0,0,0,4,4,3,4,2,0,5,Low,0,0,0,0,0,0,1,1,0,2,Low,1
+21.0,1,Duke University,Arts,1,3.65,No,0,0,1,0,0,0,0,1,Low,1,1,0,0,3,4,3,4,1,0,5,Low,0,0,0,1,0,0,0,2,3,6,Low,0
+20.0,1,Duke University,Engineering,2,3.09,No,1,2,2,0,1,2,0,8,Low,3,1,1,2,2,4,1,2,0,1,15,Low,1,2,2,0,2,0,2,0,1,10,Low,0
+19.0,0,UNC Chapel Hill,Psychology,2,3.35,No,0,1,1,0,2,0,1,5,Low,1,2,1,0,4,3,4,4,1,2,8,Low,0,2,2,1,0,1,0,1,1,8,Low,0
+19.0,0,NC State University,Business,2,3.48,No,1,1,0,2,0,2,1,7,Low,1,0,0,1,3,3,2,4,1,2,9,Low,1,0,1,0,1,1,0,1,1,6,Low,0
+19.0,0,NC State University,Engineering,2,2.14,No,2,4,4,3,3,4,2,22,Medium,4,3,4,2,1,0,2,0,3,3,32,Medium,2,3,2,2,4,2,4,4,3,26,Medium,0
+20.0,1,NC State University,Computer Science,4,3.84,No,1,0,0,0,0,0,0,1,Low,1,2,0,2,4,4,4,2,1,0,8,Low,0,0,0,0,0,0,0,1,0,1,Low,0
+21.0,0,NC State University,Computer Science,3,3.08,No,2,1,2,0,2,2,2,11,Low,0,1,0,0,3,2,4,2,2,0,8,Low,4,0,0,2,2,2,2,0,2,14,Low,0
+21.0,0,UNC Chapel Hill,Business,3,2.95,No,1,3,1,1,3,1,2,12,Low,0,1,1,1,3,2,3,1,0,2,12,Low,0,1,0,4,3,1,0,1,0,10,Low,0
+19.0,0,NC State University,Psychology,2,3.33,No,0,2,1,2,1,2,0,8,Low,2,1,0,1,2,4,4,3,1,1,9,Low,1,1,1,0,0,0,1,1,0,5,Low,0
+22.0,1,Wake Forest,Business,4,2.91,Yes,1,4,1,2,2,3,1,14,Low,1,1,2,3,2,4,2,4,1,1,13,Low,0,1,1,3,2,1,0,0,3,11,Low,1
+21.0,1,NC State University,Business,4,2.5,Yes,2,2,3,2,3,3,2,17,Low,2,2,4,1,1,1,1,1,3,2,26,Medium,2,4,3,3,2,3,4,2,2,25,Medium,1
+21.0,0,NC State University,Computer Science,4,2.86,No,1,2,2,2,0,3,2,12,Low,1,1,2,4,2,4,3,2,3,1,17,Low,2,1,3,1,2,2,0,2,1,14,Low,0
+21.0,0,UNC Chapel Hill,Arts,1,3.3,No,0,0,0,2,1,0,3,6,Low,0,0,0,2,2,2,3,3,1,1,10,Low,2,1,0,2,0,0,1,1,2,9,Low,0
+20.0,1,UNC Chapel Hill,Psychology,3,2.13,No,4,4,4,3,3,3,3,24,Medium,2,4,3,4,1,1,1,1,4,1,30,Medium,3,4,2,4,3,3,4,2,2,27,Medium,0
+19.0,0,Duke University,Engineering,1,2.58,Yes,3,2,2,2,3,2,1,15,Low,4,3,2,1,2,1,3,1,2,1,22,Medium,3,4,1,2,3,4,3,4,1,25,Medium,1
+20.0,0,Duke University,Arts,2,2.04,No,3,4,4,4,3,4,4,26,Medium,3,4,4,4,0,1,1,1,4,3,35,High,4,3,3,4,2,2,4,4,4,30,Medium,0
+22.0,0,UNC Chapel Hill,Business,1,3.01,No,0,1,1,3,1,1,3,10,Low,1,2,2,1,3,2,3,3,2,3,16,Low,3,2,2,1,0,0,1,2,1,12,Low,0
+19.0,0,NC State University,Business,3,3.15,No,1,0,2,0,1,2,1,7,Low,2,1,2,2,1,3,2,4,1,0,14,Low,1,2,1,0,0,2,3,0,0,9,Low,0
+19.0,0,Wake Forest,Psychology,3,2.21,No,3,3,2,4,4,3,2,21,Medium,4,2,3,2,0,1,1,1,4,3,31,Medium,2,3,2,4,2,3,4,3,4,27,Medium,0
+19.0,0,Wake Forest,Biology,1,2.82,No,2,0,1,2,2,1,3,11,Low,3,1,3,2,2,3,2,3,1,2,18,Medium,1,1,3,2,2,1,2,2,2,16,Low,0
+19.0,0,UNC Chapel Hill,Psychology,2,2.52,No,2,3,2,3,4,3,3,20,Medium,3,2,3,2,3,1,3,2,2,4,23,Medium,2,1,0,2,1,3,3,1,2,15,Low,0
+22.0,1,NC State University,Computer Science,2,2.55,No,3,1,3,2,3,3,2,17,Low,2,1,2,2,2,2,1,2,1,4,21,Medium,3,3,4,3,2,3,2,1,2,23,Medium,0
+21.0,0,UNC Chapel Hill,Engineering,2,2.55,Yes,4,2,4,2,1,3,3,19,Medium,2,2,4,3,2,3,0,2,3,2,25,Medium,1,2,2,3,3,0,1,3,3,18,Medium,1
+20.0,1,NC State University,Arts,1,3.76,No,1,0,0,1,0,1,1,4,Low,1,0,0,0,3,3,4,4,0,0,3,Low,0,1,0,0,0,0,1,2,1,5,Low,0
+19.0,1,NC State University,Computer Science,2,3.37,No,1,1,2,3,0,0,2,9,Low,0,3,0,2,2,3,4,3,2,0,11,Low,2,2,0,2,0,3,2,1,0,12,Low,0
+20.0,0,NC State University,Engineering,4,2.75,No,2,3,0,3,0,2,2,12,Low,2,0,3,0,3,2,2,1,3,2,18,Medium,2,2,4,2,2,3,1,3,3,22,Medium,0
+20.0,1,Duke University,Engineering,1,2.5,Yes,2,3,2,2,4,2,2,17,Low,3,2,4,3,1,0,1,1,2,2,29,Medium,2,1,1,2,3,3,2,2,3,19,Medium,1
+19.0,0,UNC Chapel Hill,Engineering,1,3.07,No,2,1,1,1,2,0,2,9,Low,2,3,1,4,2,3,3,1,0,2,19,Medium,3,2,1,2,1,3,1,1,2,16,Low,0
+20.0,1,UNC Chapel Hill,Business,2,2.71,No,2,2,1,2,3,2,1,13,Low,0,2,2,2,1,1,2,1,2,2,21,Medium,0,1,3,2,2,2,2,3,2,17,Low,0
+20.0,0,UNC Chapel Hill,Arts,4,3.58,Yes,0,0,0,0,0,0,1,1,Low,1,1,0,2,3,4,4,3,1,1,8,Low,0,0,0,1,3,1,0,2,0,7,Low,1
+21.0,0,Duke University,Computer Science,3,3.83,No,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,1,1,2,Low,0,0,0,0,1,1,1,1,0,4,Low,0
+21.0,0,NC State University,Computer Science,3,2.65,No,2,1,2,3,2,2,3,15,Low,3,2,3,1,2,0,1,2,3,4,27,Medium,2,2,2,3,4,3,1,1,3,21,Medium,0
+19.0,1,NC State University,Computer Science,2,3.01,No,0,2,2,0,2,2,1,9,Low,2,0,2,1,4,2,3,2,1,2,13,Low,2,3,1,3,1,1,1,1,3,16,Low,0
+20.0,1,Wake Forest,Biology,3,3.75,No,0,0,1,1,0,0,1,3,Low,1,0,0,1,4,4,3,4,0,1,4,Low,1,0,0,1,0,0,1,0,0,3,Low,0
+21.0,1,NC State University,Business,1,2.95,Yes,2,1,2,2,0,0,2,9,Low,3,1,3,1,2,2,3,4,1,1,15,Low,2,1,1,1,0,1,1,1,2,10,Low,1
+20.0,0,UNC Chapel Hill,Engineering,3,3.01,No,2,1,2,1,1,2,1,10,Low,3,1,1,1,2,3,3,2,1,3,16,Low,1,0,2,0,1,1,0,2,1,8,Low,0
+22.0,1,Duke University,Biology,4,3.75,Yes,0,1,0,0,0,0,1,2,Low,1,0,1,1,3,3,3,4,0,1,7,Low,0,1,0,2,2,0,0,1,0,6,Low,1
+21.0,0,Duke University,Biology,3,3.68,No,1,0,0,1,0,0,1,3,Low,0,2,0,0,4,4,3,4,0,1,4,Low,0,0,1,0,0,0,0,1,2,4,Low,0
+19.0,1,UNC Chapel Hill,Biology,4,3.5,No,0,0,1,1,1,1,1,5,Low,1,3,1,1,4,4,3,3,0,1,9,Low,1,1,0,0,2,0,2,2,1,9,Low,0
+19.0,0,Duke University,Biology,3,3.22,No,2,0,1,1,2,1,0,7,Low,2,1,1,1,4,2,4,3,1,0,9,Low,0,1,0,0,0,0,2,1,0,4,Low,0
+21.0,0,UNC Chapel Hill,Engineering,1,3.45,Yes,0,1,0,0,1,1,0,3,Low,1,0,1,1,3,4,4,4,0,0,4,Low,1,1,3,1,0,0,2,0,0,8,Low,1
+19.0,0,Wake Forest,Psychology,4,3.45,No,1,1,0,1,2,1,1,7,Low,0,0,0,0,4,3,3,3,1,1,5,Low,1,0,0,1,0,0,1,1,2,6,Low,0
+21.0,0,Duke University,Engineering,1,2.45,No,3,2,2,2,1,2,2,14,Low,3,3,4,3,2,3,1,1,3,4,29,Medium,2,3,1,1,3,3,4,4,3,24,Medium,0
+22.0,1,NC State University,Biology,3,2.25,No,2,3,3,1,3,4,4,20,Medium,3,4,2,2,3,0,2,2,3,3,26,Medium,4,3,1,3,4,4,2,3,2,26,Medium,0
+21.0,0,Duke University,Psychology,1,3.46,No,1,1,1,2,1,1,1,8,Low,0,0,0,2,4,2,3,2,0,1,8,Low,0,3,2,0,1,0,0,1,0,7,Low,0
+20.0,1,Wake Forest,Psychology,1,2.32,No,4,2,3,3,2,3,1,18,Medium,4,1,4,2,1,1,2,3,2,4,26,Medium,3,4,3,4,2,4,2,4,4,30,Medium,0
+21.0,0,NC State University,Psychology,2,2.25,No,1,3,2,3,2,4,3,18,Medium,3,4,4,4,0,1,0,0,4,3,37,High,3,3,3,2,3,4,3,3,4,28,Medium,0
+20.0,1,Duke University,Computer Science,2,3.8499999999999996,No,0,2,0,0,0,0,0,2,Low,2,1,0,0,4,3,3,4,0,1,6,Low,0,0,0,0,0,0,0,0,0,0,Low,0
+20.0,0,Duke University,Business,2,2.85,Yes,0,1,3,1,1,2,2,10,Low,0,0,1,2,1,0,2,2,0,0,14,Low,2,1,3,1,1,2,2,1,4,17,Low,1
+22.0,0,UNC Chapel Hill,Arts,3,2.65,Yes,1,1,3,2,3,4,2,16,Low,2,2,1,2,3,1,1,4,3,1,18,Medium,3,1,2,3,1,3,4,0,3,20,Medium,1
+20.0,1,NC State University,Arts,1,3.22,No,2,2,3,0,1,1,2,11,Low,1,1,0,0,2,1,3,3,2,0,11,Low,2,1,3,1,2,2,0,0,1,12,Low,0
+22.0,0,UNC Chapel Hill,Computer Science,1,2.35,No,2,2,4,4,2,3,4,21,Medium,4,3,0,1,1,2,1,1,3,2,24,Medium,4,2,3,2,1,4,3,2,2,23,Medium,0
+22.0,0,Wake Forest,Computer Science,3,2.47,No,2,2,3,2,2,3,3,17,Low,3,2,2,2,1,2,0,2,4,3,27,Medium,3,3,4,3,4,4,1,4,2,28,Medium,0
+19.0,1,NC State University,Computer Science,2,3.95,No,0,0,0,0,0,0,0,0,Low,0,1,0,0,4,4,4,4,0,0,1,Low,0,0,0,0,0,0,0,0,0,0,Low,0
+19.0,1,NC State University,Psychology,3,3.11,Yes,3,1,2,1,1,0,1,9,Low,0,1,1,1,2,2,3,4,0,2,10,Low,4,3,1,2,1,2,2,1,1,17,Low,1
+19.0,0,Wake Forest,Biology,3,2.86,No,0,3,2,3,2,0,2,12,Low,1,0,0,3,2,2,4,1,2,2,15,Low,0,3,1,4,3,3,2,1,3,20,Medium,0
+19.0,0,NC State University,Computer Science,4,3.39,Yes,0,1,0,1,1,0,0,3,Low,1,0,1,0,4,3,3,3,1,0,6,Low,2,1,1,1,2,0,1,1,2,11,Low,1
+19.0,1,UNC Chapel Hill,Business,3,2.34,Yes,4,4,3,2,4,2,3,22,Medium,2,4,2,2,1,0,0,0,2,2,29,Medium,3,3,3,3,4,3,2,4,3,28,Medium,1
+21.0,0,Duke University,Biology,2,2.82,No,3,1,3,3,1,2,2,15,Low,1,2,3,1,2,1,1,3,2,2,20,Medium,1,1,1,3,2,2,0,3,1,14,Low,0
+19.0,0,NC State University,Psychology,3,3.26,Yes,1,0,1,2,2,1,2,9,Low,1,1,2,1,3,4,3,3,0,0,8,Low,1,1,1,3,2,2,2,2,0,14,Low,1
+19.0,0,UNC Chapel Hill,Business,2,2.23,No,2,1,2,3,3,2,4,17,Low,2,3,4,4,2,1,1,0,4,2,31,Medium,3,4,4,4,1,4,4,2,4,30,Medium,0
+22.0,1,Duke University,Business,2,2.23,Yes,4,2,4,4,3,2,2,21,Medium,4,3,3,4,1,0,3,2,2,4,30,Medium,4,2,4,3,3,3,2,3,2,26,Medium,1
+19.0,1,Duke University,Business,4,2.29,No,4,4,2,4,4,3,4,25,Medium,4,2,4,4,1,2,2,2,2,4,29,Medium,2,1,4,4,2,1,4,4,4,26,Medium,0
+22.0,0,NC State University,Engineering,2,2.41,No,3,3,3,4,2,3,2,20,Medium,1,2,1,3,1,2,2,0,3,4,25,Medium,2,3,4,2,4,3,3,4,3,28,Medium,0
+19.0,0,Duke University,Business,4,3.79,Yes,0,0,0,0,0,0,0,0,Low,0,0,0,1,3,3,4,4,0,0,3,Low,0,0,0,1,0,0,0,0,0,1,Low,1
+19.0,0,NC State University,Psychology,4,3.15,No,1,1,1,2,0,2,1,8,Low,0,1,1,1,2,4,2,4,1,2,10,Low,3,0,2,0,2,0,0,1,0,8,Low,0
+21.0,1,NC State University,Biology,4,2.04,No,3,3,4,4,4,4,3,25,Medium,3,3,4,4,1,1,0,0,3,4,35,High,2,3,4,3,4,2,3,4,3,28,Medium,0
+21.0,0,Wake Forest,Business,4,2.14,No,3,3,2,4,4,4,3,23,Medium,4,4,3,3,1,0,1,2,3,3,32,Medium,4,2,2,0,2,4,3,2,3,22,Medium,0
+22.0,0,NC State University,Psychology,2,3.12,Yes,2,2,3,0,3,2,0,12,Low,1,1,1,0,2,3,3,3,0,2,10,Low,1,1,1,2,1,3,0,0,2,11,Low,1
+21.0,1,UNC Chapel Hill,Computer Science,2,3.38,No,1,0,0,1,2,3,0,7,Low,1,1,0,0,3,3,3,3,1,1,8,Low,1,0,2,0,2,1,0,1,0,7,Low,0
+22.0,0,NC State University,Engineering,3,2.25,No,2,3,3,2,3,3,3,19,Medium,2,4,4,3,3,2,1,4,4,4,27,Medium,4,3,2,4,2,3,2,2,3,25,Medium,0
+19.0,1,UNC Chapel Hill,Computer Science,2,3.07,No,2,2,2,2,1,1,1,11,Low,2,2,2,1,3,1,3,3,1,2,16,Low,3,1,0,2,1,3,2,1,1,14,Low,0
+19.0,0,NC State University,Computer Science,3,3.64,No,0,0,1,1,0,0,0,2,Low,0,1,1,2,4,4,4,3,1,1,7,Low,0,0,2,1,0,0,0,0,1,4,Low,0
+22.0,0,Wake Forest,Psychology,3,2.97,No,2,2,1,0,3,2,0,10,Low,2,2,1,2,1,2,2,2,3,2,21,Medium,2,1,3,0,1,2,1,1,1,12,Low,0
+22.0,0,Duke University,Arts,3,3.58,No,2,3,0,0,1,2,0,8,Low,0,0,0,1,4,3,3,3,0,0,4,Low,1,1,1,1,0,0,1,0,0,5,Low,0
+24.0,1,NC State University,Computer Science,2,2.37,No,2,3,3,4,2,2,3,19,Medium,2,3,2,2,1,2,1,2,3,4,26,Medium,4,2,3,4,2,3,4,2,3,27,Medium,0
+20.0,1,NC State University,Engineering,1,3.77,No,0,0,0,0,1,0,0,1,Low,0,1,0,0,3,4,4,3,2,0,5,Low,0,1,0,1,0,0,0,0,0,2,Low,0
+20.0,1,NC State University,Biology,2,2.15,No,3,3,4,4,2,4,3,23,Medium,4,4,2,2,0,0,2,1,4,4,33,Medium,4,4,3,4,3,2,3,1,4,28,Medium,0
+22.0,0,Duke University,Computer Science,1,3.61,No,0,0,1,1,1,1,1,5,Low,1,2,0,0,4,4,3,4,0,0,4,Low,1,0,2,0,0,0,1,1,0,5,Low,0
+19.0,1,NC State University,Business,4,2.41,No,3,3,3,3,3,2,3,20,Medium,4,1,2,3,1,1,2,2,3,4,27,Medium,4,3,3,2,2,4,2,0,1,21,Medium,0
+22.0,0,UNC Chapel Hill,Psychology,2,3.8499999999999996,No,2,0,0,0,0,0,0,2,Low,0,0,0,0,4,4,4,4,0,1,1,Low,0,0,2,1,0,1,0,0,0,4,Low,0
+22.0,0,Duke University,Business,1,3.08,Yes,0,1,1,0,1,2,1,6,Low,1,2,1,2,4,3,4,2,2,2,13,Low,1,1,0,0,1,1,1,2,2,9,Low,1
+20.0,1,NC State University,Computer Science,1,2.13,No,3,3,3,2,2,4,2,19,Medium,2,3,4,3,1,0,0,2,3,4,32,Medium,3,2,3,3,4,2,2,2,3,24,Medium,0
+22.0,0,Duke University,Engineering,3,2.15,No,4,4,2,4,3,3,3,23,Medium,3,4,3,3,1,2,1,1,2,4,30,Medium,2,3,3,1,4,2,3,4,3,25,Medium,0
+22.0,0,UNC Chapel Hill,Psychology,3,3.61,No,0,1,1,0,1,1,1,5,Low,0,0,0,2,4,3,4,4,0,0,3,Low,2,0,0,0,0,2,0,1,1,6,Low,0
+19.0,0,NC State University,Business,2,3.99,No,0,0,0,0,0,2,0,2,Low,1,0,0,0,4,4,4,4,0,0,1,Low,0,0,0,0,2,0,1,0,0,3,Low,0
+22.0,0,NC State University,Computer Science,1,2.64,No,1,2,3,2,3,3,3,17,Low,3,2,1,3,1,2,3,1,3,1,22,Medium,3,1,3,3,1,2,1,2,1,17,Low,0
+20.0,0,NC State University,Psychology,2,2.85,No,2,2,1,2,1,2,2,12,Low,3,0,2,1,2,2,2,3,1,2,16,Low,1,2,2,2,3,3,3,0,2,18,Medium,0
+22.0,1,UNC Chapel Hill,Computer Science,2,2.14,Yes,3,3,4,4,3,4,4,25,Medium,4,2,3,4,1,2,1,0,3,2,30,Medium,2,3,4,3,2,2,3,3,4,26,Medium,1
+19.0,0,UNC Chapel Hill,Psychology,3,2.93,No,0,1,1,1,1,1,1,6,Low,1,3,0,2,2,2,2,2,0,1,15,Low,1,1,2,0,1,3,2,2,3,15,Low,0
+22.0,1,Duke University,Computer Science,3,3.31,No,2,1,1,0,1,3,2,10,Low,1,2,2,1,4,2,2,3,2,2,15,Low,1,1,2,1,0,1,0,0,0,6,Low,0
+20.0,1,UNC Chapel Hill,Arts,2,2.02,No,4,3,4,4,3,4,3,25,Medium,4,4,3,1,0,0,2,0,4,4,34,Medium,4,2,4,3,3,2,4,4,4,30,Medium,0
+19.0,0,UNC Chapel Hill,Engineering,1,3.45,No,1,0,0,0,1,0,1,3,Low,0,0,1,1,4,3,3,4,0,1,5,Low,1,0,2,0,1,0,1,1,1,7,Low,0
+22.0,0,Duke University,Engineering,4,2.01,No,4,4,4,4,4,3,4,27,Medium,3,3,4,4,1,1,1,0,3,4,34,Medium,4,4,4,4,4,3,4,3,4,34,Medium,0
+19.0,0,UNC Chapel Hill,Computer Science,2,3.55,No,1,1,0,2,1,1,0,6,Low,0,0,1,1,3,3,3,3,1,0,7,Low,0,0,1,0,0,1,1,2,0,5,Low,0
+19.0,1,NC State University,Engineering,3,2.13,Yes,3,2,4,3,3,4,3,22,Medium,4,4,3,4,0,0,1,1,4,4,37,High,4,2,2,3,2,3,3,1,1,21,Medium,1
+22.0,0,NC State University,Biology,1,3.17,Yes,2,2,1,1,0,1,2,9,Low,0,1,1,0,2,3,3,1,2,1,12,Low,3,1,1,0,0,0,1,0,2,8,Low,1
+22.0,1,NC State University,Arts,2,3.5,Yes,0,1,0,0,0,1,0,2,Low,2,0,1,0,3,4,4,4,0,1,5,Low,1,0,1,0,0,0,0,0,0,2,Low,1
+21.0,0,NC State University,Engineering,1,3.04,No,2,1,1,1,1,0,0,6,Low,1,1,2,2,3,3,4,3,0,1,10,Low,2,2,2,0,1,0,2,3,0,12,Low,0
+21.0,1,Duke University,Engineering,3,3.45,No,1,0,1,1,0,1,2,6,Low,0,0,0,1,4,4,3,4,0,0,2,Low,1,1,1,1,0,1,2,1,0,8,Low,0
+20.0,0,Wake Forest,Psychology,4,3.48,No,1,0,0,0,0,1,0,2,Low,2,2,0,2,2,4,3,3,1,1,12,Low,0,0,1,0,1,0,2,1,1,6,Low,0
+19.0,0,NC State University,Biology,2,2.65,No,1,2,2,2,1,4,2,14,Low,3,2,0,2,0,1,1,3,2,2,22,Medium,1,3,2,2,4,2,3,3,2,22,Medium,0
+19.0,1,NC State University,Business,1,3.5,No,1,1,0,1,0,0,1,4,Low,2,0,1,1,2,4,4,3,1,1,9,Low,1,0,0,0,0,1,0,1,1,4,Low,0
+21.0,1,Duke University,Engineering,1,3.52,No,0,0,0,0,0,0,0,0,Low,1,0,0,0,4,4,4,4,0,0,1,Low,0,2,1,2,0,0,0,1,1,7,Low,0
+22.0,0,Wake Forest,Engineering,2,3.31,No,0,0,2,2,1,0,0,5,Low,3,1,2,0,4,2,4,4,0,1,9,Low,1,1,3,1,1,1,2,1,0,11,Low,0
+22.0,1,NC State University,Psychology,1,3.16,No,1,1,1,1,0,0,1,5,Low,2,1,2,0,4,4,2,2,0,2,11,Low,3,0,2,0,1,2,0,1,1,10,Low,0
+22.0,0,Duke University,Computer Science,1,2.31,No,2,3,4,4,3,4,1,21,Medium,3,2,4,3,3,1,2,1,4,2,27,Medium,4,2,3,2,4,2,3,2,2,24,Medium,0
+19.0,1,NC State University,Business,4,3.43,No,2,1,1,0,2,2,0,8,Low,1,2,0,1,3,2,2,4,1,1,11,Low,2,1,2,1,0,1,0,1,0,8,Low,0
+20.0,1,NC State University,Engineering,2,2.65,Yes,3,2,1,2,3,2,2,15,Low,3,3,3,2,0,3,3,0,4,3,28,Medium,2,2,2,1,4,0,2,2,1,16,Low,1
+19.0,0,Wake Forest,Psychology,2,2.48,No,4,4,3,3,4,4,2,24,Medium,2,3,2,1,2,3,1,2,3,2,21,Medium,2,2,2,0,3,3,3,3,3,21,Medium,0
+20.0,0,Wake Forest,Computer Science,4,3.05,Yes,0,0,2,1,2,2,0,7,Low,1,3,2,2,2,2,1,4,1,2,18,Medium,1,3,1,3,1,1,2,0,2,14,Low,1
+20.0,0,NC State University,Business,1,3.01,No,2,3,1,2,2,1,3,14,Low,1,2,0,1,1,1,2,3,3,2,18,Medium,1,1,1,2,1,0,0,0,1,7,Low,0
+22.0,1,Wake Forest,Engineering,4,2.35,No,2,3,4,4,2,3,3,21,Medium,1,2,3,3,2,3,1,2,3,4,24,Medium,4,3,2,3,2,3,3,4,4,28,Medium,0
+20.0,1,Duke University,Business,2,2.77,No,1,3,3,2,1,2,3,15,Low,2,1,0,4,0,2,3,1,2,1,20,Medium,3,3,3,1,3,3,0,2,2,20,Medium,0
+19.0,0,UNC Chapel Hill,Computer Science,4,3.32,Yes,0,1,2,1,0,0,1,5,Low,0,2,1,0,1,3,4,3,1,0,9,Low,1,1,0,1,0,0,2,1,1,7,Low,1
+19.0,0,Duke University,Business,3,2.54,No,3,3,2,2,3,3,2,18,Medium,2,3,3,2,2,3,1,1,0,2,21,Medium,4,1,2,2,2,1,2,1,1,16,Low,0
+22.0,1,Duke University,Business,4,2.53,Yes,2,2,2,2,4,2,3,17,Low,3,3,2,2,2,1,0,2,4,2,27,Medium,0,3,4,3,2,3,0,1,1,17,Low,1
+21.0,1,Duke University,Business,4,3.27,No,2,0,0,0,1,2,1,6,Low,1,0,0,2,2,2,3,3,1,1,11,Low,2,0,1,0,1,0,0,0,1,5,Low,0
+19.0,1,UNC Chapel Hill,Business,2,2.54,Yes,3,4,3,2,2,2,1,17,Low,4,3,3,1,2,2,3,2,3,1,22,Medium,1,4,3,4,2,2,2,2,3,23,Medium,1
+19.0,0,NC State University,Psychology,4,3.55,No,2,0,1,0,0,0,2,5,Low,0,0,0,2,4,2,4,4,0,2,6,Low,0,0,1,0,0,2,2,0,0,5,Low,0
+21.0,0,NC State University,Biology,2,3.35,No,0,1,0,2,1,0,0,4,Low,2,1,0,1,2,2,4,2,1,2,13,Low,0,4,0,2,0,1,1,2,2,12,Low,0
+19.0,0,NC State University,Engineering,2,3.45,No,2,2,1,1,1,1,0,8,Low,1,2,1,1,2,3,4,3,0,1,10,Low,1,2,2,1,1,0,1,1,1,10,Low,0
+22.0,1,UNC Chapel Hill,Biology,2,3.56,Yes,1,0,1,0,0,1,1,4,Low,0,0,3,0,3,4,2,3,1,1,9,Low,1,0,1,0,0,0,2,2,0,6,Low,1
+21.0,0,NC State University,Engineering,3,2.38,Yes,2,3,3,3,3,2,2,18,Medium,4,1,4,2,2,2,1,1,2,1,24,Medium,4,3,4,3,3,3,3,3,3,29,Medium,1
+19.0,1,UNC Chapel Hill,Computer Science,1,3.55,No,1,0,1,0,0,0,0,2,Low,0,0,1,1,4,4,3,3,1,3,8,Low,0,1,0,1,1,1,1,0,3,8,Low,0
+19.0,0,Wake Forest,Computer Science,3,2.86,No,2,2,2,1,2,2,0,11,Low,1,3,2,1,2,2,3,2,2,1,17,Low,2,3,2,3,2,0,2,3,1,18,Medium,0
+24.0,1,NC State University,Engineering,3,2.75,No,2,2,3,2,2,1,3,15,Low,1,2,2,2,2,2,3,2,2,2,18,Medium,2,2,2,2,2,2,1,0,3,16,Low,0
+20.0,1,UNC Chapel Hill,Psychology,4,3.8499999999999996,Yes,0,0,0,1,0,0,0,1,Low,0,0,0,0,4,4,3,3,0,0,2,Low,0,1,0,0,0,1,1,0,0,3,Low,1
+20.0,1,Duke University,Psychology,4,3.25,No,0,0,2,1,1,1,1,6,Low,1,1,0,0,2,2,3,4,0,1,8,Low,0,1,0,1,1,3,0,0,2,8,Low,0
+22.0,0,UNC Chapel Hill,Psychology,2,3.45,Yes,2,2,2,1,0,0,1,8,Low,1,1,0,3,3,3,4,4,0,0,7,Low,0,0,1,2,2,1,2,3,2,13,Low,1
+22.0,0,NC State University,Business,2,3.8,Yes,0,1,1,0,1,0,0,3,Low,0,0,0,0,3,4,4,4,0,0,1,Low,1,0,0,1,0,0,0,1,0,3,Low,1
+24.0,0,UNC Chapel Hill,Engineering,2,2.65,No,3,2,1,3,3,1,2,15,Low,3,2,1,3,3,1,3,2,3,2,21,Medium,3,3,3,3,1,0,3,1,3,20,Medium,0
+22.0,1,UNC Chapel Hill,Computer Science,1,3.99,No,0,0,0,0,0,0,0,0,Low,0,0,0,1,4,3,4,4,0,0,2,Low,0,0,0,0,2,2,1,0,2,7,Low,0
+20.0,1,Wake Forest,Engineering,1,3.69,Yes,0,0,0,0,0,2,0,2,Low,0,0,0,0,3,4,3,3,1,0,4,Low,0,0,0,1,2,0,0,0,0,3,Low,1
+19.0,1,UNC Chapel Hill,Engineering,2,3.25,Yes,2,2,1,1,1,0,1,8,Low,1,0,2,3,3,3,3,3,1,1,12,Low,3,2,2,2,1,0,1,2,2,15,Low,1
+22.0,1,Duke University,Computer Science,2,2.45,Yes,2,2,3,2,3,3,2,17,Low,0,2,4,0,0,3,1,0,2,1,21,Medium,3,1,2,2,4,2,3,3,2,22,Medium,1
+21.0,1,Duke University,Computer Science,4,2.65,No,2,2,2,2,2,2,2,14,Low,3,2,3,2,1,1,1,2,1,2,24,Medium,2,3,1,1,0,4,2,1,2,16,Low,0
+20.0,0,UNC Chapel Hill,Business,3,3.61,No,0,1,0,0,1,1,1,4,Low,0,0,0,0,2,4,4,4,0,1,3,Low,1,0,2,0,0,2,2,0,0,7,Low,0
+22.0,1,Duke University,Psychology,2,4.0,Yes,0,0,0,2,1,0,0,3,Low,0,0,0,0,4,4,3,3,0,2,4,Low,0,1,0,0,0,0,0,0,0,1,Low,1
+19.0,0,NC State University,Arts,3,2.35,Yes,3,4,4,3,4,3,2,23,Medium,4,2,1,3,0,2,2,0,3,3,28,Medium,2,1,4,2,3,4,2,4,4,26,Medium,1
+20.0,0,Wake Forest,Arts,1,2.26,No,3,2,3,2,3,2,4,19,Medium,2,3,2,3,1,3,1,2,3,2,24,Medium,3,4,3,2,2,3,2,3,3,25,Medium,0
+19.0,1,UNC Chapel Hill,Business,2,2.85,No,2,3,2,2,1,2,2,14,Low,3,3,1,2,2,3,2,2,2,1,19,Medium,1,2,4,4,0,1,1,1,3,17,Low,0
+20.0,0,UNC Chapel Hill,Engineering,3,3.13,No,2,1,1,2,0,0,1,7,Low,1,0,1,0,2,2,3,2,2,1,12,Low,2,2,1,1,2,3,1,2,3,17,Low,0
+19.0,0,NC State University,Business,2,3.31,Yes,0,1,2,2,1,2,2,10,Low,2,1,0,0,2,2,3,3,1,1,11,Low,1,3,3,1,1,0,1,0,2,12,Low,1
+19.0,1,UNC Chapel Hill,Psychology,2,2.25,Yes,3,1,1,3,3,2,4,17,Low,3,4,3,4,0,2,1,1,3,4,33,Medium,3,4,3,2,4,4,3,4,2,29,Medium,1
+19.0,0,NC State University,Computer Science,4,3.25,No,2,1,1,0,1,1,0,6,Low,0,0,1,2,3,2,4,2,2,1,11,Low,0,1,0,0,0,2,0,4,0,7,Low,0
+21.0,1,UNC Chapel Hill,Engineering,4,2.08,No,4,3,3,4,3,3,3,23,Medium,4,4,3,4,0,1,2,2,4,4,34,Medium,3,4,4,3,2,4,4,3,3,30,Medium,0
+21.0,0,NC State University,Biology,3,3.24,Yes,0,1,1,0,1,1,0,4,Low,1,0,2,0,4,3,1,3,1,1,10,Low,2,1,1,2,0,3,0,2,2,13,Low,1
+21.0,0,UNC Chapel Hill,Engineering,3,3.25,No,1,1,2,1,0,1,1,7,Low,0,1,0,2,4,3,3,3,1,2,9,Low,1,1,0,1,1,3,1,0,0,8,Low,0
+22.0,0,Wake Forest,Business,3,3.17,Yes,0,2,0,1,0,1,1,5,Low,1,0,2,1,2,3,2,2,2,1,14,Low,1,0,0,2,2,1,2,1,2,11,Low,1
+20.0,0,NC State University,Business,1,3.98,No,0,0,0,0,0,0,0,0,Low,0,0,0,1,4,4,4,3,0,0,2,Low,0,0,0,0,0,0,0,0,0,0,Low,0
+19.0,1,Wake Forest,Computer Science,2,2.88,No,3,2,2,2,3,3,1,16,Low,3,4,1,3,2,3,3,1,3,4,25,Medium,3,0,2,1,4,0,2,2,3,17,Low,0
+22.0,0,Duke University,Engineering,1,2.78,Yes,1,1,3,1,2,1,0,9,Low,0,3,3,2,2,3,2,2,3,0,18,Medium,1,2,0,3,2,4,2,4,2,20,Medium,1
+19.0,1,UNC Chapel Hill,Engineering,2,3.35,No,0,0,0,1,1,2,1,5,Low,1,2,2,0,3,3,3,2,0,0,10,Low,1,1,2,0,1,0,1,0,2,8,Low,0
+22.0,0,UNC Chapel Hill,Computer Science,3,3.86,No,0,1,0,0,1,1,1,4,Low,0,0,0,1,4,2,4,4,0,0,3,Low,1,0,0,1,0,1,0,0,1,4,Low,0
+19.0,1,Duke University,Computer Science,1,3.06,No,0,1,2,1,1,1,1,7,Low,2,0,1,2,2,3,2,2,1,4,17,Low,3,2,0,2,2,1,1,0,3,14,Low,0
+22.0,1,UNC Chapel Hill,Biology,4,4.05,No,0,1,0,0,0,0,0,1,Low,1,0,0,0,4,3,4,3,0,1,4,Low,0,0,0,0,0,1,0,0,1,2,Low,0
+19.0,1,UNC Chapel Hill,Engineering,4,3.3,Yes,1,1,0,1,0,1,0,4,Low,1,2,1,0,2,1,3,2,0,2,14,Low,3,3,1,0,2,0,0,2,1,12,Low,1
+22.0,0,Duke University,Business,3,3.43,No,0,1,0,1,1,0,1,4,Low,0,0,1,0,2,3,4,3,1,0,6,Low,1,1,2,0,1,0,0,0,0,5,Low,0
+20.0,0,NC State University,Engineering,3,2.11,Yes,3,4,4,4,3,4,3,25,Medium,4,4,4,4,1,1,1,1,4,4,36,High,2,3,4,4,4,3,3,1,2,26,Medium,1
+24.0,0,UNC Chapel Hill,Arts,4,3.35,No,1,2,1,1,1,1,0,7,Low,1,1,2,2,3,4,3,4,2,1,11,Low,1,0,1,1,0,0,1,1,0,5,Low,0
+19.0,1,UNC Chapel Hill,Engineering,1,2.75,No,2,2,1,1,1,1,1,9,Low,2,4,1,1,3,2,3,2,2,3,19,Medium,2,2,2,0,2,3,2,2,1,16,Low,0
+21.0,0,UNC Chapel Hill,Engineering,4,2.33,No,3,3,1,3,3,2,3,18,Medium,3,2,3,2,2,2,2,2,2,3,23,Medium,3,4,3,3,3,3,4,4,3,30,Medium,0
+22.0,0,UNC Chapel Hill,Biology,1,3.38,Yes,0,1,1,1,2,2,1,8,Low,0,0,0,2,3,3,4,4,0,1,5,Low,1,2,0,0,1,1,0,3,0,8,Low,1
+20.0,1,Duke University,Biology,4,3.3,No,1,1,0,1,0,0,0,3,Low,0,1,1,0,2,2,4,4,0,1,7,Low,1,2,0,0,0,1,2,1,1,8,Low,0
+21.0,0,UNC Chapel Hill,Computer Science,2,2.55,No,2,3,1,2,2,2,2,14,Low,2,4,1,3,2,2,1,2,2,2,23,Medium,1,3,3,4,0,2,3,2,3,21,Medium,0
+21.0,1,NC State University,Biology,4,3.2,No,1,1,0,1,1,2,1,7,Low,2,0,1,1,2,3,4,3,1,2,11,Low,2,1,1,1,1,1,2,0,1,10,Low,0
+20.0,0,Duke University,Engineering,4,3.55,Yes,0,1,1,0,1,0,0,3,Low,0,0,0,2,4,4,4,3,0,1,4,Low,0,0,0,0,0,2,1,1,0,4,Low,1
+21.0,0,NC State University,Engineering,1,3.34,Yes,1,2,1,1,0,1,2,8,Low,1,1,0,0,3,3,3,4,2,1,8,Low,0,1,2,0,0,1,0,1,1,6,Low,1
+21.0,1,NC State University,Computer Science,2,2.34,No,2,3,3,4,1,3,2,18,Medium,3,2,2,4,1,1,2,0,2,4,29,Medium,3,3,3,1,4,1,1,2,2,20,Medium,0
+22.0,0,NC State University,Computer Science,4,3.65,No,0,0,1,0,1,1,0,3,Low,0,0,0,0,4,4,4,4,1,0,1,Low,2,1,0,0,0,0,1,1,0,5,Low,0
+19.0,1,NC State University,Psychology,2,3.4,Yes,0,0,1,1,1,1,0,4,Low,1,2,2,1,4,3,3,4,2,1,11,Low,0,1,0,2,0,1,0,1,2,7,Low,1
+19.0,0,UNC Chapel Hill,Engineering,4,3.61,No,0,0,2,0,0,0,2,4,Low,1,0,0,0,4,4,3,4,1,1,4,Low,1,2,1,0,0,2,0,0,0,6,Low,0
+22.0,0,NC State University,Engineering,3,3.07,No,2,2,0,1,1,1,2,9,Low,2,0,2,0,3,2,4,1,1,2,13,Low,2,3,2,1,0,2,0,0,3,13,Low,0
+22.0,1,Duke University,Psychology,2,2.8,No,2,2,2,2,3,2,1,14,Low,0,4,3,2,3,2,2,2,2,2,20,Medium,3,1,3,0,4,1,2,1,3,18,Medium,0
+20.0,1,NC State University,Psychology,2,3.25,Yes,2,1,0,2,2,0,2,9,Low,2,0,1,1,3,3,4,3,0,1,8,Low,1,0,0,0,2,3,3,0,0,9,Low,1
+21.0,1,NC State University,Computer Science,1,3.95,Yes,0,0,0,0,0,0,0,0,Low,0,0,0,0,4,4,4,4,0,0,0,Low,0,1,0,0,0,0,0,0,0,1,Low,1
+19.0,0,NC State University,Business,4,3.19,No,1,1,1,3,1,3,1,11,Low,2,2,2,0,2,2,3,3,1,2,15,Low,0,2,2,1,1,2,2,1,1,12,Low,0
+19.0,1,NC State University,Computer Science,2,2.1,Yes,4,4,4,3,3,3,3,24,Medium,4,3,3,4,0,0,1,0,3,3,35,High,3,2,4,4,3,2,3,3,4,28,Medium,1
+20.0,0,Duke University,Psychology,3,3.05,No,2,1,1,2,1,1,1,9,Low,1,1,1,2,2,2,3,3,0,2,13,Low,3,3,0,3,3,0,0,2,1,15,Low,0
+20.0,0,UNC Chapel Hill,Psychology,2,3.35,No,0,0,1,0,2,0,1,4,Low,1,1,0,1,3,2,4,4,0,2,8,Low,0,1,2,1,0,0,2,1,2,9,Low,0
+21.0,1,Duke University,Arts,3,3.77,No,0,1,1,0,0,1,0,3,Low,0,1,1,1,4,4,4,4,0,0,3,Low,1,0,0,0,1,0,0,0,1,3,Low,0
+19.0,0,Duke University,Computer Science,4,2.42,No,3,2,4,3,2,3,4,21,Medium,1,2,2,2,2,0,0,0,4,2,27,Medium,2,4,3,2,2,4,3,3,2,25,Medium,0
+24.0,1,NC State University,Computer Science,4,3.77,No,0,0,0,0,1,0,0,1,Low,1,1,0,0,4,3,4,3,0,1,5,Low,0,1,0,2,2,0,0,0,0,5,Low,0
+24.0,0,UNC Chapel Hill,Engineering,2,3.55,Yes,0,0,0,3,0,0,2,5,Low,0,0,0,2,3,4,4,4,0,1,4,Low,1,1,2,2,1,0,1,0,1,9,Low,1
