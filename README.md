@@ -302,6 +302,71 @@ Follow the interactive prompts to complete assessments.
 
 ---
 
+## 🌐 REST API
+
+### Start API Server
+```bash
+python api.py
+```
+
+Server runs at: `http://localhost:5000`
+
+### API Endpoints
+
+#### 1. Predict Mental Health
+```bash
+POST /predict
+```
+**Request:**
+```json
+{
+  "age": 20,
+  "gender": 1,
+  "cgpa": 3.5,
+  "scholarship": 1,
+  "academic_year": 2
+}
+```
+
+**Response:**
+```json
+{
+  "predictions": {
+    "anxiety": {"level": "Low", "confidence": 0.92},
+    "stress": {"level": "Low", "confidence": 0.89},
+    "depression": {"level": "Low", "confidence": 0.85}
+  },
+  "recommendations": ["Continue maintaining healthy habits"]
+}
+```
+
+#### 2. Complete Assessment
+```bash
+POST /assess
+```
+**Request:**
+```json
+{
+  "anxiety_responses": [2, 3, 1, 2, 3, 2, 1],
+  "stress_responses": [2, 2, 3, 2, 1, 3, 2, 1, 2, 3],
+  "depression_responses": [1, 2, 1, 2, 3, 2, 1, 0, 0]
+}
+```
+
+#### 3. Get Statistics
+```bash
+GET /stats
+```
+
+### Test API
+```bash
+python test_api.py
+```
+
+See `API_DOCUMENTATION.md` for complete API reference.
+
+---
+
 ## 📚 Literature Review
 
 This project is based on 10 research papers covering:
