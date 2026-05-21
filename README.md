@@ -1,5 +1,7 @@
 # AI and ML Driven Prediction of Student Mental Health
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue) ![Accuracy](https://img.shields.io/badge/Accuracy-81--85%25-green) ![License](https://img.shields.io/badge/License-Academic-lightgrey) ![Institution](https://img.shields.io/badge/Institution-NC_State-red)
+
 **Author:** Sakhi Patel  
 **Institution:** North Carolina State University  
 **Course:** Big Data Analysis Project  
@@ -21,10 +23,19 @@ This project leverages **Artificial Intelligence (AI)** and **Machine Learning (
 
 ---
 
+> [!WARNING]
+> This tool is for **educational and research purposes only**.
+> It does NOT provide clinical diagnosis and cannot replace professional
+> medical care. If you are experiencing a mental health crisis, please
+> contact the **988 Suicide & Crisis Lifeline** (call or text 988) or
+> your campus counseling center immediately.
+
+---
+
 ## 📊 Dataset
 
 ### Source
-Student mental health survey with 500 responses (synthetic data generated for research purposes)
+Student mental health survey with 500 responses (synthetic data generated for research purposes). Synthetic data was chosen to enable open sharing of the full codebase without privacy concerns; the pipeline is designed to work with real survey data by replacing the CSV in `data/`.
 
 ### Structure
 - **Total Columns:** 39
@@ -311,6 +322,14 @@ python api.py
 
 Server runs at: `http://localhost:5000`
 
+### API Quick Reference
+
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/predict` | POST | Predict stress/anxiety/depression from demographics |
+| `/assess` | POST | Score raw questionnaire responses |
+| `/stats` | GET | Return dataset summary statistics |
+
 ### API Endpoints
 
 #### 1. Predict Mental Health
@@ -458,7 +477,6 @@ LinkedIn: linkedin.com/in/sakhipatel20
 - **Models Trained:** 3
 - **Dataset Size:** 500 rows × 39 columns
 - **Accuracy:** 81-85%
-- **Development Time:** Academic semester project
 
 ---
 
